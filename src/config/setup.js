@@ -6,7 +6,7 @@ import * as Models from "../models/index.js";
 
 AdminJS.registerAdapter(AdminJSMongoose);
 //This line registers the Mongoose adapter with AdminJS, enabling it to interact with Mongoose models.
-
+//This sectoion define the data models that will be managed by the admin panel
 export const admin = new AdminJS({
   resources: [
     {
@@ -39,19 +39,14 @@ export const admin = new AdminJS({
     withMadeWithLove:false,
   },
   rootPath:'/admin'
+  //This line sets the root path for the admin panel to '/admin'.
 });
 
-export const buildAdminRouter =async(app)=>{
-    await AdminJSFastify.buldAuthenticatedRouter{
-        admin,
-        {
-
-        },
-        app,
-        {
-            store:session
-
-        }
-
-    }
+//This function builds an authenticated router for the admin panel.
+export const buildAdminRouter = async (app) => {
+    await AdminJSFastify.buildAuthenticatedRouter({
+        admin, // The admin instance to use for the router.
+        app, // The Fastify app to attach the router to.
+        store: session // The session store to use for authentication.
+    });
 }

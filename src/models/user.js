@@ -57,6 +57,7 @@ const adminSchema = new mongoose.Schema({
     isAvailable: {type: Boolean, default: false},
     currentOrder: {type: mongoose.Schema.Types.ObjectId, ref: "Order"},
     // this is the reference to the order that the admin is currently delivering
+    
 });
 
 
