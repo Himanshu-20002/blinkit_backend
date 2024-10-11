@@ -1,0 +1,45 @@
++---------------------+
+|       Order         |
++---------------------+
+| - orderId: String   |
+| - customer: ObjectId|
+| - deliveryPartner:  |
+|   ObjectId          |
+| - branch: ObjectId  |
+| - items:            |
+|   +-----------------+
+|   | Item            |
+|   +-----------------+
+|   | - id: ObjectId  |
+|   | - item: ObjectId|
+|   | - count: Number |
+|   +-----------------+
+| - deliveryLocation: |
+|   +-----------------+
+|   | Location        |
+|   +-----------------+
+|   | - latitude: Number |
+|   | - longitude: Number|
+|   | - address: String  |
+|   +-----------------+
+| - pickupLocation:   |
+|   +-----------------+
+|   | Location        |
+|   +-----------------+
+|   | - latitude: Number |
+|   | - longitude: Number|
+|   | - address: String  |
+|   +-----------------+
+| - deliveryPersonLocation: |
+|   +-----------------+
+|   | Location        |
+|   +-----------------+
+|   | - latitude: Number |
+|   | - longitude: Number|
+|   | - address: String  |
+|   +-----------------+
+| - status: String    |
+| - totalPrice: Number|
+| - createdAt: Date   |
+| - updatedAt: Date   |
++---------------------+

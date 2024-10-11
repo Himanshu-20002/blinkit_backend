@@ -35,15 +35,13 @@ const deliveryPartnerSchema = new mongoose.Schema({...userSchema.obj,
     role:{type:String,enum:["deliveryPartner"],default:"deliveryPartner"},
     liveLocation:{latitude:{type:Number},longitude:{type:Number}},
     address:{type:String,required:true},
-    branch:{type:mongoose.Schema.Types.ObjectId,ref:"Branch",},
+    branch:{type:mongoose.Schema.Types.ObjectId,ref:"Branch"},
     // thid is the reference to the branch where the delivery partner is working
     vehicleDetails:{type:String,required:true},
-    isActive:{type:Boolean,default:false},
-    isAvailable:{type:Boolean,default:false},
-    currentOrder:{type:mongoose.Schema.Types.ObjectId,ref:"Order"},
-    // this is the reference to the order that the delivery partner is currently delivering
-    deliveryHistory:{type:mongoose.Schema.Types.ObjectId,ref:"Order"},
-    // this is the reference to the order that the delivery partner has delivered
+    // currentOrder:{type:mongoose.Schema.Types.ObjectId,ref:"Order"},
+    // // this is the reference to the order that the delivery partner is currently delivering
+    // deliveryHistory:{type:mongoose.Schema.Types.ObjectId,ref:"Order"},
+    // // this is the reference to the order that the delivery partner has delivered
 });
 
 // Admin Schema
@@ -53,9 +51,7 @@ const adminSchema = new mongoose.Schema({
     password: {type: String, required: true},
     phone: {type: Number, required: true, unique: true},
     role: {type: String, enum: ["admin"], default: "admin"},
-    isActive: {type: Boolean, default: false},
-    isAvailable: {type: Boolean, default: false},
-    currentOrder: {type: mongoose.Schema.Types.ObjectId, ref: "Order"},
+    // currentOrder: {type: mongoose.Schema.Types.ObjectId, ref: "Order"},
     // this is the reference to the order that the admin is currently delivering
     
 });
