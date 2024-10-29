@@ -55,6 +55,7 @@ export const confirmOrder = async (req, reply) => {
     if (!deliveryPerson) {
       return reply.code(404).send({ message: "Delivery person not found" });
     }
+    console.log(orderId,"orderId for socket");
     const order = await Order.findById(orderId);
 
     if (!order) {
@@ -72,7 +73,8 @@ export const confirmOrder = async (req, reply) => {
       longitude: deliveryPersonLocation.longitude,
       address: deliveryPersonLocation.address || "",
     };
-    req.server.io.to(orderId).emit("orderConfirmed",orderId);
+    console.log(`Emitting orderConfirmed event for orderId: ${orderId}`);
+    req.server.io.to(orderId).emit("orderConfirmed",order);
     await order.save();
     return reply
       .code(200)
@@ -124,6 +126,7 @@ export const updateOrderStatus = async (req, reply) => {
 export const getOrders = async (req, reply) => {
   try {
     const { userId } = req.user;
+    console.log(userId,"userId");
     const { status, customerId, deliveryPartnerId, branchId } = req.query;
     let query = {};
     if (status) query.status = status;
@@ -143,7 +146,8 @@ export const getOrders = async (req, reply) => {
 export const getOrderById = async (req, reply) => {
   try {
     const { orderId } = req.params;
-    const order = await Order.findById(orderId).populate("customer branch items.item deliveryPartner");
+    console.log(orderId,"orderId");
+    const order = await Order.findOne({orderId:orderId}).populate("customer branch items.item deliveryPartner");
     if(!order){
       return reply.code(404).send({message:"Order not found"});
     }
@@ -155,3 +159,12 @@ export const getOrderById = async (req, reply) => {
   }
 };
 
+export const fetchCustomerOrders = async (req, reply) => {
+  try {
+    const { userId } = req.params;
+    const orders = await Order.find({ customer: userId }).populate("customer branch items.item deliveryPartner");
+    return reply.code(200).send({ orders: orders });
+  } catch (error) {
+    return reply.code(500).send({ message: "Internal server error", error: error.message });
+  }
+}

@@ -12,10 +12,10 @@ const start = async () => {
   const app = Fastify();
   app.register(fastifySocketIO,{
     cors:{
-      origin:["http://localhost:3000"]
+      origin:"*"
     },
     pingTimeout:10000,
-    pingInterval:30000,
+    pingInterval:5000,
     transports:["websocket"]
   })
   await registerRoutes(app);
@@ -31,15 +31,15 @@ const start = async () => {
       }
     });
 
-  app.ready(()=>{
+  app.ready().then(()=>{
     app.io.on("connection",(socket)=>{
-      console.log("User Connected",socket.id);
+      console.log("User Connected 🟢",socket.id);
       socket.on("joinRoom",(orderId)=>{
         socket.join(orderId);
-        console.log(`User ${socket.id} joined room ${orderId}`);
+        console.log(`User ${socket.id} joined room ✅️${orderId}`);
       })
       socket.on('disconnect',()=>{
-        console.log(`User ${socket.id} disconnected`);
+        console.log(`User ${socket.id} disconnected 🚩`);
       })
     })
   })

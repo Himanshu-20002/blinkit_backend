@@ -19,18 +19,18 @@ sessionStore.on('error',(error)=>{
 
 // Authenticating the admin user
 export const authenticate = async(email,password)=>{ 
-    if(email && password    ){
-        const user = await Admin.findOne({email})
-       if(!user){
-        return null
-       }
-       if(user.password === password){
-        return Promise.resolve({email:email ,password:password})
-       }else{
-        return Promise.resolve(null)
-       }
+    if(email && password){
+        // Check against the .env variables
+        const adminEmail = process.env.ADMIN_EMAIL;
+        const adminPassword = process.env.ADMIN_PASSWORD;
+
+        if(email === adminEmail && password === adminPassword){
+            return Promise.resolve({email:email, password:password});
+        } else {
+            return Promise.resolve(null);
+        }
     }
-    return Promise.resolve(null)
+    return Promise.resolve(null);
 }
 
 // Setting the port for the server
