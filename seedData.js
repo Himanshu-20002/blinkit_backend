@@ -39,7 +39,52 @@ export const categories = [
       image:
         "https://res.cloudinary.com/dponzgerb/image/upload/v1723444869/category/pfbuktnsxdub5njww7tj.png",
     },
-  ];
+    {
+      name: "Bakery & Biscuits",
+      image:
+        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661146/kgfdw6w87gkzhdf8xpks.png",
+    },
+    {
+      name: "Dairy, Bread & Eggs",
+      image:
+        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661148/texqfzig6tyflhbm5o5r.png",
+    },
+    {
+      name: "Cold Drinks & Juices",
+      image:
+        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661148/imubgdfqqulhd0ne5was.png",
+    },
+    {
+      name: "Organic & Healthy Living",
+      image:
+        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661149/sn0nhflysmtoh47kzw95.png",
+    },
+    {
+      name: "Pet Care",
+      image:
+        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661151/dda7nvawgrsqsmobnriw.png",
+    },
+    {
+      name: "Sauces & Spreads",
+      image:
+        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661153/jaydj4dhv6teyphtpzuu.png",
+    },
+    {
+      name: "Snacks & Munchies",
+      image:
+        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661153/gdczjsixswimaqa7dcoz.png",
+    },
+    {
+      name: "Sweet Tooth",
+      image:
+        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661154/jnzj1h6oimjauaktefgs.png",
+    },
+    {
+      name: "Tea, Coffee & Health Drink",
+      image:
+        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661155/sa0bnkfan8citzb2kclv.png",
+    },
+];
   
   export const products = [
     {
@@ -136,4 +181,21 @@ export const categories = [
       category: "Munchies",
     },
   ];
+  
+export const subcategories = [
+    {
+        name: "Dairy Products",
+        description: "Includes milk, cheese, and yogurt.",
+        image: "https://example.com/image1.png",
+        category: "CategoryID1" // Replace with actual category ID
+    },
+    {
+        name: "Fruits",
+        description: "Fresh and organic fruits.",
+        image: "https://example.com/image2.png",
+        category: "CategoryID2" //Replace with actual category ID
+    },
+    // Add more subcategories as needed
+    
+];
   

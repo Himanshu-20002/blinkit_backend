@@ -4,5 +4,5 @@ import Category from "./category.js";
 import Product from "./product.js";
 import Order from "./order.js";
 import Counter from "./counter.js";
-
-export{ Branch, Customer,DeliveryPartner,Admin,Category,Product,Order,Counter}
+import Subcategory from "./subcategory.js";
+export{ Branch, Customer,DeliveryPartner,Admin,Category,Product,Order,Counter,Subcategory}

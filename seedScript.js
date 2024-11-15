@@ -1,7 +1,8 @@
 import mongoose from "mongoose"
 import "dotenv/config.js";
-import {Product,Category} from "./src/models/index.js"
+import {Product,Category,Subcategory} from "./src/models/index.js"
 import {categories,products} from"./seedData.js"
+import { subcategories } from "./seedSubcategories.js";
 
 async function seedData(){
     try{
@@ -22,8 +23,9 @@ async function seedData(){
         await Product.insertMany(productWithCategoryIds)
         console.log("Data seeded successfully")
 
-       
-     
+        // Seed subcategories
+        await Subcategory.insertMany(subcategories);
+        console.log("Subcategories seeded successfully");
     }catch(error){
         console.log("Error seeding data",error)
     }finally{

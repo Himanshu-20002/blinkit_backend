@@ -7,6 +7,7 @@ AdminJS.registerAdapter(AdminJSMongoose);
 //This line registers the Mongoose adapter with AdminJS, enabling it to interact with Mongoose models.
 //This sectoion define the data models that will be managed by the admin panel
 import {dark,light,noSidebar} from "@adminjs/themes"
+
 export const admin = new AdminJS({
 
   resources: [
@@ -45,6 +46,13 @@ export const admin = new AdminJS({
     },
     {
       resource: Models.Counter,
+    },
+    {
+      resource: Models.Subcategory,
+      options: {
+        listProperties: ["name", "description", "category"],
+        filterProperties: ["name", "category"],
+      },
     },
   ],
   branding: {
