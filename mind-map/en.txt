@@ -1,0 +1,12 @@
+MONGO_URI=mongodb+srv://parttimehimanshu22:qZZvjkB4HvzIYA8U@clusture22.pql0n.mongodb.net/Blinkit?retryWrites=true&w=majority&appName=Clusture22
+COOKIE_PASSWORD=sieL67H7GbkzJ4XCoH0IHcmO1hGBSiG5
+ACCESS_TOKEN_SECRET=rsa_encrypted_secret
+REFRESH_TOKEN_SECRET=rsa_encrypted_refresh_secret
+
+
+ADMIN_EMAIL=admin@gmail.com
+ADMIN_PASSWORD=admin123
+
+ACCESS_TOKEN_SECRET=rsa_encrypted_secret
+REFRESH_TOKEN_SECRET=rsa_encrypted_refresh_secret
+
