@@ -1,6 +1,6 @@
 import { getAllCategories } from "../controllers/product/category.js";
-import { getProductByCategoryId } from "../controllers/product/product.js";
-import { getAllSubcategories, createSubcategory } from "../controllers/product/subcategory.js";
+import { getProductByCategoryId, getProductBySubCategoryId } from "../controllers/product/product.js";
+import { getAllSubcategories } from "../controllers/product/subcategory.js";
 
 export const categoryRoutes =  (fastify, options, done) => {
   fastify.get("/categories", getAllCategories);
@@ -9,12 +9,13 @@ export const categoryRoutes =  (fastify, options, done) => {
 
 export const productRoutes =  (fastify, options, done) => {
   fastify.get("/product/:categoryId", getProductByCategoryId);
+  fastify.get("/product/subcategory/:subCategoryId", getProductBySubCategoryId); 
   done();
 };
 
 export const subcategoryRoutes = (fastify,options,done) => {
     fastify.get("/subcategories", getAllSubcategories);
-    fastify.post("/subcategories", createSubcategory);
+    // fastify.post("/subcategories", createSubcategory);
     done();
 };
 

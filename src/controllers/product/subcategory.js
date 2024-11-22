@@ -9,12 +9,13 @@ export const getAllSubcategories = async (req, reply) => {
     }
 };
 
-export const createSubcategory = async (req, reply) => {
-    try {
-        const newSubcategory = new Subcategory(req.body);
-        await newSubcategory.save();
-        return reply.code(201).send(newSubcategory);
-    } catch (error) {
-        return reply.code(400).send({ message: "Error creating subcategory", error: error.message });
-    }
-};
+//Experimentinal feature
+// export const createSubcategory = async (req, reply) => {
+//     try {
+//         const newSubcategory = new Subcategory(req.body);
+//         await newSubcategory.save();
+//         return reply.code(201).send(newSubcategory);
+//     } catch (error) {
+//         return reply.code(400).send({ message: "Error creating subcategory", error: error.message });
+//     }
+// };

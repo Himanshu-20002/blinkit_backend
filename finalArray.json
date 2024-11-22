@@ -1,115 +1,4 @@
-export const categories = [
-    {
-      name: "Milk, Curd & Paneer",
-      image:
-        "https://res.cloudinary.com/dponzgerb/image/upload/v1723444869/category/cq7m7yxuttemyb4tkidp.png",
-    },
-    {
-      name: "Pharma & Wellness",
-      image:
-        "https://res.cloudinary.com/dponzgerb/image/upload/v1723444870/category/n438dcddfgrhyq9mck3z.png",
-    },
-    {
-      name: "Fruits & Vegetables",
-      image:
-        "https://res.cloudinary.com/dponzgerb/image/upload/v1723444869/category/uic8gcnbzknosdvva13o.png",
-    },
-    {
-      name: "Munchies",
-      image:
-        "https://res.cloudinary.com/dponzgerb/image/upload/v1723444869/category/vyakccm3axdyt8yei8wc.png",
-    },
-    {
-      name: "Home & Office",
-      image:
-        "https://res.cloudinary.com/dponzgerb/image/upload/v1723444869/category/diucqrlsuqympqtwdkip.png",
-    },
-    {
-      name: "Baby Care",
-      image:
-        "https://res.cloudinary.com/dponzgerb/image/upload/v1723444870/category/f6er254kgnmymlbguddd.png",
-    },
-    {
-      name: "Atta, Rice & Dal",
-      image:
-        "https://res.cloudinary.com/dponzgerb/image/upload/v1723444869/category/flyjbsigiuxsd4pbwpjb.png",
-    },
-    {
-      name: "Cleaning Essentials",
-      image:
-        "https://res.cloudinary.com/dponzgerb/image/upload/v1723444869/category/pfbuktnsxdub5njww7tj.png",
-    },
-    {
-      name: "Bakery & Biscuits",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661146/kgfdw6w87gkzhdf8xpks.png",
-    },
-    {
-      name: "Dairy, Bread & Eggs",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661148/texqfzig6tyflhbm5o5r.png",
-    },
-    {
-      name: "Cold Drinks & Juices",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661148/imubgdfqqulhd0ne5was.png",
-    },
-    {
-      name: "Organic & Healthy Living",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661149/sn0nhflysmtoh47kzw95.png",
-    },
-    {
-      name: "Pet Care",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661151/dda7nvawgrsqsmobnriw.png",
-    },
-    {
-      name: "Sauces & Spreads",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661153/jaydj4dhv6teyphtpzuu.png",
-    },
-    {
-      name: "Snacks & Munchies",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661153/gdczjsixswimaqa7dcoz.png",
-    },
-    {
-      name: "Sweet Tooth",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661154/jnzj1h6oimjauaktefgs.png",
-    },
-    {
-      name: "Tea, Coffee & Health Drink",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661155/sa0bnkfan8citzb2kclv.png",
-    },
-    {
-      name: "Personal Care",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661150/qdlybgxnxdkuv5lbfabm.png",
-    },
-    {
-      name: "Paan Corner",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731661150/p60vganpqc3xlswcc0ft.png",
-    },
-    {
-      name: "Breakfast & Instant Food",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731693550/e1etkh2l34lhsetwitgc.png", // Add an appropriate image URL
-  },
-  {
-      name: "Chicken, Meat & Fish",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731693550/snelifwtqoxbxbvkfevi.png", // Add an appropriate image URL
-  },
-  {
-      name: "Masala, Oil & More",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731693552/p9sifca70stufn2raog9.png", // Add an appropriate image URL
-  },
-
-];
-
-export const products = [
+[
   {
     "name": "Aashirvaad Superior MP Whole Wheat Atta",
     "subCategory": "Atta",
@@ -1886,7 +1775,7 @@ export const products = [
   },
   {
     "name": "Exo Anti Bacterial Ginger Twist Dishwash Bar",
-    "subCategory": "Dishwashing Bars & Tubs",
+    "subCategory": "Dishwahing Bars & Tubs",
     "category": "Cleaning Essentials",
     "sharedLink": "https://www.dropbox.com/scl/fi/fbgorz56ei8s4cw7ts7li/Product-Details.rtf?rlkey=6sikgsmxxkyuu8x91og2gz4l9&dl=0",
     "images": [
@@ -1900,7 +1789,7 @@ export const products = [
   },
   {
     "name": "SaveMore Dishwashing Tub + Heavy Duty Scrub Pad Combo",
-    "subCategory": "Dishwashing Bars & Tubs",
+    "subCategory": "Dishwahing Bars & Tubs",
     "category": "Cleaning Essentials",
     "sharedLink": "https://www.dropbox.com/scl/fi/nmpvl1kuphxhr1b6rclrw/Product-Details.rtf?rlkey=32gdiqcpwnrendu47p3v91n31&dl=0",
     "images": [
@@ -1915,7 +1804,7 @@ export const products = [
   },
   {
     "name": "Vim Lemon Dishwash Bar (Pack of 4)",
-    "subCategory": "Dishwashing Bars & Tubs",
+    "subCategory": "Dishwahing Bars & Tubs",
     "category": "Cleaning Essentials",
     "sharedLink": "https://www.dropbox.com/scl/fi/17ltfltgchrra9k4xc1z7/Product-Details.rtf?rlkey=zet2wbmjk02zx07rg5mgcxig1&dl=0",
     "images": [
@@ -1930,7 +1819,7 @@ export const products = [
   },
   {
     "name": "Koparo Clean Large Kitchen Sponge Wipe (18 x 20.5 cm)",
-    "subCategory": "Dishwashing Essentials",
+    "subCategory": "Dishwashing Accessories",
     "category": "Cleaning Essentials",
     "sharedLink": "https://www.dropbox.com/scl/fi/1epworblpf9prwt4euec2/Product-Details.rtf?rlkey=3ggvb5qtgihjfb8mh7x2h8d3g&dl=0",
     "images": [
@@ -1945,7 +1834,7 @@ export const products = [
   },
   {
     "name": "Scotch Brite Silver Sparks Scrub Pad",
-    "subCategory": "Dishwashing Essentials",
+    "subCategory": "Dishwashing Accessories",
     "category": "Cleaning Essentials",
     "sharedLink": "https://www.dropbox.com/scl/fi/n37egsand5mi9lbeo89zn/Product-Details.rtf?rlkey=heoghh3a8kw0nqdsy35qjpu7t&dl=0",
     "images": [
@@ -1961,7 +1850,7 @@ export const products = [
   },
   {
     "name": "Scotch Brite Stainless Steel Scrubber with 1 Scrub Pad",
-    "subCategory": "Dishwashing Essentials",
+    "subCategory": "Dishwashing Accessories",
     "category": "Cleaning Essentials",
     "sharedLink": "https://www.dropbox.com/scl/fi/4izv3i0cvgdny4e53galj/Product-Details.rtf?rlkey=0ugoa28wf4onn1ug8gz5nggij&dl=0",
     "images": [
@@ -2786,7 +2675,7 @@ export const products = [
   },
   {
     "name": "Maaza Mango Drink 600 ml",
-    "subCategory": "Mango Drinks",
+    "subCategory": "Mongo Drinks",
     "category": "Cold Drinks & Juices",
     "sharedLink": "https://www.dropbox.com/scl/fi/fjwt5an7i3zuyoy51x6ce/product-details.rtf?rlkey=lb2bi6oth6m0gqguamly50u24&dl=0",
     "images": [
@@ -2802,7 +2691,7 @@ export const products = [
   },
   {
     "name": "Raw Pressery Alphonso Mango Drink - Pack of 6",
-    "subCategory": "Mango Drinks",
+    "subCategory": "Mongo Drinks",
     "category": "Cold Drinks & Juices",
     "sharedLink": "https://www.dropbox.com/scl/fi/w3gbifqc5w0a4d1r36dkd/product-details.rtf?rlkey=q7qojgbh9ghflnng6o81qprww&dl=0",
     "images": [
@@ -2817,7 +2706,7 @@ export const products = [
   },
   {
     "name": "Slice Mango Drink (1.75 l)",
-    "subCategory": "Mango Drinks",
+    "subCategory": "Mongo Drinks",
     "category": "Cold Drinks & Juices",
     "sharedLink": "https://www.dropbox.com/scl/fi/l0vxku26oqb3s9kqhkgbq/product-details.rtf?rlkey=fbunnc57662gnhz9nvpbzk5sl&dl=0",
     "images": [
@@ -3021,7 +2910,7 @@ export const products = [
   },
   {
     "name": "Bisleri Packaged Water",
-    "subCategory": "Cold Coffee & Ice Tea",
+    "subCategory": "Water& Ice Cubes",
     "category": "Cold Drinks & Juices",
     "sharedLink": "https://www.dropbox.com/scl/fi/051nmn2sgns4o9yo9sotu/product-details.rtf?rlkey=0pwhjwjn8apof772voiff94n3&dl=0",
     "images": [
@@ -3034,7 +2923,7 @@ export const products = [
   },
   {
     "name": "Evocus Black Alkaline Water",
-    "subCategory": "Cold Coffee & Ice Tea",
+    "subCategory": "Water& Ice Cubes",
     "category": "Cold Drinks & Juices",
     "sharedLink": "https://www.dropbox.com/scl/fi/x94v7e1pxzckis97w7f3q/product-details.rtf?rlkey=ts524sef50743idrhlc9auvig&dl=0",
     "images": [
@@ -3047,7 +2936,7 @@ export const products = [
   },
   {
     "name": "Kinley Packaged Water",
-    "subCategory": "Cold Coffee & Ice Tea",
+    "subCategory": "Water& Ice Cubes",
     "category": "Cold Drinks & Juices",
     "sharedLink": "https://www.dropbox.com/scl/fi/muh3vrh3ly3hz9rgcggfy/product-details.rtf?rlkey=9r4431egi4m9o6xkuwuj5h1mm&dl=0",
     "images": [
@@ -4050,7 +3939,7 @@ export const products = [
   },
   {
     "name": "Amul Kool Badam Flavoured Milk",
-    "subCategory": "Milk",
+    "subCategory": "Lassi, Shakes & More",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/309q9xdlhd82u748wbxlm/product-details.rtf?rlkey=5m4u8a83mh9oprr3g743ldn0z&dl=0",
     "images": [
@@ -4064,7 +3953,7 @@ export const products = [
   },
   {
     "name": "Amul Kool Kesar Flavoured Milk",
-    "subCategory": "Milk",
+    "subCategory": "Lassi, Shakes & More",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/reuwalbla3vc0v7ttntfu/product-details.rtf?rlkey=ogj00ofa4d2f09o1ryyj7ew26&dl=0",
     "images": [
@@ -4078,7 +3967,7 @@ export const products = [
   },
   {
     "name": "Amul Kool Rose Flavoured Milk",
-    "subCategory": "Milk",
+    "subCategory": "Lassi, Shakes & More",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/x4jpvwaezlyzhp4ev05da/product-details.rtf?rlkey=pzd8s7wk62hgnrr5lez443psl&dl=0",
     "images": [
@@ -4092,7 +3981,7 @@ export const products = [
   },
   {
     "name": "Epigamia Origins Chocolate Milkshake",
-    "subCategory": "Milk",
+    "subCategory": "Lassi, Shakes & More",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/bjsp0g7fz4fpoa35s3g1s/product-details.rtf?rlkey=84lpdaee2iys20qyczx9m9x36&dl=0",
     "images": [
@@ -4107,7 +3996,7 @@ export const products = [
   },
   {
     "name": "Sunfeast Dark Fantasy Milkshake with Belgian Chocolate - Pack of 3",
-    "subCategory": "Milk",
+    "subCategory": "Lassi, Shakes & More",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/43x60tclaf0k3f03ae2cb/product-details.rtf?rlkey=axm4ffe7d27zf4kbs1e4xk26k&dl=0",
     "images": [
@@ -4124,7 +4013,7 @@ export const products = [
   },
   {
     "name": "Truly Desi Gir Cow A2 Salted Buttermilk - 250 ml",
-    "subCategory": "Milk",
+    "subCategory": "Lassi, Shakes & More",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/i6c6dedvsbl8zo6wkst1k/product-details.rtf?rlkey=vrz0ro6ejs72unqltktpj8x1h&dl=0",
     "images": [
@@ -4816,7 +4705,7 @@ export const products = [
   },
   {
     "name": "Godrej Yummiez Pepper & Herb Chicken Sausage (Frozen)",
-    "subCategory": "Sausage, Salami & Ham",
+    "subCategory": "Sausage Salami & Ham",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/x0ptq25ll0qlrno4wsuw4/product-details.rtf?rlkey=7jnkb15fdvmg5z8g84ndnbp08&dl=0",
     "images": [
@@ -4834,7 +4723,7 @@ export const products = [
   },
   {
     "name": "Meatzza Chicken Sausage (Frozen)",
-    "subCategory": "Sausage, Salami & Ham",
+    "subCategory": "Sausage Salami & Ham",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/k57xczqceyiiaojjliu79/product-details.rtf?rlkey=fae6xfvzv9gyy6ff03bg9f75f&dl=0",
     "images": [
@@ -4848,7 +4737,7 @@ export const products = [
   },
   {
     "name": "Meatzza Hot & Spicy Chicken Seekh Kebab (Frozen)",
-    "subCategory": "Sausage, Salami & Ham",
+    "subCategory": "Sausage Salami & Ham",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/zro18ohh2vgm8kmn39gdk/product-details.rtf?rlkey=w98joy8171axed7w4367i19h0&dl=0",
     "images": [
@@ -4863,7 +4752,7 @@ export const products = [
   },
   {
     "name": "Prasuma Chicken Chilli Salami (Frozen)",
-    "subCategory": "Sausage, Salami & Ham",
+    "subCategory": "Sausage Salami & Ham",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/cnfm64n5j14yq1euef4so/product-details.rtf?rlkey=d15ltynl12d1iv2dpulxejvwv&dl=0",
     "images": [
@@ -4877,7 +4766,7 @@ export const products = [
   },
   {
     "name": "Prasuma Chicken Ham",
-    "subCategory": "Sausage, Salami & Ham",
+    "subCategory": "Sausage Salami & Ham",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/y2kqmpiasehi0ifi239l1/product-details.rtf?rlkey=5mni695skkovp3kozj2xm5e8k&dl=0",
     "images": [
@@ -4894,7 +4783,7 @@ export const products = [
   },
   {
     "name": "Prasuma Pork Ham",
-    "subCategory": "Sausage, Salami & Ham",
+    "subCategory": "Sausage Salami & Ham",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/afz9o14u08a5li3lrm43t/product-details.rtf?rlkey=cwl67ydlazgml8udqd4cyk3cf&dl=0",
     "images": [
@@ -4910,7 +4799,7 @@ export const products = [
   },
   {
     "name": "Zorabian Spicy Chicken Sausage",
-    "subCategory": "Sausage, Salami & Ham",
+    "subCategory": "Sausage Salami & Ham",
     "category": "Dairy, Bread & Eggs",
     "sharedLink": "https://www.dropbox.com/scl/fi/lxdvcls7q914z5hk65otf/product-details.rtf?rlkey=ohjth92dphatm1zqimooo2u19&dl=0",
     "images": [
@@ -4971,7 +4860,7 @@ export const products = [
   },
   {
     "name": "Combo of 3 - Lemon 6 pieces (150 g - 220 g) + Valencia Orange 3 pieces (450 g - 550 g) + Royal Gala Apple 2 pieces (240 g - 340 g)",
-    "subCategory": "Combo & Recipes",
+    "subCategory": "Combo & Receipes",
     "category": "Fruits & Vegetables",
     "sharedLink": "https://www.dropbox.com/scl/fi/ll38v5nkk7myxzske1vt7/product-details.rtf?rlkey=b77q07ea3ytxefd5snrdmpmg1&dl=0",
     "images": [
@@ -4986,7 +4875,7 @@ export const products = [
   },
   {
     "name": "Combo of 3 - Onion 1 kg + Potato 1 kg + Desi Tomato 500 g",
-    "subCategory": "Combo & Recipes",
+    "subCategory": "Combo & Receipes",
     "category": "Fruits & Vegetables",
     "sharedLink": "https://www.dropbox.com/scl/fi/xv2n3mpu3tdhsw2zt41vf/product-details.rtf?rlkey=cerchprjjtzh437sjpfcns0di&dl=0",
     "images": [
@@ -5001,7 +4890,7 @@ export const products = [
   },
   {
     "name": "Pooja Flower Mix",
-    "subCategory": "Combo & Recipes",
+    "subCategory": "Combo & Receipes",
     "category": "Fruits & Vegetables",
     "sharedLink": "https://www.dropbox.com/scl/fi/8sr9380ho1ssclucstwv6/product-details.rtf?rlkey=684m4pc4de0rambwqdi84ku0w&dl=0",
     "images": [
@@ -5915,7 +5804,7 @@ export const products = [
   },
   {
     "name": "Goldmedal I-Link 16A 3 Pin Multi Plug",
-    "subCategory": "Electronic Accessories",
+    "subCategory": "Electonic Accessories",
     "category": "Home & Office",
     "sharedLink": "https://www.dropbox.com/scl/fi/y6yi3n3vgdvvaul526kf1/Product-Details.rtf?rlkey=slrty6w9e7zhholcl028xvgx7&dl=0",
     "images": [
@@ -5930,7 +5819,7 @@ export const products = [
   },
   {
     "name": "Goldmedal Krysta 2 Pin Extension Cord With 5M Extension Cable (5 m)",
-    "subCategory": "Electronic Accessories",
+    "subCategory": "Electonic Accessories",
     "category": "Home & Office",
     "sharedLink": "https://www.dropbox.com/scl/fi/oeziyj63ia166soahp8ws/product-details.rtf?rlkey=rmgbey4c4vfyqtt9efddiqfrz&dl=0",
     "images": [
@@ -5946,7 +5835,7 @@ export const products = [
   },
   {
     "name": "SanDisk iXpand Flip 256 GB Flash Drive (Green)",
-    "subCategory": "Electronic Accessories",
+    "subCategory": "Electonic Accessories",
     "category": "Home & Office",
     "sharedLink": "https://www.dropbox.com/scl/fi/qu2tpqh91t28944efuff6/product-details.rtf?rlkey=cyf8zdntj1t1sjzd9j4xssmgt&dl=0",
     "images": [
@@ -5962,7 +5851,7 @@ export const products = [
   },
   {
     "name": "TP-LINK Nano Wireless Wi-Fi USB Adapter (150Mbps)",
-    "subCategory": "Electronic Accessories",
+    "subCategory": "Electonic Accessories",
     "category": "Home & Office",
     "sharedLink": "https://www.dropbox.com/scl/fi/tjycntrdswusrf66mrkvk/product-details.rtf?rlkey=7utpe6jykq1ec4lh4zpzpffmo&dl=0",
     "images": [
@@ -6334,7 +6223,7 @@ export const products = [
   },
   {
     "name": "3M Attachment Tape",
-    "subCategory": "Machine & Car Care",
+    "subCategory": "Machine & Care",
     "category": "Home & Office",
     "sharedLink": "https://www.dropbox.com/scl/fi/0y7ii3dl0odgc8g9zjier/Product-Details.rtf?rlkey=coh8xp0spdm9c28jgm4b4l4ce&dl=0",
     "images": [
@@ -6349,7 +6238,7 @@ export const products = [
   },
   {
     "name": "3M Car Shampoo",
-    "subCategory": "Machine & Car Care",
+    "subCategory": "Machine & Care",
     "category": "Home & Office",
     "sharedLink": "https://www.dropbox.com/scl/fi/f1h5z88y2ps4zbotkyhyg/Product-Details.rtf?rlkey=nmnvwbar99ojzlakb4jtd01uq&dl=0",
     "images": [
@@ -6362,7 +6251,7 @@ export const products = [
   },
   {
     "name": "Motomax Dashboard Car Polish",
-    "subCategory": "Machine & Car Care",
+    "subCategory": "Machine & Care",
     "category": "Home & Office",
     "sharedLink": "https://www.dropbox.com/scl/fi/p22o42urxqt4eobxfhc9x/Product-Details.rtf?rlkey=mtcbn9nsn6tv6andyky6iie9x&dl=0",
     "images": [
@@ -7092,7 +6981,7 @@ export const products = [
   },
   {
     "name": "Catch Cumin Seeds  Jeera Seeds",
-    "subCategory": "Powdered Spices",
+    "subCategory": "Whole Spices",
     "category": "Masala, Oil & More",
     "sharedLink": "https://www.dropbox.com/scl/fi/udtrebq3ufnotxqyrm0dh/Product-Details.rtf?rlkey=g9859jej88iiw06j54zc67y9j&dl=0",
     "images": [
@@ -7108,7 +6997,7 @@ export const products = [
   },
   {
     "name": "Organic Tattva Organic Ajwain Seeds",
-    "subCategory": "Powdered Spices",
+    "subCategory": "Whole Spices",
     "category": "Masala, Oil & More",
     "sharedLink": "https://www.dropbox.com/scl/fi/ouwyi2pxx5zqte14evrf0/Product-Details.rtf?rlkey=svb7fa2x04auojoqjumjxfe39&dl=0",
     "images": [
@@ -7122,7 +7011,7 @@ export const products = [
   },
   {
     "name": "Whole Farm Premium Green Cardamom Whole  Elaichi",
-    "subCategory": "Powdered Spices",
+    "subCategory": "Whole Spices",
     "category": "Masala, Oil & More",
     "sharedLink": "https://www.dropbox.com/scl/fi/41lg2c41bsfbmo64lzaz9/product-details.rtf?rlkey=w2wwx9oxjsdevjg3ag2lulyda&dl=0",
     "images": [
@@ -7134,7 +7023,7 @@ export const products = [
   },
   {
     "name": "Whole Farm Premium Red Chilli Whole",
-    "subCategory": "Powdered Spices",
+    "subCategory": "Whole Spices",
     "category": "Masala, Oil & More",
     "sharedLink": "https://www.dropbox.com/scl/fi/a3v89zyodnlwbc2vrhnm0/product-details.rtf?rlkey=o2pl65gc5854odh7fot014hg2&dl=0",
     "images": [
@@ -7148,7 +7037,7 @@ export const products = [
   },
   {
     "name": "Whole Farm Premium Saunf Seeds",
-    "subCategory": "Powdered Spices",
+    "subCategory": "Whole Spices",
     "category": "Masala, Oil & More",
     "sharedLink": "https://www.dropbox.com/scl/fi/8nq1wgxmf81ln8c518jjm/Product-Details.rtf?rlkey=10r883ht2nlv60rr608c84szc&dl=0",
     "images": [
@@ -7539,7 +7428,7 @@ export const products = [
   },
   {
     "name": "GO DESi Mints Meetha Paan",
-    "subCategory": "Paan",
+    "subCategory": "paan",
     "category": "Paan Corner",
     "sharedLink": "https://www.dropbox.com/scl/fi/fq9umaoeu99iob3o50ymh/product-details.rtf?rlkey=c4kr1f2rcljxfl5fbk2zlwh79&dl=0",
     "images": [
@@ -8461,7 +8350,7 @@ export const products = [
   },
   {
     "name": "Veeba Chef's Special Hot Sweet Tomato Chilli Sauce",
-    "subCategory": "Tomato & Chilli Ketchup",
+    "subCategory": "Tomoto & Chilli Ketchup",
     "category": "Sauces & Spreads",
     "sharedLink": "https://www.dropbox.com/scl/fi/3djz933q714k28qct1v0b/Product-Details.rtf?rlkey=a6o9k0dlvkzmdwyfvwxp94kzx&dl=0",
     "images": [
@@ -8476,7 +8365,7 @@ export const products = [
   },
   {
     "name": "Veeba Chef's Special Tomato Ketchup",
-    "subCategory": "Tomato & Chilli Ketchup",
+    "subCategory": "Tomoto & Chilli Ketchup",
     "category": "Sauces & Spreads",
     "sharedLink": "https://www.dropbox.com/scl/fi/4dql61u50ucoh4hbxymj1/Product-Details.rtf?rlkey=61ryuqiqs0hcx9ehp4cuyjov6&dl=0",
     "images": [
@@ -8492,7 +8381,7 @@ export const products = [
   },
   {
     "name": "Veeba Tomato Ketchup (No Added Sugar)",
-    "subCategory": "Tomato & Chilli Ketchup",
+    "subCategory": "Tomoto & Chilli Ketchup",
     "category": "Sauces & Spreads",
     "sharedLink": "https://www.dropbox.com/scl/fi/i2nfy2eek9jywxiym2lhf/product-details.rtf?rlkey=cgk0t6np0svvhx2qy3rpnh98n&dl=0",
     "images": [
@@ -9734,1171 +9623,3 @@ export const products = [
     "price": "₹53"
   }
 ]
-
-  export const subCategories = [
-    {
-      name: "Besan, Sooji & Maida",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731670972/wbbbzjyk38ibyut2jl5a.webp",
-        category:"Atta, Rice & Dal"
-    },
-    {
-      name: "Atta",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731670972/tie6vikwfkt9u5gn77or.png",
-        category:"Atta, Rice & Dal"
-    },
-    {
-      name: "Moong & Masoor",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731670973/sbyxgrf8kb2dkskaa3mg.webp",
-        category:"Atta, Rice & Dal"
-    },
-    {
-      name: "Millet & other Flours",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731670973/otjb6d4intscsnpvihh2.webp",
-        category:"Atta, Rice & Dal"
-    },
-    {
-      name: "Poha, Daliya & Other Grains",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731670974/arvyztfeawucjeuenmlj.png",
-        category:"Atta, Rice & Dal"
-    },
-    {
-      name: "Rajma, Chhole & Others",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731670975/ncfd8t6rp0uhmkmwdcvm.webp",
-        category:"Atta, Rice & Dal"
-    },
-    {
-      name: "Rice",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731670975/c7gdmd5yiztnwwndq6qi.webp",
-        category:"Atta, Rice & Dal"
-    },
-    {
-      name: "Toor, Urad & Chana",
-      image:
-        "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731670976/eke6c9gcnijceacsmlud.webp",
-        category:"Atta, Rice & Dal"
-    },
-     // ... new entries from upload results ...
-     {
-      name: "Baby Food",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683702/iyawfuleui963hl1f0xu.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Baby Accessories & Apparel",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683702/tqori5ub2dbpn2smsmzj.png",
-      category: "Baby Care"
-    },
-    {
-      name: "Baby Wipes",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683704/f5lj56xstm9cvj4iwamb.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Baby Gifting & Toys",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683703/joyz82lvovcg7ws25bip.png",
-      category: "Baby Care"
-    },
-    {
-      name: "Dispers & More",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683705/oks7dl2edhmldonym5jg.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Bathing Needs",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683705/p93gaubbpn0oxkltmwak.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Feeding",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683706/qiczkmclq1fr1bwqthnx.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Health & Safety",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683707/dxxg1nylleyk8yoctdaf.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Hygiene",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683707/minqkszdm2wyv1pj1hek.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Mom Care Needs",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683708/grynnoldypgw6dgh8nwj.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Nursing",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683708/byabd8k9zbivltaglhb4.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Oral & Nasal Care",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683709/rcs70ttqqge83r1ikuhp.webp",
-      category: "Baby Care"
-    },
-    {
-      name: "Skin & Hair Care",
-      image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731683709/tzffbtdoxcr8qdngqiim.webp",
-      category: "Baby Care"
-    },
-  // Adding new Bakery & Biscuits subcategories
-  {
-    name: "Bread & Pav",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684648/n5g4iwtlrea96xd0dxgb.webp",
-    category: "Bakery & Biscuits"
-  },
-  {
-    name: "Cakes & Rolls",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684648/uj8vpouzirtpzchlofjr.webp",
-    category: "Bakery & Biscuits"
-  },
-  {
-    name: "Cookies",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684649/livkhp60wadoqhzmhk3l.webp",
-    category: "Bakery & Biscuits"
-  },
-  {
-    name: "Cream Biscuits",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684649/wu8zvmgpu8wc9rfxo6vg.webp",
-    category: "Bakery & Biscuits"
-  },
-  {
-    name: "Glucose & Marie",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684650/mcdkonhipdh6bpqo0onl.webp",
-    category: "Bakery & Biscuits"
-  },
-  {
-    name: "Healthy & Digestive",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684650/l7dtiifvzjzcyipv7bix.webp",
-    category: "Bakery & Biscuits"
-  },
-  {
-    name: "Rusks & Wafers",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684651/lkku5kdkrcn9aylacer3.png",
-    category: "Bakery & Biscuits"
-  },
-  // ... existing subcategories ...
-
-  {
-    name: "Sweet & Salty",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684651/y3tsfongsn3icqda9ywz.webp",
-    category: "Bakery & Biscuits"
-  },
-  // Adding new Breakfast & Instant Food subcategories
-  {
-    name: "Herbs & Seasoning",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684984/pr7ms7m3iucqmo2wbi1r.webp",
-    category: "Breakfast & Instant Food"
-  },
-  {
-    name: "Dessert & Cake Mixes",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684984/op9xw9iyu1orfarwodq5.webp",
-    category: "Breakfast & Instant Food"
-  },
-  {
-    name: "Imported Noodles & Pasta",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684985/hk0lqtj7o2doga9zo2eq.webp",
-    category: "Breakfast & Instant Food"
-  },
-  {
-    name: "Noodles",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684986/lpryskukt1mv4i4wplrb.webp",
-    category: "Breakfast & Instant Food"
-  },
-  {
-    name: "Instant Mixes",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684985/aesbhyjrebrjfqz9cifw.webp",
-    category: "Breakfast & Instant Food"
-  },
-  {
-    name: "Ready to Cook & Eat",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684987/isz5diay8bli7hmsxbvn.webp",
-    category: "Breakfast & Instant Food"
-  },
-  {
-    name: "Pasta",
-    image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684987/qdwu0nrl5yh8h026cfpm.webp",
-    category: "Breakfast & Instant Food"
-  },
- // ... previous subcategories ...
-
- {
-  name: "Soup",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731684988/twjzmo4gzvonjifmqswu.webp",
-  category: "Breakfast & Instant Food"
-},
-// Adding new Chicken, Meat & Fish subcategories
-{
-  name: "Chicken",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685527/xmaj4rcqikcdqobbmtjy.png",
-  category: "Chicken, Meat & Fish"
-},
-{
-  name: "Eggs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685527/wsaisvjn4chuyzgccpmf.webp",
-  category: "Chicken, Meat & Fish"
-},
-{
-  name: "Fish & Seafood",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685528/lkcl4hf579s7vy96edip.png",
-  category: "Chicken, Meat & Fish"
-},
-// ... previous subcategories ...
-
-{
-  name: "Sausage, Salami & Ham",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685528/u1scefzd1cxa1oxxfl2f.webp",
-  category: "Chicken, Meat & Fish"
-},
-// Adding new Cleaning Essentials subcategories
-{
-  name: "Cleaning Tools",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685709/t9how52i0qguk6bnmem1.webp",
-  category: "Cleaning Essentials"
-},
-{
-  name: "Detergent Powder & Bars",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685710/sveudkailyf8sqi2c7jv.webp",
-  category: "Cleaning Essentials"
-},
-{
-  name: "Dishwashing Essentials",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685710/dz6hzilyguljqdrfhs84.webp",
-  category: "Cleaning Essentials"
-},
-{
-  name: "Dishwashing Bars & Tubs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685711/cul7bpvf1dligwkwsdgh.webp",
-  category: "Cleaning Essentials"
-},
-{
-  name: "Dishwashing Gels & Powder",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685711/kjdywod1xgqfkgiverc2.webp",
-  category: "Cleaning Essentials"
-},
-{
-  name: "Disinfectant & More",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685712/zbxeih6zm1aalrcoomoy.webp",
-  category: "Cleaning Essentials"
-},
-{
-  name: "Floor Cleaners & More",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685712/cedhshivohp2mogmdiyz.webp",
-  category: "Cleaning Essentials"
-},
-{
-  name: "Fresheners",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685713/pjdwpu6ka679viivcsst.webp",
-  category: "Cleaning Essentials"
-},
-{
-  name: "Garbage Bags",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685713/cejqoz0f3as7o4f9iaja.webp",
-  category: "Cleaning Essentials"
-},
-{
-  name: "Laundry Additives",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685714/s509jmw6fyjbog2a12nn.webp",
-  category: "Cleaning Essentials"
-},
-// ... previous subcategories ...
-
-{
-  name: "Liquid Detergents",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685714/imig524gkyf50qrjcbd2.webp",
-  category: "Cleaning Essentials"
-},
-// Adding new Cold Drinks & Juices subcategories
-{
-  name: "Beverages Gift Packs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685827/oavnpemakgb3jthurvsx.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Coconut Water",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685827/qa1c8oip18tywy1inwlq.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Cold Coffee & Ice Tea",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685828/gd2u05qr29rfesfprm4o.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Concentrates & Syrups",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685828/phrekdkfcggpocd6stbo.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Fruits Juices",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685829/avssj0luf4m6qwhiaeh5.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Energy Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685829/tvr5rmlwhowprmwq8rbl.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Herbal Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685830/nq46ckbner228z6oljjo.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Imported Beverages",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685830/ctrhngq4ta1tavjpnhvp.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Milk Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685831/xpb9lwentdagviyik0re.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Mango Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685831/tgvvebiusxxccnhadjl9.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Pure Juices",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685832/jgfn9a5npstvm13hvk0q.webp",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Soda & Mixers",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685832/rzxzm6pw6ta4z4gcbfs5.png",
-  category: "Cold Drinks & Juices"
-},
-{
-  name: "Soft Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685833/ysfz01ilzeb3rd3y5fw4.webp",
-  category: "Cold Drinks & Juices"
-},
-// ... previous subcategories ...
-
-{
-  name: "Cold Coffee & Ice Tea",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731685833/mleo64loqaiiz1rvsxfg.webp",
-  category: "Cold Drinks & Juices"
-},
-// Adding new Dairy, Bread & Eggs subcategories
-{
-  name: "Batter",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686052/ywjugulx3zxqyl7rlw81.png",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Bread & Pav",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686053/lyiprlsf3gv7kn8y84iu.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Breakfast Mixes",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686054/cmzyi420yb5cahkkrnd4.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Butter & More",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686054/gi33fem7wgethzykuslo.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Condensed milk",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686055/ywyqgn0kpypjzvnizrxr.png",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "cheese",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686055/wpm0itwstykpdaxffiop.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Cream & Whitener",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686056/mhi0jhmp0gwwsvds4rnf.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Curd & Yogurt",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686057/y4uaoshbdf71rqodebqi.png",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Eggs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686058/dz9ao8eoxhieixuvpgpw.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Energy Bar",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686058/e4qhqqum1pcjlnjijriy.png",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Flakes & Kids Cereals",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686058/egqdcxet0xg62ofoxgr8.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Honey & Chyanwanprash",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686059/elejc3mfnow8fkjsrh5a.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Milk Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686059/l1yup69tpvtg6yxpzqwd.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Milk",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686060/np759ft0eriownkfa8yy.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "muesli & Granola",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686060/mgeasuy3hpkzcixcause.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "oats",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686061/h37qipzhsc6b65ae17t4.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Paneer & Tofu",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686061/gcot8rgamsgjwjoj2red.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Peanut Butter",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686062/xtguyhlgftc4mh9crklw.webp",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Poha, Daliya & Other Grains",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686062/xedijnziog9uqwguzn61.png",
-  category: "Dairy, Bread & Eggs"
-},
-{
-  name: "Sausage, Salami & Ham",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686063/hxqv5k2j6fozho1u6oni.webp",
-  category: "Dairy, Bread & Eggs"
-},
-// ... previous subcategories ...
-
-{
-  name: "Vermicelli",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686063/vp8dmwcwok8spmmqlcz5.png",
-  category: "Dairy, Bread & Eggs"
-},
-// Adding new Fruits & Vegetables subcategories
-{
-  name: "Combo & Recipes",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686300/ljva83onwuaa1ak824gc.webp",
-  category: "Fruits & Vegetables"
-},
-{
-  name: "Certified Organic",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686300/gf4bg2ussidh4weppv8d.webp",
-  category: "Fruits & Vegetables"
-},
-{
-  name: "Fresh Fruits",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686301/mij2l4bybz8ehcqjxnwj.png",
-  category: "Fruits & Vegetables"
-},
-{
-  name: "Flowers & Leaves",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686301/wcjmf2ja4somlkluv38o.webp",
-  category: "Fruits & Vegetables"
-},
-{
-  name: "Fresh Juice & Dips",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686302/zki9pmwocavuohcmfh4n.webp",
-  category: "Fruits & Vegetables"
-},
-{
-  name: "Fresh Vegetables",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686302/rrowguwms573fkgjs4gc.png",
-  category: "Fruits & Vegetables"
-},
-{
-  name: "Freshly Cut & Sprouts",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686303/gnhumtga23flpv1p7ieg.webp",
-  category: "Fruits & Vegetables"
-},
-{
-  name: "Frozen Veg",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686303/dhgje7xojzrvu7eluhfl.webp",
-  category: "Fruits & Vegetables"
-},
-{
-  name: "Hydroponic",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686304/gyto9meednsxmdleydko.webp",
-  category: "Fruits & Vegetables"
-},
-// ... previous subcategories ...
-
-{
-  name: "Leafies & Herbs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731686304/ccmnhz9xpgtrpn8m3pp7.png",
-  category: "Fruits & Vegetables"
-},
-// Adding new Home & Office subcategories
-{
-  name: "Audio & Accessories",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687606/hl48ptmryamqj5kkpx7c.webp",
-  category: "Home & Office"
-},
-{
-  name: "Appliances",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687606/fp8jvjysjwocakmpccj2.webp",
-  category: "Home & Office"
-},
-{
-  name: "Bags",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687607/mh76qerlxozyhcprxh5k.webp",
-  category: "Home & Office"
-},
-{
-  name: "Bouquets",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687607/korhy8pv2kmqnqp7ryfw.webp",
-  category: "Home & Office"
-},
-{
-  name: "Candles & Diyas",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687608/vwbxkmuwbb7c6mp9xh8q.webp",
-  category: "Home & Office"
-},
-{
-  name: "Cleaning Tools",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687608/yhue1io0itnguicqx29f.webp",
-  category: "Home & Office"
-},
-{
-  name: "Clothing, Footwear & Accessories",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687609/xstoxm0e0zpl9l7clbeo.webp",
-  category: "Home & Office"
-},
-{
-  name: "Decorative Lights",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687609/yefcgxownxxcb2daxam7.png",
-  category: "Home & Office"
-},
-{
-  name: "Electrical Accessories",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687610/iptqjcv5yakg8ipwqzrf.webp",
-  category: "Home & Office"
-},
-{
-  name: "Electronic Accessories",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687610/lc5ta8golgf3at9putbl.webp",
-  category: "Home & Office"
-},
-{
-  name: "Electronic Gifting",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687611/trgvodu8gsfswauwfzcc.webp",
-  category: "Home & Office"
-},
-{
-  name: "Festive & Occasion Needs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687611/dhmcr0j3usbv7jprqpcj.webp",
-  category: "Home & Office"
-},
-{
-  name: "Festive Gifting",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687612/xsiqnijfhor5kh8s3erx.webp",
-  category: "Home & Office"
-},
-{
-  name: "Fresheners",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687613/tarb8aprngnmaq6ail70.webp",
-  category: "Home & Office"
-},
-{
-  name: "Garbage Bags",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687614/e6qiaszjhd8timmegdw1.webp",
-  category: "Home & Office"
-},
-{
-  name: "Home Decor",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687614/pycderupehrh2ml6dftg.webp",
-  category: "Home & Office"
-},
-{
-  name: "Home Furnishing",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687615/afomov2ncfxx3lb6usno.png",
-  category: "Home & Office"
-},
-{
-  name: "Kitchen & Dining Needs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687615/hwpzsvr6ckdbvhddhrr3.webp",
-  category: "Home & Office"
-},
-{
-  name: "Machine & Car Care",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687616/mdntj6ddos14f7inscjf.webp",
-  category: "Home & Office"
-},
-{
-  name: "Party Essentials",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687616/hcjmkonf3asfqu3decph.webp",
-  category: "Home & Office"
-},
-{
-  name: "Plants",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687617/x9nsrxoiguc6aa6vupox.webp",
-  category: "Home & Office"
-},
-{
-  name: "Precious Coins & Jewellery",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687618/bp7dpoxlnmsofbpxtubf.webp",
-  category: "Home & Office"
-},
-{
-  name: "Pooja Needs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687617/pj8mrlbjikwpsc4poafd.webp",
-  category: "Home & Office"
-},
-{
-  name: "Repellents",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687619/vmavsk6tqfpa9rxdvxew.webp",
-  category: "Home & Office"
-},
-{
-  name: "Shoe Care",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687620/gnyhaucej75iu9yikbqr.webp",
-  category: "Home & Office"
-},
-{
-  name: "Stationery Needs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687621/fh8vk5wezhlwgsj0nzle.webp",
-  category: "Home & Office"
-},
-{
-  name: "Winter Wear",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687622/boyi1ohqcxvqldssljyi.png",
-  category: "Home & Office"
-},// ... previous subcategories ...
-
-{
-  name: "Tissues & Disposables",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687622/g5uvcaiz77vv5wntpioh.webp",
-  category: "Home & Office"
-},
-// Adding new Masala, Oil & More subcategories
-{
-  name: "Dates & Seeds",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687788/j7t74f4znfpifj5rn7wh.webp",
-  category: "Masala, Oil & More"
-},
-{
-  name: "Dry Fruits Gift Packs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687788/dd9lz3mvktvf0oqnwtr9.webp",
-  category: "Masala, Oil & More"
-},
-{
-  name: "Dry Fruits",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687789/puymz6perakgzsesnh9i.webp",
-  category: "Masala, Oil & More"
-},
-{
-  name: "Ghee & Vanaspati",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687789/bxuu5zdn81yw5hx45nhm.webp",
-  category: "Masala, Oil & More"
-},
-{
-  name: "Papad & Fryums",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687790/vrfv3uz5bvsaasjghw4o.webp",
-  category: "Masala, Oil & More"
-},
-{
-  name: "Oil",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687790/to5ekfi532bjzfapluve.webp",
-  category: "Masala, Oil & More"
-},
-{
-  name: "Powdered Spices",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687791/drew0cjumj9elgr8iil2.webp",
-  category: "Masala, Oil & More"
-},
-{
-  name: "Salt, Sugar & Jaggery",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687791/qghslgupsbfz5ayeomn8.webp",
-  category: "Masala, Oil & More"
-},
-// ... previous subcategories ...
-
-{
-  name: "Salt, Sugar & Jaggery",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687791/qghslgupsbfz5ayeomn8.webp",
-  category: "Masala, Oil & More"
-},
-// Adding new Organic & Health
-{
-  name: "Breakfast & More",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687912/juwn1ygqwpjhoz54spe3.webp",
-  category: "Organic & Healthy Living"
-},
-{
-  name: "Baby Food",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687912/jegghaqmdyeqy6vrihdg.webp",
-  category: "Organic & Healthy Living"
-},
-{
-  name: "Cookies & Wafers",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687913/ydnll2baofmtsimamxba.webp",
-  category: "Organic & Healthy Living"
-},
-{
-  name: "Cooking Essentials",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687913/jmb0pqjmvxo50lldjt9b.png",
-  category: "Organic & Healthy Living"
-},
-{
-  name: "Dry Fruits, Nuts & Seeds",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687914/nyyjxaq9xz5ca2coblox.png",
-  category: "Organic & Healthy Living"
-},
-// ... previous subcategories ...
-
-{
-  name: "Healthy Proteins",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731687914/g3kxql9xyr7rgq39jefj.webp",
-  category: "Organic & Healthy Living"
-},
-// Adding new Paan Corner subcategories
-{
-  name: "Lighters & Accessories",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688291/lfznltwubwr27dzaljcj.webp",
-  category: "Paan Corner"
-},
-{
-  name: "Mouth Fresheners",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688291/z9ry6tachupvutqzyr7g.webp",
-  category: "Paan Corner"
-},
-{
-  name: "Smoking Cessions",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688292/xknpv4xdxmqlbfthlrfp.webp",
-  category: "Paan Corner"
-},
-// ... previous subcategories ...
-
-{
-  name: "Paan",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688292/nvfhcglsgmkxdfdmcfzv.webp",
-  category: "Paan Corner"
-},
-// Adding new Personal Care subcategories
-{
-  name: "Bathing Soaps",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688411/y2vx4llum8r3rul8wgqb.webp",
-  category: "Personal Care"
-},
-{
-  name: "Bath & Beauty Gifts",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688411/nc0btnn4mi0bxnvcgjmc.webp",
-  category: "Personal Care"
-},
-{
-  name: "Face Care",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688412/nwow4isfx0mxonmmrmui.png",
-  category: "Personal Care"
-},
-{
-  name: "Body Moisturizers & More",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688412/hesxzr0wa516w4caoq8z.png",
-  category: "Personal Care"
-},
-{
-  name: "Face Cream & Lotion",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688413/dze9t5vvg4ktfvbvekz8.webp",
-  category: "Personal Care"
-},
-{
-  name: "Face Wash & Scrub",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688414/qzqspixqrx9w5ndmgljl.webp",
-  category: "Personal Care"
-},
-{
-  name: "Feminine Care",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688414/dxlipsdooxpvkjbrkanu.png",
-  category: "Personal Care"
-},
-{
-  name: "Fragrance & Talc",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688415/tdjkwz00ay5mkcgpaxqj.webp",
-  category: "Personal Care"
-},
-{
-  name: "Hair Oil & Serum",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688415/jzxe64g9izpwvqxwzr3y.webp",
-  category: "Personal Care"
-},
-{
-  name: "Hair Styling",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688416/g1isvd250jyibme04kwv.png",
-  category: "Personal Care"
-},
-{
-  name: "Hand & Foot Care",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688416/qfnoqefwhghce2n3gtks.webp",
-  category: "Personal Care"
-},
-{
-  name: "Handwash",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688417/s0gbthnaqt3fkbh9wy7g.webp",
-  category: "Personal Care"
-},
-{
-  name: "Makeup",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688417/jhtzjgpfldzq4dl0ruqi.webp",
-  category: "Personal Care"
-},
-{
-  name: "Men's Grooming",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688418/etxscxxtvtdvizu8wa6k.png",
-  category: "Personal Care"
-},
-{
-  name: "Shampoo & Conditioner",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688418/vto308xwtdbkjaja2g0i.webp",
-  category: "Personal Care"
-},
-{
-  name: "Shower Gels & Scrubs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688419/v5wv6fx3k27qgj9lrrjs.webp",
-  category: "Personal Care"
-},
-{
-  name: "Skin & Hair Care",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688419/pj9tcd9jaopc9ie6qlgb.webp",
-  category: "Personal Care"
-},
-{
-  name: "Sunscreen",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688420/obelesqdswcueguxhbeg.webp",
-  category: "Personal Care"
-},
-// ... previous subcategories ...
-
-{
-  name: "Women's Grooming",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688420/jaaypbro9jxheyhlnvke.webp",
-  category: "Personal Care"
-},
-// Adding new Pet Care subcategories
-{
-  name: "Accessories & Other Supplies",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688998/djxkcqwyogxsx2q6yzwf.png",
-  category: "Pet Care"
-},
-{
-  name: "Cat Needs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688998/mqiy461k8uxgmkex4jpx.png",
-  category: "Pet Care"
-},
-{
-  name: "Diverse Pet Food",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688999/yohb2wvcqt3qbhtta28c.png",
-  category: "Pet Care"
-},
-{
-  name: "Dog Needs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731688999/lktbrqvxqzk7jggfcnfu.png",
-  category: "Pet Care"
-},
-// ... previous subcategories ...
-
-{
-  name: "Pet Grooming",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689000/ao5i1ykzsqk3uhm7e1ej.png",
-  category: "Pet Care"
-},
-// Adding new Pharma & Wellness subcategories
-{
-  name: "Adult Diapers",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689104/kpwyzgdorvtxkbthbvlc.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Antiseptic Liquid",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689104/ymviaypwjx2pydab1gt6.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Chyawanprash",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689106/f0jtljkrhj5e7otubep6.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Beauty Supplements",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689106/g3s5t1ycsfwqdok7vlvd.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Cough & Cold",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689107/xedslsfpufexegqswgbs.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Everyday Medicines",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689108/fqfoklzsb6nzbnytobat.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Digestive Care",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689107/bgwugjuotr6ehmi6zhxx.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Herbal Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689109/wx1opzi4uhztjjn655jp.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Healthcare Devices",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689109/zd4zz9rd3a0x6jfv26z3.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Masks & Sanitizers",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689110/ajenhvqdexenj9hf0tnp.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Milk Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689110/tdz782tsqm84svv4uggy.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Oral Health & Eye Care",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689111/e0yvva2vdnmgatcqzg4m.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Pre & Post Workout",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689111/nyh3eyjkznyjzpmrjc1z.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Protein & Sports Supplements",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689112/ywspqik4q1d7ziai9nfn.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Skin Treatment",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689112/o1egzqgdrgk93fplu9vh.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Smoking Cessation",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689113/pnpmbh1aygdfc4fieabl.webp",
-  category: "Pharma & Wellness"
-},
-{
-  name: "Vitamins & Daily Nutrition",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689113/d5j4hibzuggjracwvhhh.webp",
-  category: "Pharma & Wellness"
-},
-// ... previous subcategories ...
-
-{
-  name: "Wound Care And Pain Relief",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689113/e4smmud5theg0nvcvtvo.webp",
-  category: "Pharma & Wellness"
-},
-// Adding new Sauces & Spreads subcategories
-{
-  name: "Asian Sauces",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689231/mvu0ytnduoon34gmhqpo.webp",
-  category: "Sauces & Spreads"
-},
-{
-  name: "Cooking Sauces & Vinegar",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689231/szzujw7piiauijoicovh.webp",
-  category: "Sauces & Spreads"
-},
-{
-  name: "Indian Chutney & Pickle",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689232/kjpda6mxn7hgpjv8k9h5.webp",
-  category: "Sauces & Spreads"
-},
-{
-  name: "Jam & Spreads",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689232/tdmpp0r5hcoxmagkqahx.webp",
-  category: "Sauces & Spreads"
-},
-// ... previous subcategories ...
-
-{
-  name: "Tomato & Chilli Ketchup",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689233/nejq4odbz43c6v13kxvp.webp",
-  category: "Sauces & Spreads"
-},
-// Adding new Snacks & Munchies subcategories
-{
-  name: "Bhujia & Mixtures",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689438/rrrhaimy28xk2lsi3dcf.webp",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Chips & Crisps",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689438/lllhmxiyvf3dncoes4aw.webp",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Energy Bars",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689439/otvohygetjqjbnfj7yyi.png",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Granola",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689439/wjn8ob06byynrnw08z90.webp",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Makhana & More",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689440/k7jc7cbj7hiorrjxehos.png",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Imported Snacks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689440/yqd0mqvxkzahvnrfswta.webp",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Nachos",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689441/dxran7nvuoekxd5vmpcv.webp",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Munchies Gift Packs",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689441/aygwsmj2uk1axkhz1eat.png",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Namkeen Snacks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689442/ij4bfcl0on7g78lxsjkc.webp",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Papad & Fryums",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689442/uwrkcxvlzormvzajryes.webp",
-  category: "Snacks & Munchies"
-},
-{
-  name: "Popcorn",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689443/htrjdtyuhfoz3udh6loc.webp",
-  category: "Snacks & Munchies"
-},
-// ... previous subcategories ...
-
-{
-  name: "Rusks & Wafers",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731689443/cukjdr6fdmddy5zehvwp.png",
-  category: "Snacks & Munchies"
-},
-// Adding new Sweet Tooth subcategories
-{
-  name: "Candies & Gum",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690463/z6wxwkms2fxwmw1brilf.webp",
-  category: "Sweet Tooth"
-},
-{
-  name: "Cakes & Rolls",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690463/qow16dqw0vziuoeo6qlt.webp",
-  category: "Sweet Tooth"
-},
-{
-  name: "Chocolates",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690464/smbcvjlg8ois4hogc1xh.png",
-  category: "Sweet Tooth"
-},
-{
-  name: "Energy Bars",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690465/dieau10uwlnllokke4lu.png",
-  category: "Sweet Tooth"
-},
-{
-  name: "Flavoured Yougurts",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690465/xp3xg8gy7sbo2p9bg0nb.webp",
-  category: "Sweet Tooth"
-},
-{
-  name: "Ice Cream & Frozen Dessert",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690466/lcnopp5qun0jynxvgbhy.webp",
-  category: "Sweet Tooth"
-},
-{
-  name: "Indian Sweets",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690466/rnegoprmllibvdle6upi.webp",
-  category: "Sweet Tooth"
-},
-{
-  name: "Mouth Fresheners",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690467/piplonthf0e01pm9irnd.webp",
-  category: "Sweet Tooth"
-},
-// ... previous subcategories ...
-
-{
-  name: "Syrups",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690467/tutvn7u6wswuci24ubvt.webp",
-  category: "Sweet Tooth"
-},
-// Adding new Tea, Coffee & Health Drink subcategories
-{
-  name: "Coffee",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690621/hi21setwiexcfilx8ws7.png",
-  category: "Tea, Coffee & Health Drink"
-},
-{
-  name: "Cold Coffee & Ice Tea",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690621/vufzgkfsqu1yx1x6ysf7.webp",
-  category: "Tea, Coffee & Health Drink"
-},
-{
-  name: "Fruit Juices",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690623/sfzz6jizaorljnhzwqo1.webp",
-  category: "Tea, Coffee & Health Drink"
-},
-{
-  name: "Energy Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690622/zwihwxhjwjr8qxusmh69.webp",
-  category: "Tea, Coffee & Health Drink"
-},
-{
-  name: "Green & Flavoured Tea",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690624/w6z0eajj8jogrj25hhao.webp",
-  category: "Tea, Coffee & Health Drink"
-},
-{
-  name: "Herbal Drinks",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690624/kljodolgi0vojayihnbh.webp",
-  category: "Tea, Coffee & Health Drink"
-},
-{
-  name: "Hot Chocolate",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690625/tmnxtcpm3spjdjbzewmg.webp",
-  category: "Tea, Coffee & Health Drink"
-},
-{
-  name: "Imported Tea & Coffee",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690625/z8ntczxwkokaa6j8pviv.webp",
-  category: "Tea, Coffee & Health Drink"
-},
-{
-  name: "Tea",
-  image: "https://res.cloudinary.com/duyyhs6ef/image/upload/v1731690626/lafexioqc9tnq0qqo6vc.webp",
-  category: "Tea, Coffee & Health Drink"
-}
-];
