@@ -48,3 +48,14 @@ export const getProductBySubCategoryId = async (req, reply) => {
         return reply.code(500).send({ message: "Internal server error", error: error.message });
     }
 }
+
+export const getProducts = async (req, reply) => {
+    try {
+      const product = await Product.find();
+      console.log("Product found:"); // Log the retrieved categories   (hi dudes ,)
+      return reply.send(product);
+    } catch (error) {
+      console.error("Error fetching product:", error); // Log the error
+      return reply.code(500).send({ message: "Internal server error", error: error.message });
+    }
+  };

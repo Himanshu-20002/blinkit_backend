@@ -3,8 +3,10 @@ import Subcategory from "../../models/subcategory.js";
 export const getAllSubcategories = async (req, reply) => {
     try {
         const subcategories = await Subcategory.find();
+        console.log("subcategories found",subcategories);
         return reply.send(subcategories);
     } catch (error) {
+        console.error("Error fetching categories:", error); // Log the error
         return reply.code(500).send({ message: "Internal server error", error: error.message });
     }
 };

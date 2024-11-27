@@ -124,7 +124,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751326/products/Atta_Rice_and_Dal/Atta/Aashirvaad_Superior_MP_Whole_Wheat_Atta/lmqzaozksvpiiavx3ykn.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Fortune Chakki Fresh (100% Atta, 0% Maida) Atta",
@@ -140,7 +140,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751324/products/Atta_Rice_and_Dal/Atta/Fortune_Chakki_Fresh_100_Atta_0_Maida_Atta/dgnfasembhnocudschqr.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Pro Nature Whole Wheat Organic Atta",
@@ -153,7 +153,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751323/products/Atta_Rice_and_Dal/Atta/Pro_Nature_Whole_Wheat_Organic_Atta/w6bjyv3myy8lxzzge6hl.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Fortune Maida",
@@ -167,7 +167,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751323/products/Atta_Rice_and_Dal/Besan_Sooji_and_Maida/Fortune_Maida/q8gl6ymhhqitvawerwvo.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹37"
+    "price": "37"
   },
   {
     "name": "Natureland Chana Organic Besan",
@@ -181,7 +181,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751322/products/Atta_Rice_and_Dal/Besan_Sooji_and_Maida/Natureland_Chana_Organic_Besan/wfsgepfnsoxlef52ikes.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Rajdhani Besan (1 kg)",
@@ -195,7 +195,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751321/products/Atta_Rice_and_Dal/Besan_Sooji_and_Maida/Rajdhani_Besan_1_kg/ky09ocrqwjaro3x2wau9.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹121"
+    "price": "121"
   },
   {
     "name": "Samrat MP SoojiRava",
@@ -209,7 +209,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751319/products/Atta_Rice_and_Dal/Besan_Sooji_and_Maida/Samrat_MP_SoojiRava/ys91ixhsnwitndutqf0a.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Tata Sampann 100% Chana Dal Fine BesanGram Flour",
@@ -226,7 +226,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751320/products/Atta_Rice_and_Dal/Besan_Sooji_and_Maida/Tata_Sampann_100_Chana_Dal_Fine_BesanGram_Flour/ii4nwsobsrhvhnwqacjq.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "K-Pra Thalipeeth Bhajani Flour Mix",
@@ -240,7 +240,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751318/products/Atta_Rice_and_Dal/Millet_and_other_Flours/KPra_Thalipeeth_Bhajani_Flour_Mix/qcpdddnvj3vhpwv43pye.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Rajdhani Chana Sattu",
@@ -254,7 +254,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751317/products/Atta_Rice_and_Dal/Millet_and_other_Flours/Rajdhani_Chana_Sattu/cxx1imr2v3bmgd6clg0n.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹97"
+    "price": "97"
   },
   {
     "name": "True Elements Super Grains Oat Flour",
@@ -268,7 +268,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751316/products/Atta_Rice_and_Dal/Millet_and_other_Flours/True_Elements_Super_Grains_Oat_Flour/aqrmfrksvxfg5zhj43op.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Basic Moong Dal (Dhuli)",
@@ -281,7 +281,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751310/products/Atta_Rice_and_Dal/Moong_and_Masoor/Basic_Moong_Dal_Dhuli/e5l0wpymz7kop2gyirwk.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹144"
+    "price": "144"
   },
   {
     "name": "Tata Sampann Unpolished Green Moong (Sabut) Whole Dal",
@@ -297,7 +297,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751309/products/Atta_Rice_and_Dal/Moong_and_Masoor/Tata_Sampann_Unpolished_Green_Moong_Sabut_Whole_Dal/uy60rzmhex5glpzu30ni.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹83"
+    "price": "83"
   },
   {
     "name": "Tata Sampann Unpolished Yellow Moong Dal (Dhuli) Split",
@@ -313,7 +313,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751307/products/Atta_Rice_and_Dal/Moong_and_Masoor/Tata_Sampann_Unpolished_Yellow_Moong_Dal_Dhuli_Split/ihhiowl9w3xbj3u7i5ce.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "24 Mantra Organic White Poha",
@@ -326,7 +326,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751315/products/Atta_Rice_and_Dal/Poha_Daliya_and_Other_Grains/24_Mantra_Organic_White_Poha/iqivoyomswk7xxjzatjp.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹85"
+    "price": "85"
   },
   {
     "name": "Fortune Indori Thick Poha",
@@ -342,7 +342,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751315/products/Atta_Rice_and_Dal/Poha_Daliya_and_Other_Grains/Fortune_Indori_Thick_Poha/kue2ucpuobcmmfxskuna.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹55"
+    "price": "55"
   },
   {
     "name": "Millets & More Cheese Millet Bhel",
@@ -357,7 +357,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751313/products/Atta_Rice_and_Dal/Poha_Daliya_and_Other_Grains/Millets_and_More_Cheese_Millet_Bhel/rnt76cxia1w4el5ejbw1.jpg"
     ],
     "quantity": "150 g",
-    "price": "₹68"
+    "price": "68"
   },
   {
     "name": "MP'S BEST Lokwan Wheat",
@@ -371,7 +371,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751313/products/Atta_Rice_and_Dal/Poha_Daliya_and_Other_Grains/MPS_BEST_Lokwan_Wheat/mdv0ejxoxlkzpkpirdhm.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Nutrela Soya Granules",
@@ -386,7 +386,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751311/products/Atta_Rice_and_Dal/Rajma_Chhole_and_Others/Nutrela_Soya_Granules/j1xwworwhuqdbkonnazo.jpg"
     ],
     "quantity": "220 g",
-    "price": "₹57"
+    "price": "57"
   },
   {
     "name": "Whole Farm Grocery Kabuli Chana (Medium Size)",
@@ -399,7 +399,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751312/products/Atta_Rice_and_Dal/Rajma_Chhole_and_Others/Whole_Farm_Grocery_Kabuli_Chana_Medium_Size/snsuemuuff1d2ahip06o.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹94"
+    "price": "94"
   },
   {
     "name": "Whole Farm Premium Kashmiri Red Rajma",
@@ -413,7 +413,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751310/products/Atta_Rice_and_Dal/Rajma_Chhole_and_Others/Whole_Farm_Premium_Kashmiri_Red_Rajma/lsbjjshk1w5sy6v1iavx.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹120"
+    "price": "120"
   },
   {
     "name": "Daawat Pulav Basmati Rice (Slender Grains)",
@@ -429,7 +429,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751307/products/Atta_Rice_and_Dal/Rice/Daawat_Pulav_Basmati_Rice_Slender_Grains/twa1allzcng7hw64y6mm.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹149"
+    "price": "149"
   },
   {
     "name": "Daawat Rozana Super Basmati Rice",
@@ -442,7 +442,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751305/products/Atta_Rice_and_Dal/Rice/Daawat_Rozana_Super_Basmati_Rice/bxajhcfxpeal7puifwtp.jpg"
     ],
     "quantity": "5 kg",
-    "price": "₹370"
+    "price": "370"
   },
   {
     "name": "India Gate Kolam Rice",
@@ -458,7 +458,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751305/products/Atta_Rice_and_Dal/Rice/India_Gate_Kolam_Rice/gpfszcnon7zhdkctvrbz.jpg"
     ],
     "quantity": "3 kg",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Organic Tattva Organic Urad Dal (Dhuli)",
@@ -472,7 +472,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751304/products/Atta_Rice_and_Dal/Toor_Urad_and_Chana/Organic_Tattva_Organic_Urad_Dal_Dhuli/xzyuklgwadivswhrwhm5.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹137"
+    "price": "137"
   },
   {
     "name": "Tata Sampann Unpolished Kali Urad (Sabut)",
@@ -487,7 +487,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751303/products/Atta_Rice_and_Dal/Toor_Urad_and_Chana/Tata_Sampann_Unpolished_Kali_Urad_Sabut/jatnbkw2laxoghaaqtzp.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹107"
+    "price": "107"
   },
   {
     "name": "Whole Farm Grocery Gram  Chana Dal",
@@ -500,7 +500,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751302/products/Atta_Rice_and_Dal/Toor_Urad_and_Chana/Whole_Farm_Grocery_Gram_Chana_Dal/nisnkshnrjvvxorobugt.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "LuvLap 3 in 1 Baby Bed, Sleeping Bag & Carry Nest (Blue, New Born)",
@@ -515,7 +515,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751364/products/Baby_Care/Baby_Accessories_and_Apparel/LuvLap_3_in_1_Baby_Bed_Sleeping_Bag_and_Carry_Nest_Blue_New_Born/ypmkreddom7cxuydkmhe.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹679"
+    "price": "679"
   },
   {
     "name": "LuvLap Comfy Baby Walker & Rocker (Pink, 6 - 18 months)",
@@ -531,7 +531,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751360/products/Baby_Care/Baby_Accessories_and_Apparel/LuvLap_Comfy_Baby_Walker_and_Rocker_Pink_6__18_months/teoeaprjvchscyi2hwgg.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Maate Baby Travel Bag (Brown)",
@@ -547,7 +547,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751359/products/Baby_Care/Baby_Accessories_and_Apparel/Maate_Baby_Travel_Bag_Brown/e6zdg4gtswxf8v2lqu7y.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "SuperBottoms Basic Newborn Baby Gift Set (Multicolour, 0-3 Months)",
@@ -563,7 +563,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751362/products/Baby_Care/Baby_Accessories_and_Apparel/SuperBottoms_Basic_Newborn_Baby_Gift_Set_Multicolour_03_Months/bxiwe0rpwtsvtfon59jt.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Nestle Lactogen Pro 2 Follow up Formula (After 6 Months Up to 12 Months)",
@@ -578,7 +578,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751363/products/Baby_Care/Baby_Food/Nestle_Lactogen_Pro_2_Follow_up_Formula_After_6_Months_Up_to_12_Months/rdf6xkva2mvwyhdqsyia.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹485"
+    "price": "485"
   },
   {
     "name": "Nestle NAN PRO Powder Infant Formula (Upto 6 months - Stage 1)",
@@ -593,7 +593,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751358/products/Baby_Care/Baby_Food/Nestle_NAN_PRO_Powder_Infant_Formula_Upto_6_months__Stage_1/v6r92pjywbz8pl7agxcs.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Slurrp Farm Beetroot Dosa Mix",
@@ -607,7 +607,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751357/products/Baby_Care/Baby_Food/Slurrp_Farm_Beetroot_Dosa_Mix/jn2entu9yksjp6qx4ysq.jpg"
     ],
     "quantity": "150 g",
-    "price": "₹119"
+    "price": "119"
   },
   {
     "name": "Slurrp Farm Spinach Dosa Mix",
@@ -621,7 +621,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751356/products/Baby_Care/Baby_Food/Slurrp_Farm_Spinach_Dosa_Mix/zxk0qqvxffl8fcjadhdo.jpg"
     ],
     "quantity": "150 g",
-    "price": "₹89"
+    "price": "89"
   },
   {
     "name": "Himalaya Babycare Baby Gift Set (Set of 7)",
@@ -635,7 +635,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751356/products/Baby_Care/Baby_Gifting_and_Toys/Himalaya_Babycare_Baby_Gift_Set_Set_of_7/svu9eb5l4fnrorxbqaxh.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹530"
+    "price": "530"
   },
   {
     "name": "Himalaya Happy Baby Gift Set",
@@ -649,7 +649,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751355/products/Baby_Care/Baby_Gifting_and_Toys/Himalaya_Happy_Baby_Gift_Set/lawx2ehk5dm9bemwh6zc.jpg"
     ],
     "quantity": "1 set (10 pieces)",
-    "price": "₹1,115"
+    "price": "1,115"
   },
   {
     "name": "Oyo Baby Care Gift Set",
@@ -664,7 +664,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751354/products/Baby_Care/Baby_Gifting_and_Toys/Oyo_Baby_Care_Gift_Set/kygkauvasqngrnhpduww.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹720"
+    "price": "720"
   },
   {
     "name": "Little's Baby Wipes",
@@ -680,7 +680,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751351/products/Baby_Care/Baby_Wipes/Littles_Baby_Wipes/m70ztdfcsbnk7hl9f26e.jpg"
     ],
     "quantity": "1 pack (80 wipes)",
-    "price": "₹86"
+    "price": "86"
   },
   {
     "name": "LuvLap Moisturising Baby Wipes with Aloe Vera",
@@ -696,7 +696,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751350/products/Baby_Care/Baby_Wipes/LuvLap_Moisturising_Baby_Wipes_with_Aloe_Vera/yrr96f8pzosblxqtjev7.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Mother Sparsh 98 % Pure Water Baby Wipes",
@@ -712,7 +712,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751349/products/Baby_Care/Baby_Wipes/Mother_Sparsh_98__Pure_Water_Baby_Wipes/aubbdghggmmdqcvppaao.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Chicco Gentle Body Baby Wash & Shampoo",
@@ -728,7 +728,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751354/products/Baby_Care/Bathing_Needs/Chicco_Gentle_Body_Baby_Wash_and_Shampoo/hm8zv0uxlnjnpdwifgqp.jpg"
     ],
     "quantity": "500 ml",
-    "price": "₹548"
+    "price": "548"
   },
   {
     "name": "Himalaya Gentle Baby Wash",
@@ -741,7 +741,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751352/products/Baby_Care/Bathing_Needs/Himalaya_Gentle_Baby_Wash/s3sjomwdsdwuuslvqb7r.jpg"
     ],
     "quantity": "200 ml",
-    "price": "₹166"
+    "price": "166"
   },
   {
     "name": "Mamaearth Gentle Cleansing Baby Shampoo",
@@ -756,7 +756,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751353/products/Baby_Care/Bathing_Needs/Mamaearth_Gentle_Cleansing_Baby_Shampoo/dlpl07jagd4kqxervyiv.jpg"
     ],
     "quantity": "200 ml",
-    "price": "₹222"
+    "price": "222"
   },
   {
     "name": "Huggies Wonder Diaper (Pants, XXL, 15-25 kg)",
@@ -772,7 +772,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751344/products/Baby_Care/Dispers_and_More/Huggies_Wonder_Diaper_Pants_XXL_1525_kg/jdo7x9gmzwrzuffch6xn.jpg"
     ],
     "quantity": "1 pack (24 pieces)",
-    "price": "₹431"
+    "price": "431"
   },
   {
     "name": "MamyPoko Pants Standard Diaper (M, 7-12 kg)",
@@ -788,7 +788,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751343/products/Baby_Care/Dispers_and_More/MamyPoko_Pants_Standard_Diaper_M_712_kg/h576lilbacoqfibvxdpc.jpg"
     ],
     "quantity": "1 pack (48 pieces)",
-    "price": "₹426"
+    "price": "426"
   },
   {
     "name": "Pampers All Round Protection Diaper (Pants, XXL, 15-25 kg)",
@@ -804,7 +804,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751341/products/Baby_Care/Dispers_and_More/Pampers_All_Round_Protection_Diaper_Pants_XXL_1525_kg/d9cc2zrzkodmikrvtbkt.jpg"
     ],
     "quantity": "1 pack (42 pieces)",
-    "price": "₹938"
+    "price": "938"
   },
   {
     "name": "LuvLap Blue Feeding Bottle (with Silicone Nipple, 250 ml)",
@@ -820,7 +820,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751347/products/Baby_Care/Feeding/LuvLap_Blue_Feeding_Bottle_with_Silicone_Nipple_250_ml/uylzr84ljpfixfjlelr4.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "LuvLap Natura Flo Wide Neck Feeding Bottle (3 Months+)",
@@ -836,7 +836,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751346/products/Baby_Care/Feeding/LuvLap_Natura_Flo_Wide_Neck_Feeding_Bottle_3_Months/kh5bdvrny94misilbduo.jpg"
     ],
     "quantity": "1 pack (2 x 250ml)",
-    "price": "₹370"
+    "price": "370"
   },
   {
     "name": "LuvLap Washable Breast Pad",
@@ -852,7 +852,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751345/products/Baby_Care/Feeding/LuvLap_Washable_Breast_Pad/r5wgwjs9s6bhi7vls3rh.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Himalaya Diaper Rash Cream",
@@ -866,7 +866,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751340/products/Baby_Care/Health_and_Safety/Himalaya_Diaper_Rash_Cream/vl4pewgko7kfgmxr7rby.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Mamaearth Digestion & Colic Relief Tummy Roll On",
@@ -880,7 +880,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751340/products/Baby_Care/Health_and_Safety/Mamaearth_Digestion_and_Colic_Relief_Tummy_Roll_On/y46irsz2y1efpbqajtw6.jpg"
     ],
     "quantity": "40 ml",
-    "price": "₹282"
+    "price": "282"
   },
   {
     "name": "Mother Sparsh Tummy Roll On",
@@ -896,7 +896,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751339/products/Baby_Care/Health_and_Safety/Mother_Sparsh_Tummy_Roll_On/fslijgea4g2viwtt3bnm.jpg"
     ],
     "quantity": "40 ml",
-    "price": "₹187"
+    "price": "187"
   },
   {
     "name": "Chicco Fresh Spring Baby Laundry Detergent",
@@ -910,7 +910,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751337/products/Baby_Care/Hygiene/Chicco_Fresh_Spring_Baby_Laundry_Detergent/xuwvf3dtap06lail9z2z.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "LuvLap Baby Laundry Detergent",
@@ -926,7 +926,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751337/products/Baby_Care/Hygiene/LuvLap_Baby_Laundry_Detergent/wwkzlmcq2s4wygebm4fv.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹282"
+    "price": "282"
   },
   {
     "name": "Mee Mee Anti-Bacterial Baby Liquid Cleanser (Refill)",
@@ -942,7 +942,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751336/products/Baby_Care/Hygiene/Mee_Mee_AntiBacterial_Baby_Liquid_Cleanser_Refill/d0e3gzcksla6je1smokr.jpg"
     ],
     "quantity": "500 ml",
-    "price": "₹190"
+    "price": "190"
   },
   {
     "name": "LuvLap Manual Breast Pump",
@@ -958,7 +958,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751334/products/Baby_Care/Mom_Care_Needs/LuvLap_Manual_Breast_Pump/gzexeqouggsez8pjcnf2.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹603"
+    "price": "603"
   },
   {
     "name": "The Moms Co. Natural Butter Nipple Cream (With Mono Cartons)",
@@ -974,7 +974,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751333/products/Baby_Care/Mom_Care_Needs/The_Moms_Co_Natural_Butter_Nipple_Cream_With_Mono_Cartons/djwcflvfazszmoud7anc.jpg"
     ],
     "quantity": "25 g",
-    "price": "₹270"
+    "price": "270"
   },
   {
     "name": "Nuluv Burp Cloth (0 to 6 Months)",
@@ -988,7 +988,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751332/products/Baby_Care/Nursing/Nuluv_Burp_Cloth_0_to_6_Months/hysd1kgmpnjcbvgttgjy.jpg"
     ],
     "quantity": "1 pack (2 pieces)",
-    "price": "₹410"
+    "price": "410"
   },
   {
     "name": "Oyo Baby Bed Protector Sheet",
@@ -1003,7 +1003,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751331/products/Baby_Care/Nursing/Oyo_Baby_Bed_Protector_Sheet/lulu3is2vpw0ub3gvl4u.jpg"
     ],
     "quantity": "1 pack (2 pieces)",
-    "price": "₹229"
+    "price": "229"
   },
   {
     "name": "Oyo Baby Blanket (Star Blue)",
@@ -1018,7 +1018,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751330/products/Baby_Care/Nursing/Oyo_Baby_Blanket_Star_Blue/dkostj9gnpghb8ibfm7u.jpg"
     ],
     "quantity": "1 piece",
-    "price": "₹475"
+    "price": "475"
   },
   {
     "name": "Chicco Kids Toothbrush (Blue)",
@@ -1034,7 +1034,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751329/products/Baby_Care/Oral_and_Nasal_Care/Chicco_Kids_Toothbrush_Blue/upa6gc4yxmlsmzhcr1vk.jpg"
     ],
     "quantity": "1 piece",
-    "price": "₹111"
+    "price": "111"
   },
   {
     "name": "Chicco Toothpaste (Strawberry Flavor, 12M+)",
@@ -1049,7 +1049,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751328/products/Baby_Care/Oral_and_Nasal_Care/Chicco_Toothpaste_Strawberry_Flavor_12M/pdpssx2qpul7zntdvleu.jpg"
     ],
     "quantity": "50 g",
-    "price": "₹167"
+    "price": "167"
   },
   {
     "name": "Colgate Batman Bubble Fruit Flavour Kids Toothpaste (6+ Years)",
@@ -1065,7 +1065,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751327/products/Baby_Care/Oral_and_Nasal_Care/Colgate_Batman_Bubble_Fruit_Flavour_Kids_Toothpaste_6_Years/iabxbgzjrzzvlsymofvn.jpg"
     ],
     "quantity": "80 g",
-    "price": "₹161"
+    "price": "161"
   },
   {
     "name": "Kwality Kreamy Magic Cream Bread Roll",
@@ -1078,7 +1078,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751301/products/Bakery_and_Biscuits/Bread_and_Pav/Kwality_Kreamy_Magic_Cream_Bread_Roll/te1q3pj9rpqbpsokqipq.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Kwality Whole Wheat Bread",
@@ -1090,7 +1090,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751301/products/Bakery_and_Biscuits/Bread_and_Pav/Kwality_Whole_Wheat_Bread/v74hvvrmi0bcycbyx2ph.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "The Baker's Dozen 100% Butter Croissant",
@@ -1106,7 +1106,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751300/products/Bakery_and_Biscuits/Bread_and_Pav/The_Bakers_Dozen_100_Butter_Croissant/sqokllhuqrukupvcrcro.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Cadbury Chocobakes Choco Chip Cookies",
@@ -1122,7 +1122,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751299/products/Bakery_and_Biscuits/Cookies/Cadbury_Chocobakes_Choco_Chip_Cookies/ruh4u9edcajnei7htjvs.jpg"
     ],
     "quantity": "167 g",
-    "price": "₹64"
+    "price": "64"
   },
   {
     "name": "Let's Try Ragi Kaju Pista Cookies",
@@ -1137,7 +1137,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751298/products/Bakery_and_Biscuits/Cookies/Lets_Try_Ragi_Kaju_Pista_Cookies/vtepjj5z959qhghlluao.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹148"
+    "price": "148"
   },
   {
     "name": "Parle Milano Chocolate Chip Biscuit",
@@ -1150,7 +1150,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751297/products/Bakery_and_Biscuits/Cookies/Parle_Milano_Chocolate_Chip_Biscuit/e7psfwlcct8rea5czh7o.jpg"
     ],
     "quantity": "75 g",
-    "price": "₹40"
+    "price": "40"
   },
   {
     "name": "RiteBite Max Protein Choco Chips Cookie",
@@ -1166,7 +1166,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751296/products/Bakery_and_Biscuits/Cookies/RiteBite_Max_Protein_Choco_Chips_Cookie/aqap0y6othhq8bfip1ed.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Cadbury Oreo Original Vanilla Sandwich Cream Biscuits 481.25 g - Jumbo Pack",
@@ -1182,7 +1182,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751295/products/Bakery_and_Biscuits/Cream_Biscuits/Cadbury_Oreo_Original_Vanilla_Sandwich_Cream_Biscuits_48125_g__Jumbo_Pack/og7clz7ibcpxum23ip9k.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Sunfeast Dark Fantasy Choco Creme Center Filled Biscuits (3 x 83 g)",
@@ -1198,7 +1198,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751293/products/Bakery_and_Biscuits/Cream_Biscuits/Sunfeast_Dark_Fantasy_Choco_Creme_Center_Filled_Biscuits_3_x_83_g/pnbsbyedqidolqlctxos.jpg"
     ],
     "quantity": "3 x 83 g",
-    "price": "₹51"
+    "price": "51"
   },
   {
     "name": "Sunfeast Dark Fantasy Desserts Choco Chunks Cookies",
@@ -1214,7 +1214,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751292/products/Bakery_and_Biscuits/Cream_Biscuits/Sunfeast_Dark_Fantasy_Desserts_Choco_Chunks_Cookies/gwwoxtf8dmnvah0pbcif.jpg"
     ],
     "quantity": "75 g",
-    "price": "₹67"
+    "price": "67"
   },
   {
     "name": "Britannia Marie Gold Marie Biscuits",
@@ -1227,7 +1227,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751291/products/Bakery_and_Biscuits/Glucose_and_Marie/Britannia_Marie_Gold_Marie_Biscuits/dyzqitxc8igblddymaob.jpg"
     ],
     "quantity": "950 g",
-    "price": "₹152"
+    "price": "152"
   },
   {
     "name": "Parle-G Glucose Biscuit - Pack of 2",
@@ -1241,7 +1241,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751291/products/Bakery_and_Biscuits/Glucose_and_Marie/ParleG_Glucose_Biscuit__Pack_of_2/jy0py6uraly7jzm0pgjm.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Parle-G Gold Biscuit - Pack of 2",
@@ -1254,7 +1254,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751290/products/Bakery_and_Biscuits/Glucose_and_Marie/ParleG_Gold_Biscuit__Pack_of_2/utew35mpsqb1nwq66no3.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Britannia NutriChoice Digestive Zero Biscuit",
@@ -1269,7 +1269,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751289/products/Bakery_and_Biscuits/Healthy_and_Digestive/Britannia_NutriChoice_Digestive_Zero_Biscuit/mpnu9orkz6td7kqzorae.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹34"
+    "price": "34"
   },
   {
     "name": "Britannia NutriChoice Seeds Biscuit",
@@ -1283,7 +1283,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751288/products/Bakery_and_Biscuits/Healthy_and_Digestive/Britannia_NutriChoice_Seeds_Biscuit/dy8t4sc6hr2eelycysnr.jpg"
     ],
     "quantity": "75 g",
-    "price": "₹23"
+    "price": "23"
   },
   {
     "name": "Britannia NutriChoice Sugar Free Healthy & Digestive Cracker",
@@ -1296,7 +1296,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751288/products/Bakery_and_Biscuits/Healthy_and_Digestive/Britannia_NutriChoice_Sugar_Free_Healthy_and_Digestive_Cracker/am3we1gqw0wnuiuh7k8h.jpg"
     ],
     "quantity": "300 g",
-    "price": "₹53"
+    "price": "53"
   },
   {
     "name": "Britannia 5050 Maska Chaska Sweet & Salty Biscuits",
@@ -1310,7 +1310,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751287/products/Bakery_and_Biscuits/Sweet_and_Salty/Britannia_5050_Maska_Chaska_Sweet_and_Salty_Biscuits/ug9jjf4ycxcjvzqiizfh.jpg"
     ],
     "quantity": "105 g",
-    "price": "₹30"
+    "price": "30"
   },
   {
     "name": "Britannia Little Hearts Classic Biscuit",
@@ -1325,7 +1325,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751286/products/Bakery_and_Biscuits/Sweet_and_Salty/Britannia_Little_Hearts_Classic_Biscuit/o9cmbp6xemg8hf7vqvr2.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Patanjali Whole Wheat Nariyal Biscuit",
@@ -1338,7 +1338,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751286/products/Bakery_and_Biscuits/Sweet_and_Salty/Patanjali_Whole_Wheat_Nariyal_Biscuit/towtjwjxalchulu2osyu.jpg"
     ],
     "quantity": "225 g",
-    "price": "₹30"
+    "price": "30"
   },
   {
     "name": "MTR Gulab Jamun Dessert Mix",
@@ -1351,7 +1351,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751284/products/Breakast_and_Instant_Food/Dessert_and_Cake_Mixes/MTR_Gulab_Jamun_Dessert_Mix/mjwre4mfcr7gwls0xnuu.jpg"
     ],
     "quantity": "2 x 175 g",
-    "price": "₹145"
+    "price": "145"
   },
   {
     "name": "Pillsbury Chocolate Cooker Cake Mix",
@@ -1367,7 +1367,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751283/products/Breakast_and_Instant_Food/Dessert_and_Cake_Mixes/Pillsbury_Chocolate_Cooker_Cake_Mix/wniiksvbmskg8uucykju.jpg"
     ],
     "quantity": "159 g",
-    "price": "₹102"
+    "price": "102"
   },
   {
     "name": "Slurrp Farm Banana Chocochip Pancake Mix",
@@ -1381,7 +1381,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751282/products/Breakast_and_Instant_Food/Dessert_and_Cake_Mixes/Slurrp_Farm_Banana_Chocochip_Pancake_Mix/ovtdwqh2084xnt0f8oii.jpg"
     ],
     "quantity": "150 g",
-    "price": "₹139"
+    "price": "139"
   },
   {
     "name": "Snapin Chilli Flakes",
@@ -1396,7 +1396,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751284/products/Breakast_and_Instant_Food/Herbs_and_Seasoning/Snapin_Chilli_Flakes/qyctyifne8ushx1s6vt7.jpg"
     ],
     "quantity": "20 g (10 x 2 g)",
-    "price": "₹49"
+    "price": "49"
   },
   {
     "name": "Snapin Oregano",
@@ -1410,7 +1410,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751281/products/Breakast_and_Instant_Food/Herbs_and_Seasoning/Snapin_Oregano/x7ywsvrqx3dp1knjpujj.jpg"
     ],
     "quantity": "20 g",
-    "price": "₹91"
+    "price": "91"
   },
   {
     "name": "Snapin Red Chilli Flakes Seasoning",
@@ -1423,7 +1423,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751280/products/Breakast_and_Instant_Food/Herbs_and_Seasoning/Snapin_Red_Chilli_Flakes_Seasoning/jvy6qp1ia6t7wkgugapr.jpg"
     ],
     "quantity": "35 g",
-    "price": "₹81"
+    "price": "81"
   },
   {
     "name": "Nongshim Kimchi Ramyun Noodle Soup",
@@ -1436,7 +1436,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751279/products/Breakast_and_Instant_Food/Imported_Noodles_and_Pasta/Nongshim_Kimchi_Ramyun_Noodle_Soup/trcv8a51ubtxgz3c0f74.jpg"
     ],
     "quantity": "120 g",
-    "price": "₹129"
+    "price": "129"
   },
   {
     "name": "Betty Crocker Original Pancake Mix",
@@ -1451,7 +1451,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751278/products/Breakast_and_Instant_Food/Instant_Mixes/Betty_Crocker_Original_Pancake_Mix/am6bkj4mvv056hcagqwb.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹255"
+    "price": "255"
   },
   {
     "name": "Ching's Secret Schezwan Fried Rice Masala - Pack of 5",
@@ -1467,7 +1467,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751276/products/Breakast_and_Instant_Food/Instant_Mixes/Chings_Secret_Schezwan_Fried_Rice_Masala__Pack_of_5/lcghbfutlwumrba4bjxf.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Knorr Chinese Manchurian Instant Mix",
@@ -1480,7 +1480,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751277/products/Breakast_and_Instant_Food/Instant_Mixes/Knorr_Chinese_Manchurian_Instant_Mix/jnmudxsrtujsmfld3wud.jpg"
     ],
     "quantity": "55 g",
-    "price": "₹55"
+    "price": "55"
   },
   {
     "name": "Knorr Mast Masala Soupy Noodles",
@@ -1494,7 +1494,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751274/products/Breakast_and_Instant_Food/Noodles/Knorr_Mast_Masala_Soupy_Noodles/xxlibxmfnzegjdiabtgh.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Maggi Masala - 2 Minutes Instant Noodles",
@@ -1510,7 +1510,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751275/products/Breakast_and_Instant_Food/Noodles/Maggi_Masala__2_Minutes_Instant_Noodles/z5s0qdywhextqyhwjzbr.jpg"
     ],
     "quantity": "280 g",
-    "price": "₹56"
+    "price": "56"
   },
   {
     "name": "Yu Chilli Manchurian Instant Cup Noodles",
@@ -1526,7 +1526,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751272/products/Breakast_and_Instant_Food/Noodles/Yu_Chilli_Manchurian_Instant_Cup_Noodles/umkilsmvfocdwk7l7kus.jpg"
     ],
     "quantity": "70 g",
-    "price": "₹49"
+    "price": "49"
   },
   {
     "name": "Chef's Basket Durum Wheat Penne Domestic Pasta",
@@ -1540,7 +1540,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751273/products/Breakast_and_Instant_Food/Pasta/Chefs_Basket_Durum_Wheat_Penne_Domestic_Pasta/f3ylrpg7bneufi6lqn5p.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹88"
+    "price": "88"
   },
   {
     "name": "Sunfeast Yipee Instant Pasta Treat - Masala",
@@ -1554,7 +1554,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751271/products/Breakast_and_Instant_Food/Pasta/Sunfeast_Yipee_Instant_Pasta_Treat__Masala/lugenihikin2lvfeqnjk.jpg"
     ],
     "quantity": "65 g",
-    "price": "₹30"
+    "price": "30"
   },
   {
     "name": "Yu Pink Sauce Instant Wheat Pasta (Penne) - Buy 1 Get 1 Free",
@@ -1569,7 +1569,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751270/products/Breakast_and_Instant_Food/Pasta/Yu_Pink_Sauce_Instant_Wheat_Pasta_Penne__Buy_1_Get_1_Free/r4mtkqz0uxz2gpwuekz5.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Haldiram's Minute Khana Pav Bhaji",
@@ -1582,7 +1582,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751267/products/Breakast_and_Instant_Food/Ready_to_Cook_and_Eat/Haldirams_Minute_Khana_Pav_Bhaji/afp8bxucgqqe9betwe71.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Tata Sampann Yumside Cheesy Pasta With Black Olives - Ready to Eat",
@@ -1597,7 +1597,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751269/products/Breakast_and_Instant_Food/Ready_to_Cook_and_Eat/Tata_Sampann_Yumside_Cheesy_Pasta_With_Black_Olives__Ready_to_Eat/vuphyyb8skoho6qgkgzi.jpg"
     ],
     "quantity": "285 g",
-    "price": "₹129"
+    "price": "129"
   },
   {
     "name": "Tata Sampann Yumside Classic Chicken Seekh Kebab",
@@ -1610,7 +1610,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751267/products/Breakast_and_Instant_Food/Ready_to_Cook_and_Eat/Tata_Sampann_Yumside_Classic_Chicken_Seekh_Kebab/biniogcuwklenuojbqyq.jpg"
     ],
     "quantity": "180 g",
-    "price": "₹129"
+    "price": "129"
   },
   {
     "name": "Knorr Hot & Sour Vegetable Soup",
@@ -1624,7 +1624,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751266/products/Breakast_and_Instant_Food/Soup/Knorr_Hot_and_Sour_Vegetable_Soup/ugmooug9wb5esu9rjz9q.jpg"
     ],
     "quantity": "41 g",
-    "price": "₹60"
+    "price": "60"
   },
   {
     "name": "Knorr International Italian Mushroom Soup",
@@ -1638,7 +1638,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751265/products/Breakast_and_Instant_Food/Soup/Knorr_International_Italian_Mushroom_Soup/jgeyvgd5rhafodbqbmrw.jpg"
     ],
     "quantity": "48 g",
-    "price": "₹65"
+    "price": "65"
   },
   {
     "name": "Knorr Thick Tomato Soup",
@@ -1651,7 +1651,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751265/products/Breakast_and_Instant_Food/Soup/Knorr_Thick_Tomato_Soup/rizbeljoaackjje9nwup.jpg"
     ],
     "quantity": "51 g",
-    "price": "₹60"
+    "price": "60"
   },
   {
     "name": "Godrej Real Good Chicken Curry Cut",
@@ -1666,7 +1666,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751498/products/Chicken_Meat_and_Fish/Chicken/Godrej_Real_Good_Chicken_Curry_Cut/ihswtvmlxswysrjd5vhe.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "ITC Master Chef Desi Style Chicken Burger Patty (Frozen)",
@@ -1681,7 +1681,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751497/products/Chicken_Meat_and_Fish/Chicken/ITC_Master_Chef_Desi_Style_Chicken_Burger_Patty_Frozen/hxiv0gqxcooovhrym2a4.jpg"
     ],
     "quantity": "330 g",
-    "price": "₹171"
+    "price": "171"
   },
   {
     "name": "Prasuma Original Chicken Momos (Frozen)",
@@ -1695,7 +1695,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751496/products/Chicken_Meat_and_Fish/Chicken/Prasuma_Original_Chicken_Momos_Frozen/eks8qxkbbjhnwt2dpasn.jpg"
     ],
     "quantity": "24 pieces",
-    "price": "₹276"
+    "price": "276"
   },
   {
     "name": "Gadre Seafood Seafood Snack",
@@ -1709,7 +1709,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751500/products/Chicken_Meat_and_Fish/Fish_and_Seafood/Gadre_Seafood_Seafood_Snack/v5dcqnuc0uavn4jecvvw.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹295"
+    "price": "295"
   },
   {
     "name": "Sumeru Five Senses Prawns Medium",
@@ -1722,7 +1722,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751499/products/Chicken_Meat_and_Fish/Fish_and_Seafood/Sumeru_Five_Senses_Prawns_Medium/df32u1ykp2y6ubbt3p3y.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Godrej Yummiez Breakfast Chicken Sausage (Frozen)",
@@ -1737,7 +1737,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751495/products/Chicken_Meat_and_Fish/Sausage_Salami_and_Ham/Godrej_Yummiez_Breakfast_Chicken_Sausage_Frozen/dxvdds3iqrg7edutb25h.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹169"
+    "price": "169"
   },
   {
     "name": "Godrej Yummiez Pepper & Herb Chicken Sausage (Frozen)",
@@ -1755,7 +1755,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751494/products/Chicken_Meat_and_Fish/Sausage_Salami_and_Ham/Godrej_Yummiez_Pepper_and_Herb_Chicken_Sausage_Frozen/qkdbqz63r6iejwgjsx3w.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹169"
+    "price": "169"
   },
   {
     "name": "Zorabian Spicy Chicken Sausage",
@@ -1773,7 +1773,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751493/products/Chicken_Meat_and_Fish/Sausage_Salami_and_Ham/Zorabian_Spicy_Chicken_Sausage/uqvv68jj3jdmoykyiqib.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Gala Broom  Jhadu (Plastic Sticks)",
@@ -1788,7 +1788,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751264/products/Cleaning_Essentials/Cleaning_Tools/Gala_Broom_Jhadu_Plastic_Sticks/myviuqp1rlbga4ymghc2.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Gala No Dust 90 cm Broom  Jhadu (Plastic, Blue & Brown)",
@@ -1804,7 +1804,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751263/products/Cleaning_Essentials/Cleaning_Tools/Gala_No_Dust_90_cm_Broom_Jhadu_Plastic_Blue_and_Brown/nwfxqahlqi2zr6n0pii4.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Gala Wiper with Replaceable Handle",
@@ -1820,7 +1820,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751262/products/Cleaning_Essentials/Cleaning_Tools/Gala_Wiper_with_Replaceable_Handle/iqcmoqnfwdczkczlmefi.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹206"
+    "price": "206"
   },
   {
     "name": "Scotch Brite - Broom  Jhadu",
@@ -1836,7 +1836,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751261/products/Cleaning_Essentials/Cleaning_Tools/Scotch_Brite__Broom_Jhadu/ih1n3cua11mgqv8935zr.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Surf Excel Easy Wash Detergent Powder (1 kg)",
@@ -1852,7 +1852,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751260/products/Cleaning_Essentials/Detergent_Powder_and_Bars/Surf_Excel_Easy_Wash_Detergent_Powder_1_kg/zpfjbkllufpqfuig8cpl.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹140"
+    "price": "140"
   },
   {
     "name": "Tide Double Power Jasmine & Rose Detergent Powder - Get 1 kg Free",
@@ -1868,7 +1868,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751258/products/Cleaning_Essentials/Detergent_Powder_and_Bars/Tide_Double_Power_Jasmine_and_Rose_Detergent_Powder__Get_1_kg_Free/fvq7g97ydx9cwaclmll1.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Wheel 2 in 1 Clean & Fresh Detergent Powder",
@@ -1882,7 +1882,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751257/products/Cleaning_Essentials/Detergent_Powder_and_Bars/Wheel_2_in_1_Clean_and_Fresh_Detergent_Powder/ns2fg4dp496mng6syiph.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹75"
+    "price": "75"
   },
   {
     "name": "Exo Anti Bacterial Ginger Twist Dishwash Bar",
@@ -1896,7 +1896,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751256/products/Cleaning_Essentials/Dishwahing_Bars_and_Tubs/Exo_Anti_Bacterial_Ginger_Twist_Dishwash_Bar/rglaet4x5ac29uhrxueu.jpg"
     ],
     "quantity": "3 x 90 g + 90 g Free",
-    "price": "₹30"
+    "price": "30"
   },
   {
     "name": "SaveMore Dishwashing Tub + Heavy Duty Scrub Pad Combo",
@@ -1911,7 +1911,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751254/products/Cleaning_Essentials/Dishwahing_Bars_and_Tubs/SaveMore_Dishwashing_Tub__Heavy_Duty_Scrub_Pad_Combo/yrgxen21ru7xjqjv8flo.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Vim Lemon Dishwash Bar (Pack of 4)",
@@ -1926,7 +1926,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751255/products/Cleaning_Essentials/Dishwahing_Bars_and_Tubs/Vim_Lemon_Dishwash_Bar_Pack_of_4/lhl3qgloldldxt5pdhbq.jpg"
     ],
     "quantity": "4 x 200 g",
-    "price": "₹86"
+    "price": "86"
   },
   {
     "name": "Koparo Clean Large Kitchen Sponge Wipe (18 x 20.5 cm)",
@@ -1941,7 +1941,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751254/products/Cleaning_Essentials/Dishwashing_Accessories/Koparo_Clean_Large_Kitchen_Sponge_Wipe_18_x_205_cm/wyydn3bbqywo1fxdsrgk.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Scotch Brite Silver Sparks Scrub Pad",
@@ -1957,7 +1957,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751252/products/Cleaning_Essentials/Dishwashing_Accessories/Scotch_Brite_Silver_Sparks_Scrub_Pad/ljfttunzdp2icczn5dxg.jpg"
     ],
     "quantity": "1 pack (3 pieces)",
-    "price": "₹25"
+    "price": "25"
   },
   {
     "name": "Scotch Brite Stainless Steel Scrubber with 1 Scrub Pad",
@@ -1971,7 +1971,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751253/products/Cleaning_Essentials/Dishwashing_Accessories/Scotch_Brite_Stainless_Steel_Scrubber_with_1_Scrub_Pad/shu3jrv2jpwzc7pjg3vx.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹28"
+    "price": "28"
   },
   {
     "name": "Pril Lime Grease Fighter Dishwash Gel",
@@ -1987,7 +1987,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751250/products/Cleaning_Essentials/Dishwashing_Gels_and_Powder/Pril_Lime_Grease_Fighter_Dishwash_Gel/ncxazptevk0ilh8vxxty.jpg"
     ],
     "quantity": "750 ml",
-    "price": "₹166"
+    "price": "166"
   },
   {
     "name": "SaveMore Lemon Dishwash Gel (500 ml) + Dishwashing Tub Combo",
@@ -2003,7 +2003,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751250/products/Cleaning_Essentials/Dishwashing_Gels_and_Powder/SaveMore_Lemon_Dishwash_Gel_500_ml__Dishwashing_Tub_Combo/n8pdvexxgzuectkzdx7j.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Vim Anti Smell Dishwash Gel With Pudina",
@@ -2019,7 +2019,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751248/products/Cleaning_Essentials/Dishwashing_Gels_and_Powder/Vim_Anti_Smell_Dishwash_Gel_With_Pudina/oif2x37hbrwwtjmfcw8x.jpg"
     ],
     "quantity": "2 l",
-    "price": "₹370"
+    "price": "370"
   },
   {
     "name": "Vim Lemon Dishwash Gel",
@@ -2035,7 +2035,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751247/products/Cleaning_Essentials/Dishwashing_Gels_and_Powder/Vim_Lemon_Dishwash_Gel/n8go0aowqooq7v2on29v.jpg"
     ],
     "quantity": "750 ml",
-    "price": "₹179"
+    "price": "179"
   },
   {
     "name": "Dettol Liquid Disinfectant (Menthol Cool)",
@@ -2051,7 +2051,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751246/products/Cleaning_Essentials/Disinfectant_and_More/Dettol_Liquid_Disinfectant_Menthol_Cool/jm6okfcyp2xkivpp24j2.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Dettol Original Multi-Use Skin & Surface Wet Wipes",
@@ -2067,7 +2067,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751245/products/Cleaning_Essentials/Disinfectant_and_More/Dettol_Original_MultiUse_Skin_and_Surface_Wet_Wipes/nhofdnofuljxswagio0d.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Pee Safe Toilet Seat Disinfectant Spray (Mint)",
@@ -2083,7 +2083,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751244/products/Cleaning_Essentials/Disinfectant_and_More/Pee_Safe_Toilet_Seat_Disinfectant_Spray_Mint/uform46qfiql33c67udg.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Savlon Surface Disinfectant Spray - Pack of 2",
@@ -2099,7 +2099,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751242/products/Cleaning_Essentials/Disinfectant_and_More/Savlon_Surface_Disinfectant_Spray__Pack_of_2/kfvfymmtprtlp3icrtis.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Colin Glass Cleaner (500 ml)",
@@ -2115,7 +2115,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751241/products/Cleaning_Essentials/Floor_Cleaners_and_More/Colin_Glass_Cleaner_500_ml/pvf0usdea1lqldv53msa.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Lizol Disinfectant Surface & Floor Cleaner",
@@ -2131,7 +2131,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751239/products/Cleaning_Essentials/Floor_Cleaners_and_More/Lizol_Disinfectant_Surface_and_Floor_Cleaner/pba6m9few807ezw5zxbd.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹226"
+    "price": "226"
   },
   {
     "name": "Lizol Disinfectant Surface & Floor Cleaner (Citrus) 500 ml",
@@ -2147,7 +2147,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751238/products/Cleaning_Essentials/Floor_Cleaners_and_More/Lizol_Disinfectant_Surface_and_Floor_Cleaner_Citrus_500_ml/fpckemx3kdttymihmysx.jpg"
     ],
     "quantity": "500 ml",
-    "price": "₹116"
+    "price": "116"
   },
   {
     "name": "Ambi Pur Mood Therapy Collection Room Freshener (Rose)",
@@ -2163,7 +2163,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751237/products/Cleaning_Essentials/Fresheners/Ambi_Pur_Mood_Therapy_Collection_Room_Freshener_Rose/f9uiytbpszel3vrdkaxe.jpg"
     ],
     "quantity": "180 g",
-    "price": "₹255"
+    "price": "255"
   },
   {
     "name": "CamPure Sandalwood Camphor  Kapur Cone",
@@ -2179,7 +2179,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751235/products/Cleaning_Essentials/Fresheners/CamPure_Sandalwood_Camphor_Kapur_Cone/zc1o7avbdlri9u7s8ut5.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Godrej Aer Matic Air Freshener - Cool Surf Blue",
@@ -2195,7 +2195,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751236/products/Cleaning_Essentials/Fresheners/Godrej_Aer_Matic_Air_Freshener__Cool_Surf_Blue/kfxmegizly2pjamwyall.jpg"
     ],
     "quantity": "225 ml",
-    "price": "₹284"
+    "price": "284"
   },
   {
     "name": "Godrej Aer Power Pocket Floral Delight Air Freshener",
@@ -2210,7 +2210,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751233/products/Cleaning_Essentials/Fresheners/Godrej_Aer_Power_Pocket_Floral_Delight_Air_Freshener/bwo9dnqf8fmcozvwhkvp.jpg"
     ],
     "quantity": "10 g",
-    "price": "₹65"
+    "price": "65"
   },
   {
     "name": "Crystal Oxo-Biodegradable Garbage Bag (Large, Green)",
@@ -2226,7 +2226,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751232/products/Cleaning_Essentials/Garbage_Bags/Crystal_OxoBiodegradable_Garbage_Bag_Large_Green/ldw0tkyrsdzmauuceaaa.jpg"
     ],
     "quantity": "1 pack (15 pieces)",
-    "price": "₹69"
+    "price": "69"
   },
   {
     "name": "Ezee Premium Garbage Bag (Small, Black)",
@@ -2242,7 +2242,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751231/products/Cleaning_Essentials/Garbage_Bags/Ezee_Premium_Garbage_Bag_Small_Black/cwub7xxgx3tl6in6pc56.jpg"
     ],
     "quantity": "1 pack (30 pieces)",
-    "price": "₹54"
+    "price": "54"
   },
   {
     "name": "Petcrux Dog Poop Bag",
@@ -2257,7 +2257,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751230/products/Cleaning_Essentials/Garbage_Bags/Petcrux_Dog_Poop_Bag/tlejsiorztkqzakq0y2j.jpg"
     ],
     "quantity": "1 pack (75 pieces)",
-    "price": "₹169"
+    "price": "169"
   },
   {
     "name": "Comfort Fabric Conditioner (Perfume Deluxe)",
@@ -2273,7 +2273,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751229/products/Cleaning_Essentials/Laundry_Additives/Comfort_Fabric_Conditioner_Perfume_Deluxe/vxfk9si7cwzoszoqb7uz.jpg"
     ],
     "quantity": "2 l",
-    "price": "₹424"
+    "price": "424"
   },
   {
     "name": "Rin Ala Fabric Whitener",
@@ -2287,7 +2287,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751228/products/Cleaning_Essentials/Laundry_Additives/Rin_Ala_Fabric_Whitener/djmjunnw4xtzmoneoaw4.jpg"
     ],
     "quantity": "500 ml",
-    "price": "₹89"
+    "price": "89"
   },
   {
     "name": "Softouch After Wash Fabric Conditioner",
@@ -2303,7 +2303,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751227/products/Cleaning_Essentials/Laundry_Additives/Softouch_After_Wash_Fabric_Conditioner/tvsubpf6av5wqhdobjwt.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Ariel Top Load Liquid Detergent 2 l",
@@ -2319,7 +2319,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751226/products/Cleaning_Essentials/Liquid_Detergents/Ariel_Top_Load_Liquid_Detergent_2_l/z8fdhrauoekwgsc8ti7o.jpg"
     ],
     "quantity": "2 l",
-    "price": "₹387"
+    "price": "387"
   },
   {
     "name": "Godrej Genteel Top Load Matic Liquid Detergent + 1 kg Refill Pouch",
@@ -2335,7 +2335,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751225/products/Cleaning_Essentials/Liquid_Detergents/Godrej_Genteel_Top_Load_Matic_Liquid_Detergent__1_kg_Refill_Pouch/yxxpt0ui09lten4lufx9.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Surf Excel Front Load Liquid Detergent",
@@ -2351,7 +2351,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751224/products/Cleaning_Essentials/Liquid_Detergents/Surf_Excel_Front_Load_Liquid_Detergent/doje6ixurkl80e6e2s3p.jpg"
     ],
     "quantity": "3.2 l",
-    "price": "₹590"
+    "price": "590"
   },
   {
     "name": "Surf Excel Top Load Liquid Detergent",
@@ -2365,7 +2365,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751222/products/Cleaning_Essentials/Liquid_Detergents/Surf_Excel_Top_Load_Liquid_Detergent/lkuitjntwzlaxruvvdmu.jpg"
     ],
     "quantity": "3.2 l",
-    "price": "₹511"
+    "price": "511"
   },
   {
     "name": "Lazy Cocktails & Co. Variety Pack",
@@ -2381,7 +2381,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751188/products/Cold_Drinks_and_Juices/Beverages_Gift_Packs/Lazy_Cocktails_and_Co_Variety_Pack/tpsjvmvmdn5euxbqaopy.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "paper boat Coconut Water - Pack of 6",
@@ -2397,7 +2397,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751187/products/Cold_Drinks_and_Juices/Coconut_Water/paper_boat_Coconut_Water__Pack_of_6/xk4lxnbigh6ymcuvlst6.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Raw Pressery Coconut Water - Pack of 6",
@@ -2412,7 +2412,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751186/products/Cold_Drinks_and_Juices/Coconut_Water/Raw_Pressery_Coconut_Water__Pack_of_6/yz6b3f0eul7srfqi7bm4.jpg"
     ],
     "quantity": "6 X 200 ml",
-    "price": "₹314"
+    "price": "314"
   },
   {
     "name": "Real Activ 100% Tender Coconut Water - Pack of 4",
@@ -2431,7 +2431,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751184/products/Cold_Drinks_and_Juices/Coconut_Water/Real_Activ_100_Tender_Coconut_Water__Pack_of_4/f23mouidlwl9k1e25dht.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Wow! Coco Charge 100% Organic Tender Coconut Water",
@@ -2444,7 +2444,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751183/products/Cold_Drinks_and_Juices/Coconut_Water/Wow_Coco_Charge_100_Organic_Tender_Coconut_Water/ak1wfrhriuaybhebsr9x.jpg"
     ],
     "quantity": "6 x 200 ml",
-    "price": "₹400"
+    "price": "400"
   },
   {
     "name": "Bru Cold Coffee (Caramel)",
@@ -2458,7 +2458,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751181/products/Cold_Drinks_and_Juices/Cold_Coffee_and_Ice_Tea/Bru_Cold_Coffee_Caramel/czvwsyvwhlsjjamx7nsb.jpg"
     ],
     "quantity": "230 ml",
-    "price": "₹108"
+    "price": "108"
   },
   {
     "name": "Nescafe Choco Mocha Cold Coffee",
@@ -2480,7 +2480,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751182/products/Cold_Drinks_and_Juices/Cold_Coffee_and_Ice_Tea/Nescafe_Choco_Mocha_Cold_Coffee/l88znt2adskph5zazpub.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Nescafe Iced Latte Cold Coffee - Pack of 2",
@@ -2498,7 +2498,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751180/products/Cold_Drinks_and_Juices/Cold_Coffee_and_Ice_Tea/Nescafe_Iced_Latte_Cold_Coffee__Pack_of_2/wgmq1ugxeftpkd3sybpj.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Raw Pressery Iced Green Tea (Peach)",
@@ -2512,7 +2512,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751179/products/Cold_Drinks_and_Juices/Cold_Coffee_and_Ice_Tea/Raw_Pressery_Iced_Green_Tea_Peach/eu6juiyymg88sgl654cf.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹60"
+    "price": "60"
   },
   {
     "name": "Sleepy Owl Hazelnut Cold Coffee Can",
@@ -2528,7 +2528,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751177/products/Cold_Drinks_and_Juices/Cold_Coffee_and_Ice_Tea/Sleepy_Owl_Hazelnut_Cold_Coffee_Can/yrgsjr7ddk92cmukbj06.jpg"
     ],
     "quantity": "200 ml",
-    "price": "₹118"
+    "price": "118"
   },
   {
     "name": "Guruji Kesaria Thandai",
@@ -2543,7 +2543,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751176/products/Cold_Drinks_and_Juices/Concentrates_and_Syrups/Guruji_Kesaria_Thandai/bhthvitpy7yurdlgjoqc.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Hamdard Rooh Afza Rose Sharbat",
@@ -2557,7 +2557,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751176/products/Cold_Drinks_and_Juices/Concentrates_and_Syrups/Hamdard_Rooh_Afza_Rose_Sharbat/yb9nax9uilgq7jgawyre.jpg"
     ],
     "quantity": "750 ml",
-    "price": "₹158"
+    "price": "158"
   },
   {
     "name": "Hommade Lemoneez Syrup",
@@ -2573,7 +2573,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751175/products/Cold_Drinks_and_Juices/Concentrates_and_Syrups/Hommade_Lemoneez_Syrup/t3jaxryqplbvq6oz5ms7.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹86"
+    "price": "86"
   },
   {
     "name": "Monster Energy Drink",
@@ -2589,7 +2589,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751174/products/Cold_Drinks_and_Juices/Energy_Drinks/Monster_Energy_Drink/ev2opdn5pzke9vrdt26w.jpg"
     ],
     "quantity": "350 ml",
-    "price": "₹125"
+    "price": "125"
   },
   {
     "name": "Red Bull Energy Drink (250 ml)",
@@ -2605,7 +2605,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751173/products/Cold_Drinks_and_Juices/Energy_Drinks/Red_Bull_Energy_Drink_250_ml/hetr96nao9e0rymyuzdp.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹125"
+    "price": "125"
   },
   {
     "name": "Sting Energy Drink (250 ml)",
@@ -2619,7 +2619,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751171/products/Cold_Drinks_and_Juices/Energy_Drinks/Sting_Energy_Drink_250_ml/xpfhmlvqc9cvip5a11jc.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "B Natural Orange Juice - Pack of 2",
@@ -2641,7 +2641,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751170/products/Cold_Drinks_and_Juices/Fruits_Juices/B_Natural_Orange_Juice__Pack_of_2/echzmcdlzp7e2xamyetd.jpg"
     ],
     "quantity": "2 x 1 l",
-    "price": "₹140"
+    "price": "140"
   },
   {
     "name": "paper boat Swing Lush Lychee Juice",
@@ -2659,7 +2659,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751169/products/Cold_Drinks_and_Juices/Fruits_Juices/paper_boat_Swing_Lush_Lychee_Juice/u6hptgomqvbbryx5c1cr.jpg"
     ],
     "quantity": "600 ml",
-    "price": "₹38"
+    "price": "38"
   },
   {
     "name": "Raw Pressery Refreshers Pineapple Juice",
@@ -2673,7 +2673,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751171/products/Cold_Drinks_and_Juices/Fruits_Juices/Raw_Pressery_Refreshers_Pineapple_Juice/mo9fues60dvaeeyw3q2a.jpg"
     ],
     "quantity": "750 ml",
-    "price": "₹128"
+    "price": "128"
   },
   {
     "name": "Blue Tea Belly Fat Herbal Tea",
@@ -2688,7 +2688,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751167/products/Cold_Drinks_and_Juices/Herbal_Drinks/Blue_Tea_Belly_Fat_Herbal_Tea/x1ppmovppigqtviook36.jpg"
     ],
     "quantity": "1 pack (25 pieces)",
-    "price": "₹332"
+    "price": "332"
   },
   {
     "name": "Dabur Jamun Neem Karela Health Juice",
@@ -2704,7 +2704,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751166/products/Cold_Drinks_and_Juices/Herbal_Drinks/Dabur_Jamun_Neem_Karela_Health_Juice/p96ffqcwckywnoqgagsh.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹252"
+    "price": "252"
   },
   {
     "name": "Kapiva Wild Amla Cold Pressed Juice - Pack of 2",
@@ -2720,7 +2720,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751165/products/Cold_Drinks_and_Juices/Herbal_Drinks/Kapiva_Wild_Amla_Cold_Pressed_Juice__Pack_of_2/qf1br2oooe65osdhzeuo.jpg"
     ],
     "quantity": "2 x 1 l",
-    "price": "₹479"
+    "price": "479"
   },
   {
     "name": "Patanjali Amla Herbal Juice",
@@ -2735,7 +2735,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751164/products/Cold_Drinks_and_Juices/Herbal_Drinks/Patanjali_Amla_Herbal_Juice/qanlgct200tdiwqdyxey.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹140"
+    "price": "140"
   },
   {
     "name": "Jacob's Creek Unvined Shiraz Non-Alcoholic Wine",
@@ -2751,7 +2751,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751162/products/Cold_Drinks_and_Juices/Imported_Beverages/Jacobs_Creek_Unvined_Shiraz_NonAlcoholic_Wine/obkuhqayrttn7g33zaye.jpg"
     ],
     "quantity": "187 ml",
-    "price": "₹275"
+    "price": "275"
   },
   {
     "name": "Jameson Ginger Ale - Pack of 2",
@@ -2767,7 +2767,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751161/products/Cold_Drinks_and_Juices/Imported_Beverages/Jameson_Ginger_Ale__Pack_of_2/v3uhekgds8vqpctlp82j.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Mogu Mogu Lychee Fruit Drink with Nata De Coco",
@@ -2782,7 +2782,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751160/products/Cold_Drinks_and_Juices/Imported_Beverages/Mogu_Mogu_Lychee_Fruit_Drink_with_Nata_De_Coco/fgcoyif995ekbh31hruj.jpg"
     ],
     "quantity": "300 ml",
-    "price": "₹70"
+    "price": "70"
   },
   {
     "name": "Maaza Mango Drink 600 ml",
@@ -2798,7 +2798,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751159/products/Cold_Drinks_and_Juices/Mongo_Drinks/Maaza_Mango_Drink_600_ml/sxlmhjgkvnzn7yhqtmtp.jpg"
     ],
     "quantity": "600 ml",
-    "price": "₹40"
+    "price": "40"
   },
   {
     "name": "Raw Pressery Alphonso Mango Drink - Pack of 6",
@@ -2813,7 +2813,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751157/products/Cold_Drinks_and_Juices/Mongo_Drinks/Raw_Pressery_Alphonso_Mango_Drink__Pack_of_6/qalkh9y0x1q3btunvtdh.jpg"
     ],
     "quantity": "6 x 200 ml",
-    "price": "₹306"
+    "price": "306"
   },
   {
     "name": "Slice Mango Drink (1.75 l)",
@@ -2829,7 +2829,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751157/products/Cold_Drinks_and_Juices/Mongo_Drinks/Slice_Mango_Drink_175_l/epsivmwdaicth6mr5m2a.jpg"
     ],
     "quantity": "1.75 l",
-    "price": "₹93"
+    "price": "93"
   },
   {
     "name": "Raw Pressery Pomegranate Juice (250 ml) - Pack of 2",
@@ -2845,7 +2845,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751154/products/Cold_Drinks_and_Juices/Pure_Juices/Raw_Pressery_Pomegranate_Juice_250_ml__Pack_of_2/iriccnebshy43fnw5m9b.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Real Activ 100% Orange Juice - Pack of 3",
@@ -2861,7 +2861,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751155/products/Cold_Drinks_and_Juices/Pure_Juices/Real_Activ_100_Orange_Juice__Pack_of_3/imgwpwzzzk9rvgvte8og.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Storia 100% Mango Juice",
@@ -2877,7 +2877,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751153/products/Cold_Drinks_and_Juices/Pure_Juices/Storia_100_Mango_Juice/ulz8f36fceeg2z8vgmuk.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Dash of RCB Cranberry Cosmopolitian Cocktail Mix",
@@ -2892,7 +2892,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751145/products/Cold_Drinks_and_Juices/Soda_and_Mixers/Dash_of_RCB_Cranberry_Cosmopolitian_Cocktail_Mix/ywrmhotopedq7dmjdd2e.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Duke's Club Soda Water",
@@ -2905,7 +2905,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751144/products/Cold_Drinks_and_Juices/Soda_and_Mixers/Dukes_Club_Soda_Water/zmvcxakdx1vzqpjch28p.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Kinley Soda Water With Extra Punch",
@@ -2921,7 +2921,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751145/products/Cold_Drinks_and_Juices/Soda_and_Mixers/Kinley_Soda_Water_With_Extra_Punch/yrxihxvb1uywagjglbmm.jpg"
     ],
     "quantity": "750 ml",
-    "price": "₹20"
+    "price": "20"
   },
   {
     "name": "paper boat Zero Sparkling Water (Ginger Lemon) - Pack of 2",
@@ -2936,7 +2936,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751142/products/Cold_Drinks_and_Juices/Soda_and_Mixers/paper_boat_Zero_Sparkling_Water_Ginger_Lemon__Pack_of_2/msiphr3ftwvdoqwokiks.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Coca-Cola Soft Drink (750 ml) - Pack of 2",
@@ -2955,7 +2955,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751152/products/Cold_Drinks_and_Juices/Soft_Drinks/CocaCola_Soft_Drink_750_ml__Pack_of_2/ebvl7zon8q6fjr9wntht.jpg"
     ],
     "quantity": "2 x 750 ml",
-    "price": "₹79"
+    "price": "79"
   },
   {
     "name": "Pepsi Black Zero Calories Soft Drink - Buy 5 Get 1",
@@ -2969,7 +2969,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751150/products/Cold_Drinks_and_Juices/Soft_Drinks/Pepsi_Black_Zero_Calories_Soft_Drink__Buy_5_Get_1/vfd6bc3xvue6svqqdazf.jpg"
     ],
     "quantity": "6 x 250 ml",
-    "price": "₹175"
+    "price": "175"
   },
   {
     "name": "Pepsi Soft Drink Multi Pack - Buy 5 Get 1 Free",
@@ -2983,7 +2983,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751148/products/Cold_Drinks_and_Juices/Soft_Drinks/Pepsi_Soft_Drink_Multi_Pack__Buy_5_Get_1_Free/j5sygzivx5rl2rav9ghl.jpg"
     ],
     "quantity": "6 x 250 ml",
-    "price": "₹175"
+    "price": "175"
   },
   {
     "name": "Sprite Lime Flavored Soft Drink 750 ml",
@@ -2999,7 +2999,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751146/products/Cold_Drinks_and_Juices/Soft_Drinks/Sprite_Lime_Flavored_Soft_Drink_750_ml/vm4nun5v4mwzpmwyex50.jpg"
     ],
     "quantity": "750 ml",
-    "price": "₹40"
+    "price": "40"
   },
   {
     "name": "Thums Up Soft Drink (300 ml)",
@@ -3017,7 +3017,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751149/products/Cold_Drinks_and_Juices/Soft_Drinks/Thums_Up_Soft_Drink_300_ml/jq6rbv8amagvzacputtb.jpg"
     ],
     "quantity": "300 ml",
-    "price": "₹40"
+    "price": "40"
   },
   {
     "name": "Bisleri Packaged Water",
@@ -3030,7 +3030,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751143/products/Cold_Drinks_and_Juices/Waterand_Ice_Cubes/Bisleri_Packaged_Water/oyk2djfcgxstuwh9tve6.jpg"
     ],
     "quantity": "5 l",
-    "price": "₹70"
+    "price": "70"
   },
   {
     "name": "Evocus Black Alkaline Water",
@@ -3043,7 +3043,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751143/products/Cold_Drinks_and_Juices/Waterand_Ice_Cubes/Evocus_Black_Alkaline_Water/hgylbsfsweizw7ez4wsc.jpg"
     ],
     "quantity": "1 pack (500 ml x 6 pieces)",
-    "price": "₹540"
+    "price": "540"
   },
   {
     "name": "Kinley Packaged Water",
@@ -3059,7 +3059,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751141/products/Cold_Drinks_and_Juices/Waterand_Ice_Cubes/Kinley_Packaged_Water/imjb90vpcoyl8arvrjcn.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹20"
+    "price": "20"
   },
   {
     "name": "iD Idli & Dosa Batter (2 kg)",
@@ -3074,7 +3074,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751496/products/Dairy_Bread_and_Eggs/Batter/iD_Idli_and_Dosa_Batter_2_kg/qdxmakeidzkbugg69m31.jpg"
     ],
     "quantity": "2 kg",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "iD Idli & Dosa Batter - 500 g",
@@ -3088,7 +3088,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751492/products/Dairy_Bread_and_Eggs/Batter/iD_Idli_and_Dosa_Batter__500_g/ujqlsbtkhe5y4yuzpqe3.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹65"
+    "price": "65"
   },
   {
     "name": "Britannia Brown Bread",
@@ -3103,7 +3103,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751492/products/Dairy_Bread_and_Eggs/Bread_and_Pav/Britannia_Brown_Bread/xralofljj74bjdwszzsu.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹55"
+    "price": "55"
   },
   {
     "name": "Britannia Vitarich Sandwich White Bread",
@@ -3116,7 +3116,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751491/products/Dairy_Bread_and_Eggs/Bread_and_Pav/Britannia_Vitarich_Sandwich_White_Bread/ecgew4uyxqrmxco3dhen.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "English Oven Milk Bread",
@@ -3132,7 +3132,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751489/products/Dairy_Bread_and_Eggs/Bread_and_Pav/English_Oven_Milk_Bread/u1nlqgezfdwn9a6dodbc.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹50"
+    "price": "50"
   },
   {
     "name": "English Oven Multigrain Sub Bread",
@@ -3147,7 +3147,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751487/products/Dairy_Bread_and_Eggs/Bread_and_Pav/English_Oven_Multigrain_Sub_Bread/zv6k5qyoredqpghnvfzc.jpg"
     ],
     "quantity": "160 g (2 pieces)",
-    "price": "₹50"
+    "price": "50"
   },
   {
     "name": "English Oven Sandwich White Bread",
@@ -3165,7 +3165,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751490/products/Dairy_Bread_and_Eggs/Bread_and_Pav/English_Oven_Sandwich_White_Bread/xg2doyotnjejs5ibav7z.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹45"
+    "price": "45"
   },
   {
     "name": "Modern Multigrain Bread",
@@ -3180,7 +3180,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751486/products/Dairy_Bread_and_Eggs/Bread_and_Pav/Modern_Multigrain_Bread/njtn58abjryvuciuazmi.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Modern Sandwich Bread",
@@ -3194,7 +3194,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751484/products/Dairy_Bread_and_Eggs/Bread_and_Pav/Modern_Sandwich_Bread/powkmb7my5m7ajuppyjw.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "The Health Factory Zero Maida Whole Wheat Bread",
@@ -3211,7 +3211,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751485/products/Dairy_Bread_and_Eggs/Bread_and_Pav/The_Health_Factory_Zero_Maida_Whole_Wheat_Bread/ftc8vpr5vm9qpxfpujyw.jpg"
     ],
     "quantity": "350 g",
-    "price": "₹60"
+    "price": "60"
   },
   {
     "name": "Gits Rice Idli Breakfast Mix",
@@ -3224,7 +3224,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751483/products/Dairy_Bread_and_Eggs/Breakfast_Mixes/Gits_Rice_Idli_Breakfast_Mix/lpwxwdhddfhb63rwivut.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹140"
+    "price": "140"
   },
   {
     "name": "MOM - Meal Of The Moment Ghee Rava Upma With Bhujia",
@@ -3239,7 +3239,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751484/products/Dairy_Bread_and_Eggs/Breakfast_Mixes/MOM__Meal_Of_The_Moment_Ghee_Rava_Upma_With_Bhujia/juhavvvff0hnyjd9adzd.jpg"
     ],
     "quantity": "75 g",
-    "price": "₹65"
+    "price": "65"
   },
   {
     "name": "MTR 3 Minute Poha Breakfast Mix - Pack of 5",
@@ -3254,7 +3254,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751482/products/Dairy_Bread_and_Eggs/Breakfast_Mixes/MTR_3_Minute_Poha_Breakfast_Mix__Pack_of_5/aymvpiw8vwdfge7eonyk.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "MTR Upma Breakfast Mix",
@@ -3271,7 +3271,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751481/products/Dairy_Bread_and_Eggs/Breakfast_Mixes/MTR_Upma_Breakfast_Mix/wtfvli35jbfpc53xthm8.jpg"
     ],
     "quantity": "160 g",
-    "price": "₹57"
+    "price": "57"
   },
   {
     "name": "Amul Lite Milk Fat Spread",
@@ -3286,7 +3286,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751480/products/Dairy_Bread_and_Eggs/Butter_and_More/Amul_Lite_Milk_Fat_Spread/yow3sfuysfjx4swrvwhv.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹48"
+    "price": "48"
   },
   {
     "name": "Amul Salted Butter",
@@ -3301,7 +3301,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751479/products/Dairy_Bread_and_Eggs/Butter_and_More/Amul_Salted_Butter/yeo9tqgl5pv6ij3rbvjj.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹60"
+    "price": "60"
   },
   {
     "name": "Amul Unsalted Butter",
@@ -3314,7 +3314,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751475/products/Dairy_Bread_and_Eggs/Butter_and_More/Amul_Unsalted_Butter/lrhetax1tnk9lofw7cjy.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹295"
+    "price": "295"
   },
   {
     "name": "Mother Dairy Salted Butter",
@@ -3328,7 +3328,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751478/products/Dairy_Bread_and_Eggs/Butter_and_More/Mother_Dairy_Salted_Butter/kmcpk0t6lgeqmj3omtio.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹60"
+    "price": "60"
   },
   {
     "name": "Nutralite DoodhShakti Probiotic Butter (500 g)",
@@ -3345,7 +3345,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751477/products/Dairy_Bread_and_Eggs/Butter_and_More/Nutralite_DoodhShakti_Probiotic_Butter_500_g/ndhk5nkqwqapici1xmiy.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹264"
+    "price": "264"
   },
   {
     "name": "Amul Blend Diced Cheese",
@@ -3360,7 +3360,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751475/products/Dairy_Bread_and_Eggs/cheese/Amul_Blend_Diced_Cheese/xzhzzytiz2welnjjgaou.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹125"
+    "price": "125"
   },
   {
     "name": "Amul Pizza Mozzarella Cheese Block",
@@ -3375,7 +3375,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751474/products/Dairy_Bread_and_Eggs/cheese/Amul_Pizza_Mozzarella_Cheese_Block/t0wzypfw8weghmfiszkt.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Cremeitalia Cream Cheese",
@@ -3390,7 +3390,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751472/products/Dairy_Bread_and_Eggs/cheese/Cremeitalia_Cream_Cheese/uhgdn7fhtesgoba4t0eg.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹325"
+    "price": "325"
   },
   {
     "name": "Cremeitalia Ricotta Cheese",
@@ -3405,7 +3405,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751470/products/Dairy_Bread_and_Eggs/cheese/Cremeitalia_Ricotta_Cheese/ygqywtqkwmqhhnf3ehhc.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹240"
+    "price": "240"
   },
   {
     "name": "D'lecta Mascarpone Cheese",
@@ -3421,7 +3421,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751473/products/Dairy_Bread_and_Eggs/cheese/Dlecta_Mascarpone_Cheese/wotkwizlyt8cgqnnwrjo.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹356"
+    "price": "356"
   },
   {
     "name": "Voila Himalayan Gruyere Cheese",
@@ -3435,7 +3435,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751471/products/Dairy_Bread_and_Eggs/cheese/Voila_Himalayan_Gruyere_Cheese/xnfwdmpkkat03xunkuo9.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹452"
+    "price": "452"
   },
   {
     "name": "Amul Mithai Mate Condensed Milk",
@@ -3447,7 +3447,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751469/products/Dairy_Bread_and_Eggs/Condensed_milk/Amul_Mithai_Mate_Condensed_Milk/svzflmdj4c5sevxmfosk.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹66"
+    "price": "66"
   },
   {
     "name": "Nestle Milkmaid Mini Condensed Milk",
@@ -3464,7 +3464,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751469/products/Dairy_Bread_and_Eggs/Condensed_milk/Nestle_Milkmaid_Mini_Condensed_Milk/apcw2lmvrpuvnztnbyzd.jpg"
     ],
     "quantity": "210 g",
-    "price": "₹89"
+    "price": "89"
   },
   {
     "name": "Nestle Milkmaid Sweetened Condensed Milk",
@@ -3481,7 +3481,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751467/products/Dairy_Bread_and_Eggs/Condensed_milk/Nestle_Milkmaid_Sweetened_Condensed_Milk/qhwwbeuz3gt7mzbickkn.jpg"
     ],
     "quantity": "380 g",
-    "price": "₹146"
+    "price": "146"
   },
   {
     "name": "Amul Whipping Cream",
@@ -3496,7 +3496,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751465/products/Dairy_Bread_and_Eggs/Cream_and_Whitener/Amul_Whipping_Cream/tlmrucsxucs4ulya9wim.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹85"
+    "price": "85"
   },
   {
     "name": "Amulya Dairy Whitener",
@@ -3510,7 +3510,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751466/products/Dairy_Bread_and_Eggs/Cream_and_Whitener/Amulya_Dairy_Whitener/qb2vmzlcsiohs6bt74ks.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹235"
+    "price": "235"
   },
   {
     "name": "Mother Dairy - Dairy Whitener",
@@ -3525,7 +3525,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751464/products/Dairy_Bread_and_Eggs/Cream_and_Whitener/Mother_Dairy__Dairy_Whitener/nj2zfnjlvumr9mwrodsz.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹235"
+    "price": "235"
   },
   {
     "name": "Amul Masti Curd",
@@ -3539,7 +3539,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751462/products/Dairy_Bread_and_Eggs/Curd_and_Yogurt/Amul_Masti_Curd/u4rdlyi869mbeh71x0hy.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹35"
+    "price": "35"
   },
   {
     "name": "epigamia Blueberry Flavoured Greek Yogurt",
@@ -3555,7 +3555,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751463/products/Dairy_Bread_and_Eggs/Curd_and_Yogurt/epigamia_Blueberry_Flavoured_Greek_Yogurt/kzc79vbbwcsmmqvowq27.jpg"
     ],
     "quantity": "85 g",
-    "price": "₹60"
+    "price": "60"
   },
   {
     "name": "epigamia Mishti Doi",
@@ -3571,7 +3571,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751461/products/Dairy_Bread_and_Eggs/Curd_and_Yogurt/epigamia_Mishti_Doi/equr16xvfmnzpxkww9bw.jpg"
     ],
     "quantity": "80 g",
-    "price": "₹35"
+    "price": "35"
   },
   {
     "name": "Gowardhan Curd",
@@ -3584,7 +3584,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751459/products/Dairy_Bread_and_Eggs/Curd_and_Yogurt/Gowardhan_Curd/akobtnyrvfskgnfal8jw.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "iD Creamy Thick Curd",
@@ -3600,7 +3600,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751460/products/Dairy_Bread_and_Eggs/Curd_and_Yogurt/iD_Creamy_Thick_Curd/xxdtpzy3bndknucsfhjq.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹48"
+    "price": "48"
   },
   {
     "name": "Milky Mist Farm Fresh Curd",
@@ -3615,7 +3615,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751458/products/Dairy_Bread_and_Eggs/Curd_and_Yogurt/Milky_Mist_Farm_Fresh_Curd/ci2mvpcf0ev3x1rgzjoh.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Mother Dairy Classic Curd",
@@ -3630,7 +3630,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751457/products/Dairy_Bread_and_Eggs/Curd_and_Yogurt/Mother_Dairy_Classic_Curd/kg2tlb3wjb9vyvveyqpa.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹35"
+    "price": "35"
   },
   {
     "name": "Mother Dairy Ultimate Curd",
@@ -3646,7 +3646,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751456/products/Dairy_Bread_and_Eggs/Curd_and_Yogurt/Mother_Dairy_Ultimate_Curd/tbjynt7fsbveron0zmqq.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹55"
+    "price": "55"
   },
   {
     "name": "Prabhat Home Taste Curd",
@@ -3660,7 +3660,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751455/products/Dairy_Bread_and_Eggs/Curd_and_Yogurt/Prabhat_Home_Taste_Curd/uqpqceeewur2z0in58m0.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Delfrez Nutri White Eggs",
@@ -3676,7 +3676,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751454/products/Dairy_Bread_and_Eggs/Eggs/Delfrez_Nutri_White_Eggs/jo1x1fgh3rwvsyicleae.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Hen Fruit Farm White Eggs (10 pieces)",
@@ -3693,7 +3693,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751453/products/Dairy_Bread_and_Eggs/Eggs/Hen_Fruit_Farm_White_Eggs_10_pieces/ecnseh4vlbjm0logvtpx.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Licious Brown Eggs",
@@ -3706,7 +3706,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751452/products/Dairy_Bread_and_Eggs/Eggs/Licious_Brown_Eggs/khih8hti6l8t4uhibfma.jpg"
     ],
     "quantity": "6 pieces",
-    "price": "₹105"
+    "price": "105"
   },
   {
     "name": "Licious Farm Fresh Classic White Eggs",
@@ -3719,7 +3719,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751452/products/Dairy_Bread_and_Eggs/Eggs/Licious_Farm_Fresh_Classic_White_Eggs/mrxqzcs23iofini8fjrk.jpg"
     ],
     "quantity": "6 pieces",
-    "price": "₹79"
+    "price": "79"
   },
   {
     "name": "Table White White Eggs (10 pieces)",
@@ -3732,7 +3732,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751451/products/Dairy_Bread_and_Eggs/Eggs/Table_White_White_Eggs_10_pieces/bclxfodmalhkzofmiuag.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Table White White Eggs - 30 Pieces Tray",
@@ -3748,7 +3748,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751450/products/Dairy_Bread_and_Eggs/Eggs/Table_White_White_Eggs__30_Pieces_Tray/wpjpaziuaesy6c2spj4k.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "UPF Healthy Brown Eggs",
@@ -3762,7 +3762,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751450/products/Dairy_Bread_and_Eggs/Eggs/UPF_Healthy_Brown_Eggs/ctuuefeb6l2x8ggmcyny.jpg"
     ],
     "quantity": "6 pieces",
-    "price": "₹84"
+    "price": "84"
   },
   {
     "name": "Yojana Poultry Power White Eggs",
@@ -3776,7 +3776,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751448/products/Dairy_Bread_and_Eggs/Eggs/Yojana_Poultry_Power_White_Eggs/s9d5jkxiclux2hs5vwfl.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "RiteBite Max Protein Bar (Peanut Butter)",
@@ -3791,7 +3791,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751446/products/Dairy_Bread_and_Eggs/Energy_Bar/RiteBite_Max_Protein_Bar_Peanut_Butter/gohkbcix6yaphiyoeci4.jpg"
     ],
     "quantity": "70 g",
-    "price": "₹110"
+    "price": "110"
   },
   {
     "name": "RiteBite Max Protein Daily Choco Almond Protein Bar - Pack of 2",
@@ -3807,7 +3807,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751448/products/Dairy_Bread_and_Eggs/Energy_Bar/RiteBite_Max_Protein_Daily_Choco_Almond_Protein_Bar__Pack_of_2/qbnojqzvtpldqsejfqgh.jpg"
     ],
     "quantity": "2 x 50 g",
-    "price": "₹143"
+    "price": "143"
   },
   {
     "name": "RiteBite Max Protein Daily Choco Berry Protein Bar - Pack of",
@@ -3822,7 +3822,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751447/products/Dairy_Bread_and_Eggs/Energy_Bar/RiteBite_Max_Protein_Daily_Choco_Berry_Protein_Bar__Pack_of/o2a7hqa0zixvxcvplhyc.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "RiteBite Max Protein Daily Choco Classic Nutrition Bar - Pack of 2",
@@ -3837,7 +3837,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751445/products/Dairy_Bread_and_Eggs/Energy_Bar/RiteBite_Max_Protein_Daily_Choco_Classic_Nutrition_Bar__Pack_of_2/rdvq3beyktfcyaqvtjdk.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Kellogg's Chocos Cereal (Variety Pack of 7)",
@@ -3851,7 +3851,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751444/products/Dairy_Bread_and_Eggs/Flakes_and_Kids_Cereals/Kelloggs_Chocos_Cereal_Variety_Pack_of_7/i24g0vspcxa7pg0il2qx.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Kellogg's Corn Flakes with Immuno Nutrients",
@@ -3868,7 +3868,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751443/products/Dairy_Bread_and_Eggs/Flakes_and_Kids_Cereals/Kelloggs_Corn_Flakes_with_Immuno_Nutrients/m7fq7ghv2qrdxw31nfnn.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹115"
+    "price": "115"
   },
   {
     "name": "Kellogg's Double Chocolaty Fills Chocos (Crunchy Outside, Creamy Inside)",
@@ -3884,7 +3884,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751441/products/Dairy_Bread_and_Eggs/Flakes_and_Kids_Cereals/Kelloggs_Double_Chocolaty_Fills_Chocos_Crunchy_Outside_Creamy_Inside/flesfutlfmhdhmzdblkp.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹191"
+    "price": "191"
   },
   {
     "name": "Kellogg's Froot Loops, Crunchy Multigrain Cereal",
@@ -3899,7 +3899,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751440/products/Dairy_Bread_and_Eggs/Flakes_and_Kids_Cereals/Kelloggs_Froot_Loops_Crunchy_Multigrain_Cereal/wukgnajvkz3wq6egpxsi.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Sundrop Popz Multigran Chocolatey Crunch Fills Kids Cereal",
@@ -3911,7 +3911,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751440/products/Dairy_Bread_and_Eggs/Flakes_and_Kids_Cereals/Sundrop_Popz_Multigran_Chocolatey_Crunch_Fills_Kids_Cereal/iap5vhhfo7xydtqdtmpc.jpg"
     ],
     "quantity": "300 g",
-    "price": "₹99"
+    "price": "99"
   },
   {
     "name": "Yoga Bar Crunchy Corn Flakes",
@@ -3929,7 +3929,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751438/products/Dairy_Bread_and_Eggs/Flakes_and_Kids_Cereals/Yoga_Bar_Crunchy_Corn_Flakes/rvnngi6xsabduqf6wkuf.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Yoga Bar No Maida Choco Cereal",
@@ -3944,7 +3944,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751439/products/Dairy_Bread_and_Eggs/Flakes_and_Kids_Cereals/Yoga_Bar_No_Maida_Choco_Cereal/yeezdg1ereas6cihxstq.jpg"
     ],
     "quantity": "345 g",
-    "price": "₹182"
+    "price": "182"
   },
   {
     "name": "Anveshan Raw Wild Forest Honey",
@@ -3960,7 +3960,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751431/products/Dairy_Bread_and_Eggs/Honey_and_Chyanwanprash/Anveshan_Raw_Wild_Forest_Honey/mie1yvimxvzkjnm3ygd9.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹358"
+    "price": "358"
   },
   {
     "name": "Dabur 100 % Pure Squeezy Honey - Buy 1 Get 1 Free",
@@ -3977,7 +3977,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751430/products/Dairy_Bread_and_Eggs/Honey_and_Chyanwanprash/Dabur_100__Pure_Squeezy_Honey__Buy_1_Get_1_Free/vdabs7zok3cb7plri0aw.jpg"
     ],
     "quantity": "400 g + 400 g",
-    "price": "₹353"
+    "price": "353"
   },
   {
     "name": "Dabur 100% Pure Honey",
@@ -3996,7 +3996,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751428/products/Dairy_Bread_and_Eggs/Honey_and_Chyanwanprash/Dabur_100_Pure_Honey/bz2243pekttatthxdyhe.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹67"
+    "price": "67"
   },
   {
     "name": "Dabur Organic Honey",
@@ -4016,7 +4016,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751427/products/Dairy_Bread_and_Eggs/Honey_and_Chyanwanprash/Dabur_Organic_Honey/xqfutmwdlbdaofx3dkhi.jpg"
     ],
     "quantity": "300 g",
-    "price": "₹224"
+    "price": "224"
   },
   {
     "name": "Nature's Nectar Natural Honey",
@@ -4031,7 +4031,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751424/products/Dairy_Bread_and_Eggs/Honey_and_Chyanwanprash/Natures_Nectar_Natural_Honey/lrxehtcnpw0xilybthfl.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Organic India Multi Floral Honey",
@@ -4046,7 +4046,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751425/products/Dairy_Bread_and_Eggs/Honey_and_Chyanwanprash/Organic_India_Multi_Floral_Honey/yntdnlcfmdaflcer0r6l.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹214"
+    "price": "214"
   },
   {
     "name": "Amul Kool Badam Flavoured Milk",
@@ -4060,7 +4060,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751436/products/Dairy_Bread_and_Eggs/Lassi_Shakes_and_More/Amul_Kool_Badam_Flavoured_Milk/tixtejfeswgiublijm4i.jpg"
     ],
     "quantity": "180 ml",
-    "price": "₹25"
+    "price": "25"
   },
   {
     "name": "Amul Kool Kesar Flavoured Milk",
@@ -4074,7 +4074,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751434/products/Dairy_Bread_and_Eggs/Lassi_Shakes_and_More/Amul_Kool_Kesar_Flavoured_Milk/aoabvsufqdcopdbmfsne.jpg"
     ],
     "quantity": "180 ml",
-    "price": "₹25"
+    "price": "25"
   },
   {
     "name": "Amul Kool Rose Flavoured Milk",
@@ -4088,7 +4088,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751434/products/Dairy_Bread_and_Eggs/Lassi_Shakes_and_More/Amul_Kool_Rose_Flavoured_Milk/qsux14hyygsbljiv0jyn.jpg"
     ],
     "quantity": "180 ml",
-    "price": "₹25"
+    "price": "25"
   },
   {
     "name": "Epigamia Origins Chocolate Milkshake",
@@ -4103,7 +4103,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751435/products/Dairy_Bread_and_Eggs/Lassi_Shakes_and_More/Epigamia_Origins_Chocolate_Milkshake/pkhqp6v2tasndnacbibp.jpg"
     ],
     "quantity": "180 ml",
-    "price": "₹32"
+    "price": "32"
   },
   {
     "name": "Sunfeast Dark Fantasy Milkshake with Belgian Chocolate - Pack of 3",
@@ -4120,7 +4120,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751433/products/Dairy_Bread_and_Eggs/Lassi_Shakes_and_More/Sunfeast_Dark_Fantasy_Milkshake_with_Belgian_Chocolate__Pack_of_3/ujmfy8iauazwu6mnmwgm.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Truly Desi Gir Cow A2 Salted Buttermilk - 250 ml",
@@ -4136,7 +4136,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751432/products/Dairy_Bread_and_Eggs/Lassi_Shakes_and_More/Truly_Desi_Gir_Cow_A2_Salted_Buttermilk__250_ml/ivefkjhmw9klzyqk9pfc.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Amul Cow Fresh Milk",
@@ -4151,7 +4151,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751422/products/Dairy_Bread_and_Eggs/Milk/Amul_Cow_Fresh_Milk/hhw3k670ule5hnxwutps.jpg"
     ],
     "quantity": "500 ml",
-    "price": "₹29"
+    "price": "29"
   },
   {
     "name": "Amul Gold Full Cream Fresh Milk",
@@ -4166,7 +4166,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751423/products/Dairy_Bread_and_Eggs/Milk/Amul_Gold_Full_Cream_Fresh_Milk/pspsxa3prddwzohc5m1s.jpg"
     ],
     "quantity": "500 ml",
-    "price": "₹34"
+    "price": "34"
   },
   {
     "name": "Amul Gold Milk",
@@ -4181,7 +4181,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751421/products/Dairy_Bread_and_Eggs/Milk/Amul_Gold_Milk/d0wletkmykoxohuoahiy.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹80"
+    "price": "80"
   },
   {
     "name": "Amul Taaza Homogenised Toned Milk",
@@ -4197,7 +4197,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751420/products/Dairy_Bread_and_Eggs/Milk/Amul_Taaza_Homogenised_Toned_Milk/f912stmrelhxw7fymnpa.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹71"
+    "price": "71"
   },
   {
     "name": "Amul Taaza Toned Fresh Milk",
@@ -4211,7 +4211,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751419/products/Dairy_Bread_and_Eggs/Milk/Amul_Taaza_Toned_Fresh_Milk/gopfejqxp33eztecyjqq.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹56"
+    "price": "56"
   },
   {
     "name": "Gokul Full Cream Fresh Milk",
@@ -4225,7 +4225,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751418/products/Dairy_Bread_and_Eggs/Milk/Gokul_Full_Cream_Fresh_Milk/m2hb20ihvk18ku4vpq0c.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Mother Dairy Sweet Lassi - Pack of 4",
@@ -4238,7 +4238,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751418/products/Dairy_Bread_and_Eggs/Milk/Mother_Dairy_Sweet_Lassi__Pack_of_4/me7c8uab0txzukgcdvev.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Kellogg's Muesli Fruit, Nut & Seeds",
@@ -4255,7 +4255,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751417/products/Dairy_Bread_and_Eggs/muesli_and_Granola/Kelloggs_Muesli_Fruit_Nut_and_Seeds/flchs9tqhba4ppx7blld.jpg"
     ],
     "quantity": "750 g",
-    "price": "₹419"
+    "price": "419"
   },
   {
     "name": "Kwality Crunchy Fruit & Nut 76% Multigrain Muesli",
@@ -4271,7 +4271,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751416/products/Dairy_Bread_and_Eggs/muesli_and_Granola/Kwality_Crunchy_Fruit_and_Nut_76_Multigrain_Muesli/tamdi83zwrbvmdaexeob.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹358"
+    "price": "358"
   },
   {
     "name": "MuscleBlaze High Protein Muesli (Dark Chocolate & Cranberry)",
@@ -4290,7 +4290,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751414/products/Dairy_Bread_and_Eggs/muesli_and_Granola/MuscleBlaze_High_Protein_Muesli_Dark_Chocolate_and_Cranberry/ixtkznemq1dfveo8hlsm.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹635"
+    "price": "635"
   },
   {
     "name": "Tata Soulfull Millet Granola, Almonds And Cranberries Breakfast Cereal",
@@ -4309,7 +4309,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751413/products/Dairy_Bread_and_Eggs/muesli_and_Granola/Tata_Soulfull_Millet_Granola_Almonds_And_Cranberries_Breakfast_Cereal/ebacssusjghwd0bvupnm.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹338"
+    "price": "338"
   },
   {
     "name": "The Whole Truth Choco Fruit Crunch Muesli",
@@ -4325,7 +4325,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751411/products/Dairy_Bread_and_Eggs/muesli_and_Granola/The_Whole_Truth_Choco_Fruit_Crunch_Muesli/vl4skgu1opdpdpwnp46y.jpg"
     ],
     "quantity": "750 g",
-    "price": "₹600"
+    "price": "600"
   },
   {
     "name": "True Elements Dark Chocolate Granola",
@@ -4340,7 +4340,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751410/products/Dairy_Bread_and_Eggs/muesli_and_Granola/True_Elements_Dark_Chocolate_Granola/uvoxx5ke0iwrnc5mpoaq.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹289"
+    "price": "289"
   },
   {
     "name": "Yoga Bar High Protein Muesli (Choco Almond & Cranberry)",
@@ -4357,7 +4357,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751409/products/Dairy_Bread_and_Eggs/muesli_and_Granola/Yoga_Bar_High_Protein_Muesli_Choco_Almond_and_Cranberry/hglztx791yhexrc2vtdf.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Bagrry's 100% Whole Grain White Oats",
@@ -4366,7 +4366,7 @@ export const products = [
     "sharedLink": "https://www.dropbox.com/scl/fi/bj6313mtbktcfmqtxwjrz/product-details.rtf?rlkey=xwxi465x6qk9axu6owcskcuhf&dl=0",
     "images": [],
     "quantity": "1 kg",
-    "price": "₹170"
+    "price": "170"
   },
   {
     "name": "Quaker Berries & Seeds Oats Muesli",
@@ -4380,7 +4380,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751407/products/Dairy_Bread_and_Eggs/oats/Quaker_Berries_and_Seeds_Oats_Muesli/is2zvbjih4mn1lzqg6kq.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Quaker Instant Masala Magic Oats",
@@ -4394,7 +4394,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751405/products/Dairy_Bread_and_Eggs/oats/Quaker_Instant_Masala_Magic_Oats/nz2lurwg1kjnwzbu8fr2.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹148"
+    "price": "148"
   },
   {
     "name": "Quaker Rolled Oats",
@@ -4410,7 +4410,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751021/products/Organic_and_Healthy_Living/Breakfast_and_More/Quaker_Rolled_Oats/akk3rf9spmyaogjo1nbc.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹86"
+    "price": "86"
   },
   {
     "name": "Saffola Masala Veggie Twist Oats",
@@ -4424,7 +4424,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751403/products/Dairy_Bread_and_Eggs/oats/Saffola_Masala_Veggie_Twist_Oats/ublwdwwgw1oyhfgbccvi.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹204"
+    "price": "204"
   },
   {
     "name": "Tata Soulfull Desi Veggie Masala Oats With 25% Millets, Non Sticky",
@@ -4443,7 +4443,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751407/products/Dairy_Bread_and_Eggs/oats/Tata_Soulfull_Desi_Veggie_Masala_Oats_With_25_Millets_Non_Sticky/ezrqeethlxty3avvdvex.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹217"
+    "price": "217"
   },
   {
     "name": "Yoga Bar 20 G Protein Oats + (Choco Almond)",
@@ -4460,7 +4460,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751402/products/Dairy_Bread_and_Eggs/oats/Yoga_Bar_20_G_Protein_Oats__Choco_Almond/cxtekrqxbxtaqphub81o.jpg"
     ],
     "quantity": "350 g",
-    "price": "₹197"
+    "price": "197"
   },
   {
     "name": "Yoga Bar Dark Chocolate Oats (Gluten Free)",
@@ -4476,7 +4476,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751401/products/Dairy_Bread_and_Eggs/oats/Yoga_Bar_Dark_Chocolate_Oats_Gluten_Free/t0l6gfo7o2dcinz8wsna.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹225"
+    "price": "225"
   },
   {
     "name": "Amul Fresh Malai Paneer",
@@ -4490,7 +4490,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751387/products/Dairy_Bread_and_Eggs/Paneer_and_Tofu/Amul_Fresh_Malai_Paneer/zh4djutwcckmkeyrpno9.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹90"
+    "price": "90"
   },
   {
     "name": "Hello Tempayy Tandoori Tempayy Thins",
@@ -4505,7 +4505,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751384/products/Dairy_Bread_and_Eggs/Paneer_and_Tofu/Hello_Tempayy_Tandoori_Tempayy_Thins/hrvrufnci19l9vyei02t.jpg"
     ],
     "quantity": "150 g",
-    "price": "₹147"
+    "price": "147"
   },
   {
     "name": "Hello Tempayy Thai Chilli Tempeh Thins",
@@ -4521,7 +4521,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751386/products/Dairy_Bread_and_Eggs/Paneer_and_Tofu/Hello_Tempayy_Thai_Chilli_Tempeh_Thins/wtgy9f1pfwsvklxuarsa.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "iD Soft and Creamy Paneer",
@@ -4535,7 +4535,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751388/products/Dairy_Bread_and_Eggs/Paneer_and_Tofu/iD_Soft_and_Creamy_Paneer/s6ofqkxiekcv0ypagmyz.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹130"
+    "price": "130"
   },
   {
     "name": "Mother Nature's Fresh and Soft Tofu (Soya Paneer)",
@@ -4549,7 +4549,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751385/products/Dairy_Bread_and_Eggs/Paneer_and_Tofu/Mother_Natures_Fresh_and_Soft_Tofu_Soya_Paneer/iq3qlccp3seiygmsir5l.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Dr. Oetker FunFoods Creamy Peanut Butter",
@@ -4563,7 +4563,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751400/products/Dairy_Bread_and_Eggs/Peanut_Butter/Dr_Oetker_FunFoods_Creamy_Peanut_Butter/r3hbftiuriwfmsnrzunk.jpg"
     ],
     "quantity": "375 g",
-    "price": "₹139"
+    "price": "139"
   },
   {
     "name": "Kissan Hazelnut Choco Peanut Butter",
@@ -4579,7 +4579,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751397/products/Dairy_Bread_and_Eggs/Peanut_Butter/Kissan_Hazelnut_Choco_Peanut_Butter/vqsywssmcmezbuhv6byy.jpg"
     ],
     "quantity": "350 g",
-    "price": "₹204"
+    "price": "204"
   },
   {
     "name": "MyFitness Chocolate Crunchy Peanut Butter",
@@ -4598,7 +4598,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751396/products/Dairy_Bread_and_Eggs/Peanut_Butter/MyFitness_Chocolate_Crunchy_Peanut_Butter/t1u5qyvtgb0jya0q7m0t.jpg"
     ],
     "quantity": "510 g",
-    "price": "₹278"
+    "price": "278"
   },
   {
     "name": "Pintola Dark Chocolate Creamy Peanut Butter (High Protein) - Pack of 2",
@@ -4618,7 +4618,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751399/products/Dairy_Bread_and_Eggs/Peanut_Butter/Pintola_Dark_Chocolate_Creamy_Peanut_Butter_High_Protein__Pack_of_2/zkl3pgk2wzgnp1sxwop8.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Saffola Crunchy Peanut Butter With Jaggery",
@@ -4635,7 +4635,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751394/products/Dairy_Bread_and_Eggs/Peanut_Butter/Saffola_Crunchy_Peanut_Butter_With_Jaggery/vpc3azoumasj4lgxi4ih.jpg"
     ],
     "quantity": "350 g",
-    "price": "₹129"
+    "price": "129"
   },
   {
     "name": "The Whole Truth 5 Grain Muesli + The Whole Truth Unsweetened & Crunchy Peanut Butter Combo",
@@ -4657,7 +4657,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751393/products/Dairy_Bread_and_Eggs/Peanut_Butter/The_Whole_Truth_5_Grain_Muesli__The_Whole_Truth_Unsweetened_and_Crunchy_Peanut_Butter_Combo/avv6duqbwt5bcutat40q.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "The Whole Truth Dark Chocolate Creamy Peanut Butter",
@@ -4675,7 +4675,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751391/products/Dairy_Bread_and_Eggs/Peanut_Butter/The_Whole_Truth_Dark_Chocolate_Creamy_Peanut_Butter/eiimxkimdvdnx5l8ftuc.jpg"
     ],
     "quantity": "325 g",
-    "price": "₹224"
+    "price": "224"
   },
   {
     "name": "The Whole Truth Unsweetened & Crunchy Peanut Butter",
@@ -4692,7 +4692,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751389/products/Dairy_Bread_and_Eggs/Peanut_Butter/The_Whole_Truth_Unsweetened_and_Crunchy_Peanut_Butter/wlwazooeymahjdrutoiv.jpg"
     ],
     "quantity": "325 g",
-    "price": "₹169"
+    "price": "169"
   },
   {
     "name": "Fortune Thick Poha",
@@ -4708,7 +4708,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751376/products/Dairy_Bread_and_Eggs/Poha_Daliya_and_Other_Grains/Fortune_Thick_Poha/x2tkaocm86rrtidqh0pi.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹48"
+    "price": "48"
   },
   {
     "name": "Millets & More Jowar Kurmura",
@@ -4723,7 +4723,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751373/products/Dairy_Bread_and_Eggs/Poha_Daliya_and_Other_Grains/Millets_and_More_Jowar_Kurmura/esctsgfavs3xasldkrur.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹45"
+    "price": "45"
   },
   {
     "name": "Tata Sampann High In Fibre Thick Poha",
@@ -4742,7 +4742,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751373/products/Dairy_Bread_and_Eggs/Poha_Daliya_and_Other_Grains/Tata_Sampann_High_In_Fibre_Thick_Poha/npsbal5zwzrxw2idyic4.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "True Elements Whole BajraPearl Millets",
@@ -4758,7 +4758,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751375/products/Dairy_Bread_and_Eggs/Poha_Daliya_and_Other_Grains/True_Elements_Whole_BajraPearl_Millets/ka3djiz2but2orxaugzw.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Whole Farm Grocery Thick Poha  Avalakki",
@@ -4774,7 +4774,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751374/products/Dairy_Bread_and_Eggs/Poha_Daliya_and_Other_Grains/Whole_Farm_Grocery_Thick_Poha_Avalakki/ulo85nup1iy9z8lcpysx.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Whole Farm Premium Big SabudanaBadadanaSago",
@@ -4788,7 +4788,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751370/products/Dairy_Bread_and_Eggs/Poha_Daliya_and_Other_Grains/Whole_Farm_Premium_Big_SabudanaBadadanaSago/ddgf1hdzv9xmaofg3nzh.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Whole Farm Premium Fiber Rich Thick Poha + Whole Farm Grocery Raw Peanuts Combo",
@@ -4797,7 +4797,7 @@ export const products = [
     "sharedLink": "https://www.dropbox.com/scl/fi/4f1yqvd4lriux3s21rrvx/product-details.rtf?rlkey=jdbcimqlktcsiey9rauzyj554&dl=0",
     "images": [],
     "quantity": "500 g + 500 g",
-    "price": "₹126"
+    "price": "126"
   },
   {
     "name": "Whole Farm Premium Popcorn KernelsMakki Dana",
@@ -4812,7 +4812,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751367/products/Dairy_Bread_and_Eggs/Poha_Daliya_and_Other_Grains/Whole_Farm_Premium_Popcorn_KernelsMakki_Dana/vtxnt4kogwerndaviqwz.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Godrej Yummiez Pepper & Herb Chicken Sausage (Frozen)",
@@ -4830,7 +4830,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751494/products/Chicken_Meat_and_Fish/Sausage_Salami_and_Ham/Godrej_Yummiez_Pepper_and_Herb_Chicken_Sausage_Frozen/qkdbqz63r6iejwgjsx3w.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹169"
+    "price": "169"
   },
   {
     "name": "Meatzza Chicken Sausage (Frozen)",
@@ -4844,7 +4844,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751381/products/Dairy_Bread_and_Eggs/Sausage_Salami_and_Ham/Meatzza_Chicken_Sausage_Frozen/hvpm2cj6jcbf0ethosvh.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Meatzza Hot & Spicy Chicken Seekh Kebab (Frozen)",
@@ -4859,7 +4859,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751379/products/Dairy_Bread_and_Eggs/Sausage_Salami_and_Ham/Meatzza_Hot_and_Spicy_Chicken_Seekh_Kebab_Frozen/dsdodp5fwomaszow0axd.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹265"
+    "price": "265"
   },
   {
     "name": "Prasuma Chicken Chilli Salami (Frozen)",
@@ -4873,7 +4873,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751378/products/Dairy_Bread_and_Eggs/Sausage_Salami_and_Ham/Prasuma_Chicken_Chilli_Salami_Frozen/ks9dfteklkbsrip96nvj.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹167"
+    "price": "167"
   },
   {
     "name": "Prasuma Chicken Ham",
@@ -4890,7 +4890,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751383/products/Dairy_Bread_and_Eggs/Sausage_Salami_and_Ham/Prasuma_Chicken_Ham/kufmccq7cyggtd8rpfz7.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹180"
+    "price": "180"
   },
   {
     "name": "Prasuma Pork Ham",
@@ -4906,7 +4906,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751380/products/Dairy_Bread_and_Eggs/Sausage_Salami_and_Ham/Prasuma_Pork_Ham/j6ool2nhh8cs9xy8unrz.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹260"
+    "price": "260"
   },
   {
     "name": "Zorabian Spicy Chicken Sausage",
@@ -4924,7 +4924,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751493/products/Chicken_Meat_and_Fish/Sausage_Salami_and_Ham/Zorabian_Spicy_Chicken_Sausage/uqvv68jj3jdmoykyiqib.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Mama Brown Rice Vermicelli",
@@ -4939,7 +4939,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751366/products/Dairy_Bread_and_Eggs/Vermicelli/Mama_Brown_Rice_Vermicelli/kqwxb2gxzvuiwc4f5kyo.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹229"
+    "price": "229"
   },
   {
     "name": "MTR (Seviyan) Regular Vermicelli",
@@ -4953,7 +4953,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751365/products/Dairy_Bread_and_Eggs/Vermicelli/MTR_Seviyan_Regular_Vermicelli/wy6punhm8dkkai5z1eas.jpg"
     ],
     "quantity": "850 g",
-    "price": "₹77"
+    "price": "77"
   },
   {
     "name": "MTR Roasted Vermicelli",
@@ -4967,7 +4967,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751364/products/Dairy_Bread_and_Eggs/Vermicelli/MTR_Roasted_Vermicelli/k7yywcspdzipiihtwwed.jpg"
     ],
     "quantity": "850 g",
-    "price": "₹98"
+    "price": "98"
   },
   {
     "name": "Combo of 3 - Lemon 6 pieces (150 g - 220 g) + Valencia Orange 3 pieces (450 g - 550 g) + Royal Gala Apple 2 pieces (240 g - 340 g)",
@@ -4982,7 +4982,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751219/products/Fruits_and_Vegetables/Combo_and_Receipes/Combo_of_3__Lemon_6_pieces_150_g__220_g__Valencia_Orange_3_pieces_450_g__550_g__Royal_Gala_Apple_2_pieces_240_g__340_g/ppq43ci54sklb97uduzh.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Combo of 3 - Onion 1 kg + Potato 1 kg + Desi Tomato 500 g",
@@ -4997,7 +4997,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751219/products/Fruits_and_Vegetables/Combo_and_Receipes/Combo_of_3__Onion_1_kg__Potato_1_kg__Desi_Tomato_500_g/gsl42pt38bb2yj0m7zxu.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Pooja Flower Mix",
@@ -5013,7 +5013,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751216/products/Fruits_and_Vegetables/Flowers_and_Leaves/Pooja_Flower_Mix/nvf0p0vf720ytibo1qy6.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹26"
+    "price": "26"
   },
   {
     "name": "White Chrysanthemum Flowers",
@@ -5027,7 +5027,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751217/products/Fruits_and_Vegetables/Flowers_and_Leaves/White_Chrysanthemum_Flowers/xhslft2mw1ydjeotkay2.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Yellow Chrysanthemum Flowers",
@@ -5040,7 +5040,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751215/products/Fruits_and_Vegetables/Flowers_and_Leaves/Yellow_Chrysanthemum_Flowers/jmek2zvtzgks1slljif9.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Alphonso Mango Ratnagiri",
@@ -5052,7 +5052,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751215/products/Fruits_and_Vegetables/Fresh_Fruits/Alphonso_Mango_Ratnagiri/eugkqbymw1q3ol5i7rwq.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Badami Mango",
@@ -5066,7 +5066,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751214/products/Fruits_and_Vegetables/Fresh_Fruits/Badami_Mango/jl6dipysrby7zof9gccj.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Banana",
@@ -5079,7 +5079,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751214/products/Fruits_and_Vegetables/Fresh_Fruits/Banana/vhj2bcomyjkkma5seeyi.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹44"
+    "price": "44"
   },
   {
     "name": "chickoo ( sapota)",
@@ -5094,7 +5094,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751213/products/Fruits_and_Vegetables/Fresh_Fruits/chickoo__sapota/kh6tepelld6u794bnlwt.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Dragon Fruits - Red Flesh",
@@ -5107,7 +5107,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751212/products/Fruits_and_Vegetables/Fresh_Fruits/Dragon_Fruits__Red_Flesh/ofr57epv3323x9oqsrkh.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Kiran Watermelon",
@@ -5121,7 +5121,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751211/products/Fruits_and_Vegetables/Fresh_Fruits/Kiran_Watermelon/d3d09itc6tnx6zu9tphu.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Litchi 500 g",
@@ -5134,7 +5134,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751211/products/Fruits_and_Vegetables/Fresh_Fruits/Litchi_500_g/nsevohdkp5la7rtrvau8.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Malberry ( Shahtoot)",
@@ -5146,7 +5146,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751210/products/Fruits_and_Vegetables/Fresh_Fruits/Malberry__Shahtoot/dwm0pjb1xyfa2nje3vtx.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "meskmelon",
@@ -5161,7 +5161,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751209/products/Fruits_and_Vegetables/Fresh_Fruits/meskmelon/ur00w5mfw5vaepzilnad.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Papaya",
@@ -5175,7 +5175,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751208/products/Fruits_and_Vegetables/Fresh_Fruits/Papaya/gvplsxs7msxaw27owvmv.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Pomegranate",
@@ -5190,7 +5190,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751207/products/Fruits_and_Vegetables/Fresh_Fruits/Pomegranate/fasaobuyc2xrpmfrmm22.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Red Carry",
@@ -5205,7 +5205,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751205/products/Fruits_and_Vegetables/Fresh_Fruits/Red_Carry/nop58eia2ppswnim8bsd.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Washinton Apple",
@@ -5219,7 +5219,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751204/products/Fruits_and_Vegetables/Fresh_Fruits/Washinton_Apple/iddrlzlgkebbgwnqifmc.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Cabbage",
@@ -5233,7 +5233,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751205/products/Fruits_and_Vegetables/Fresh_Vegetables/Cabbage/pyfqq5pmq8nur2azcs9h.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Garlic",
@@ -5248,7 +5248,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751202/products/Fruits_and_Vegetables/Fresh_Vegetables/Garlic/xtzgug5kp1bcf3fvpffd.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Green Capsicum",
@@ -5262,7 +5262,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751200/products/Fruits_and_Vegetables/Fresh_Vegetables/Green_Capsicum/yiaipnaxm5hxqww3ccoa.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Green Chilli",
@@ -5276,7 +5276,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751203/products/Fruits_and_Vegetables/Fresh_Vegetables/Green_Chilli/u9bh5h6sr0epj4w47ww8.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Hybrid Tomato",
@@ -5290,7 +5290,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751200/products/Fruits_and_Vegetables/Fresh_Vegetables/Hybrid_Tomato/vi1qkcf3jpjdowzztjgr.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Lady Finger",
@@ -5302,7 +5302,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751199/products/Fruits_and_Vegetables/Fresh_Vegetables/Lady_Finger/wbcy1rpvizz3mod9sgmr.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Lemon",
@@ -5316,7 +5316,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751198/products/Fruits_and_Vegetables/Fresh_Vegetables/Lemon/zeimocx0qzdeh65x1r1y.jpg"
     ],
     "quantity": "(220 - 250) g",
-    "price": "₹30"
+    "price": "30"
   },
   {
     "name": "Onion",
@@ -5330,7 +5330,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751197/products/Fruits_and_Vegetables/Fresh_Vegetables/Onion/oqotbsawvzj6ii3kvm1x.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Potato",
@@ -5344,7 +5344,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751197/products/Fruits_and_Vegetables/Fresh_Vegetables/Potato/wikvbyoxfklb3irco3vw.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Varikatri Brinjal",
@@ -5356,7 +5356,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751196/products/Fruits_and_Vegetables/Fresh_Vegetables/Varikatri_Brinjal/atce6pnx2l8ow2zap3l6.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Brocolli",
@@ -5368,7 +5368,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751196/products/Fruits_and_Vegetables/Freshly_Cut_and_Sprouts/Brocolli/fwsuobuxcc7hna5pmbij.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Green moong sprouts",
@@ -5382,7 +5382,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751195/products/Fruits_and_Vegetables/Freshly_Cut_and_Sprouts/Green_moong_sprouts/ulju7vjtowesivwzunra.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Mixed Sprouts",
@@ -5397,7 +5397,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751194/products/Fruits_and_Vegetables/Freshly_Cut_and_Sprouts/Mixed_Sprouts/x8kqb0tkgtvv76lust9w.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹48"
+    "price": "48"
   },
   {
     "name": "Peas - Peeled",
@@ -5411,7 +5411,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751193/products/Fruits_and_Vegetables/Freshly_Cut_and_Sprouts/Peas__Peeled/bbtk7numygkwkvkgj7yv.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Keventer Frozen Green Peas",
@@ -5424,7 +5424,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751192/products/Fruits_and_Vegetables/Frozen_Veg/Keventer_Frozen_Green_Peas/iiikoqlth5szch6znvnc.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹169"
+    "price": "169"
   },
   {
     "name": "Safal Frozen Green Peas",
@@ -5439,7 +5439,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751192/products/Fruits_and_Vegetables/Frozen_Veg/Safal_Frozen_Green_Peas/adosyqpp3h8i0avuiinw.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹115"
+    "price": "115"
   },
   {
     "name": "SPT American Frozen Sweet Corn",
@@ -5454,7 +5454,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751199/products/Fruits_and_Vegetables/Frozen_Veg/SPT_American_Frozen_Sweet_Corn/ld9gbd1af1o7jbnoavit.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹82"
+    "price": "82"
   },
   {
     "name": "Baby Spinach Hydroponically Grown",
@@ -5472,7 +5472,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751191/products/Fruits_and_Vegetables/Hydroponic/Baby_Spinach_Hydroponically_Grown/xj2pvisiojvhecrdglqu.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Coriander Bunch",
@@ -5486,7 +5486,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751189/products/Fruits_and_Vegetables/Leafies_and_Herbs/Coriander_Bunch/zwc81pwqc8ayzyt6035x.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Bombay Shaving Company Power Styler Beard Trimmer for Men (Black)",
@@ -5502,7 +5502,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751140/products/Home_and_Office/Appliances/Bombay_Shaving_Company_Power_Styler_Beard_Trimmer_for_Men_Black/hlq2udauqym7hudfd1ij.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Philips HP810060 Compact Hair Dryer (Blue, 1000 W)",
@@ -5518,7 +5518,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751139/products/Home_and_Office/Appliances/Philips_HP810060_Compact_Hair_Dryer_Blue_1000_W/ij1z4ayce5rd4fdevxdv.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Philips QP142410 One Blade Hybrid Beard Trimmer and Shaver (Black)",
@@ -5533,7 +5533,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751137/products/Home_and_Office/Appliances/Philips_QP142410_One_Blade_Hybrid_Beard_Trimmer_and_Shaver_Black/jqzly0cibcsajclxgyhc.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Prestige Xpress 1200W Induction Cooktop with Ceramic Plates, Black",
@@ -5548,7 +5548,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751136/products/Home_and_Office/Appliances/Prestige_Xpress_1200W_Induction_Cooktop_with_Ceramic_Plates_Black/ufljllmx252imjgjpoh1.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "boAt Airdopes 170 TWS Earbuds (Tranquil Blue)",
@@ -5564,7 +5564,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751135/products/Home_and_Office/Audio_and_Accessories/boAt_Airdopes_170_TWS_Earbuds_Tranquil_Blue/tbgmatwndfgwuvqclaen.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "boAt Stone 1200 Bluetooth Speaker (14W, Black)",
@@ -5580,7 +5580,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751134/products/Home_and_Office/Audio_and_Accessories/boAt_Stone_1200_Bluetooth_Speaker_14W_Black/dauatrz0qxmyyp9drggz.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Noise VS401 TWS Earbuds (Black)",
@@ -5596,7 +5596,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751133/products/Home_and_Office/Audio_and_Accessories/Noise_VS401_TWS_Earbuds_Black/bgeetilg50sm0ekpqnna.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Portronics Harmonics Twins S3 TWS Earbuds (Black)",
@@ -5612,7 +5612,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751132/products/Home_and_Office/Audio_and_Accessories/Portronics_Harmonics_Twins_S3_TWS_Earbuds_Black/wstlgsxuy1e1ra581eif.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Faber-Castell Dino Backpack (Light Seagreen)",
@@ -5626,7 +5626,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751131/products/Home_and_Office/Bags/FaberCastell_Dino_Backpack_Light_Seagreen/tikxns5ioswwphwxpcqd.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Nivia Polyester Duffle Bag (11 ltrs, Black)",
@@ -5642,7 +5642,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751130/products/Home_and_Office/Bags/Nivia_Polyester_Duffle_Bag_11_ltrs_Black/v5uvzy7pndnyb5nbgfq5.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "QIPS School Polyster Backpack (21 l, 17 inch)",
@@ -5658,7 +5658,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751129/products/Home_and_Office/Bags/QIPS_School_Polyster_Backpack_21_l_17_inch/pbm5i4vet0qvjl1zgqv0.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Skybags Biz Polyester Laptop Backpack (17 ltr, Black)",
@@ -5674,7 +5674,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751128/products/Home_and_Office/Bags/Skybags_Biz_Polyester_Laptop_Backpack_17_ltr_Black/xqjn4pk97bvdvkqwmjgw.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "IGP - Red 10 Red Rose Bouquet",
@@ -5690,7 +5690,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751127/products/Home_and_Office/Bouquets/IGP__Red_10_Red_Rose_Bouquet/qxcjo9vt587mkmficquc.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "IGP 4 Orchids and 4 White Roses Bouquet",
@@ -5706,7 +5706,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751124/products/Home_and_Office/Bouquets/IGP_4_Orchids_and_4_White_Roses_Bouquet/aghwdquuuwikludy14nd.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Candle (White) by Auradecor",
@@ -5722,7 +5722,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751121/products/Home_and_Office/Candles_and_Diyas/Candle_White_by_Auradecor/n2nwxiipz9pao7w6vjdi.jpg"
     ],
     "quantity": "1 pack (10 pieces)",
-    "price": "₹59"
+    "price": "59"
   },
   {
     "name": "Scented Jar Candle Set Auradecor",
@@ -5738,7 +5738,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751122/products/Home_and_Office/Candles_and_Diyas/Scented_Jar_Candle_Set_Auradecor/jbyucsixdrdgepanpixd.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Scented Votive Candle (Raspberry, Red) by Auradecor",
@@ -5754,7 +5754,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751126/products/Home_and_Office/Candles_and_Diyas/Scented_Votive_Candle_Raspberry_Red_by_Auradecor/dtolgwnw1excrily2rfp.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Gala Spin Mop (Microfiber Turbo, Multicolor)",
@@ -5770,7 +5770,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751120/products/Home_and_Office/Cleaning_Tools/Gala_Spin_Mop_Microfiber_Turbo_Multicolor/hhtbk8vjm22wdjgzxqsx.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹1,841"
+    "price": "1,841"
   },
   {
     "name": "Nayasa Table Top Dustbin (Plastic, Blue)",
@@ -5784,7 +5784,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751119/products/Home_and_Office/Cleaning_Tools/Nayasa_Table_Top_Dustbin_Plastic_Blue/xrmfoh6nkqlyzyex7s76.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹203"
+    "price": "203"
   },
   {
     "name": "Svish On The Go Disinfectant Gadget Wet Wipes",
@@ -5800,7 +5800,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751118/products/Home_and_Office/Cleaning_Tools/Svish_On_The_Go_Disinfectant_Gadget_Wet_Wipes/zywqdjvknzkhjhl8hfl2.jpg"
     ],
     "quantity": "1 pack (2 x 60 wipes)",
-    "price": "₹260"
+    "price": "260"
   },
   {
     "name": "Citizen Basic 2 Fold Umbrella (Black)",
@@ -5816,7 +5816,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751116/products/Home_and_Office/Clothing_Footwear_and_Accessories/Citizen_Basic_2_Fold_Umbrella_Black/ebvkjmywjpi38o0rttm5.jpg"
     ],
     "quantity": "1 piece",
-    "price": "₹229"
+    "price": "229"
   },
   {
     "name": "Jockey Men's Compact Stretch Low Show Socks (Multi Colour)",
@@ -5832,7 +5832,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751117/products/Home_and_Office/Clothing_Footwear_and_Accessories/Jockey_Mens_Compact_Stretch_Low_Show_Socks_Multi_Colour/kdulxoc3xdiyz276aagq.jpg"
     ],
     "quantity": "1 pack (3 pairs)",
-    "price": "₹389"
+    "price": "389"
   },
   {
     "name": "Jockey Women's Compact Stretch Toe Socks (Black)",
@@ -5848,7 +5848,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751123/products/Home_and_Office/Clothing_Footwear_and_Accessories/Jockey_Womens_Compact_Stretch_Toe_Socks_Black/ifqt7f7ewvp23udpvydy.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Zoro Pu Leather Regular Black Textured Belt - 48 cm (No Holes)",
@@ -5864,7 +5864,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751114/products/Home_and_Office/Clothing_Footwear_and_Accessories/Zoro_Pu_Leather_Regular_Black_Textured_Belt__48_cm_No_Holes/wain1pyy81avl0brktmg.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Candle LED Tea 5 W Lights (Yellow) - DesiDiya",
@@ -5880,7 +5880,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751112/products/Home_and_Office/Decorative_Lights/Candle_LED_Tea_5_W_Lights_Yellow__DesiDiya/ukdjfndwaxkjifzco6pw.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Feather Tiara  Head Band by DesiDiya",
@@ -5895,7 +5895,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751113/products/Home_and_Office/Decorative_Lights/Feather_Tiara_Head_Band_by_DesiDiya/xndjoxefe7cq7uthhncx.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Tree Table 5 W LED Lamp - DesiDiya",
@@ -5911,7 +5911,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751111/products/Home_and_Office/Decorative_Lights/Tree_Table_5_W_LED_Lamp__DesiDiya/niny8in4qsesoeyk6q9t.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Goldmedal I-Link 16A 3 Pin Multi Plug",
@@ -5926,7 +5926,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751109/products/Home_and_Office/Electonic_Accessories/Goldmedal_ILink_16A_3_Pin_Multi_Plug/oqm9yaa2oyzuryq2huca.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Goldmedal Krysta 2 Pin Extension Cord With 5M Extension Cable (5 m)",
@@ -5942,7 +5942,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751108/products/Home_and_Office/Electonic_Accessories/Goldmedal_Krysta_2_Pin_Extension_Cord_With_5M_Extension_Cable_5_m/gmqghu6hb7ygpb7jtozj.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "SanDisk iXpand Flip 256 GB Flash Drive (Green)",
@@ -5958,7 +5958,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751110/products/Home_and_Office/Electonic_Accessories/SanDisk_iXpand_Flip_256_GB_Flash_Drive_Green/j7n4vsygjv1g4e8cirdb.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "TP-LINK Nano Wireless Wi-Fi USB Adapter (150Mbps)",
@@ -5974,7 +5974,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751106/products/Home_and_Office/Electonic_Accessories/TPLINK_Nano_Wireless_WiFi_USB_Adapter_150Mbps/t6umu2bmvueistix8lfr.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Halonix Astron Plus 4.9W E27 LED Bulb (Warm White)",
@@ -5989,7 +5989,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751103/products/Home_and_Office/Electrical_Accessories/Halonix_Astron_Plus_49W_E27_LED_Bulb_Warm_White/xgjgier67glivc2z7vad.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Halonix Inverter 8.5W B22 LED Bulb",
@@ -6005,7 +6005,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751104/products/Home_and_Office/Electrical_Accessories/Halonix_Inverter_85W_B22_LED_Bulb/irpgbnwmq1mgtbgkz2n5.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Orient Electric High Glo 15 W B22d LED Bulb (White)",
@@ -6021,7 +6021,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751105/products/Home_and_Office/Electrical_Accessories/Orient_Electric_High_Glo_15_W_B22d_LED_Bulb_White/nmezskjhvou5sszalbft.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Philips Stellar Bright Radial 20W LED Bulb (Crystal White)",
@@ -6035,7 +6035,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751102/products/Home_and_Office/Electrical_Accessories/Philips_Stellar_Bright_Radial_20W_LED_Bulb_Crystal_White/wjtnpienlsfmp0dmtjrg.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Archies Mustard Design Printed Paper Gift Bag (Medium)",
@@ -6051,7 +6051,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751100/products/Home_and_Office/Festive_and_Occasion_Needs/Archies_Mustard_Design_Printed_Paper_Gift_Bag_Medium/oszlsrmv9nyicdruunkg.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Birthday Decoration Kit by Party Propz",
@@ -6066,7 +6066,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751101/products/Home_and_Office/Festive_and_Occasion_Needs/Birthday_Decoration_Kit_by_Party_Propz/xmkhwtznk6qqpktbkytn.jpg"
     ],
     "quantity": "1 pack (55 pieces)",
-    "price": "₹499"
+    "price": "499"
   },
   {
     "name": "Happy Birthday Banner (16 Inches) by Party Propz",
@@ -6082,7 +6082,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751099/products/Home_and_Office/Festive_and_Occasion_Needs/Happy_Birthday_Banner_16_Inches_by_Party_Propz/ylbgsarroyo0x73e9lic.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹99"
+    "price": "99"
   },
   {
     "name": "Auradecor Ceramic Diffuser Gift Set (Jasmine Aroma, Brown)",
@@ -6098,7 +6098,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751098/products/Home_and_Office/Festive_Gifting/Auradecor_Ceramic_Diffuser_Gift_Set_Jasmine_Aroma_Brown/te9cfupnxt5xaajz6jcz.jpg"
     ],
     "quantity": "1 set (5 pieces)",
-    "price": "₹119"
+    "price": "119"
   },
   {
     "name": "Auradecor Reed Lavender Oil Diffuser Set",
@@ -6114,7 +6114,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751097/products/Home_and_Office/Festive_Gifting/Auradecor_Reed_Lavender_Oil_Diffuser_Set/stx5mkxfxjllhtgjvgy0.jpg"
     ],
     "quantity": "1 set (5 pieces)",
-    "price": "₹249"
+    "price": "249"
   },
   {
     "name": "Kimirica Vivah Experience Gift Set",
@@ -6130,7 +6130,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751096/products/Home_and_Office/Festive_Gifting/Kimirica_Vivah_Experience_Gift_Set/awjwhztskagsabo3zqob.jpg"
     ],
     "quantity": "1 pack (5 pieces)",
-    "price": "₹1,440"
+    "price": "1,440"
   },
   {
     "name": "Ambi Pur Relaxing Lavender Car Freshener",
@@ -6146,7 +6146,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751095/products/Home_and_Office/Fresheners/Ambi_Pur_Relaxing_Lavender_Car_Freshener/czfbqfgq05odcuxj39sg.jpg"
     ],
     "quantity": "75 g",
-    "price": "₹297"
+    "price": "297"
   },
   {
     "name": "CamPure Lavender Cone Camphor  Kapur",
@@ -6162,7 +6162,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751093/products/Home_and_Office/Fresheners/CamPure_Lavender_Cone_Camphor_Kapur/ga6iciahdgqj7xznbach.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Odonil Gel Pocket Citrus Bloom Air Freshener",
@@ -6178,7 +6178,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751092/products/Home_and_Office/Fresheners/Odonil_Gel_Pocket_Citrus_Bloom_Air_Freshener/v0mqjjt3qm1i1qvtl5af.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Crystal Compostable Garbage Bag For Wet Waste (Large, Green)",
@@ -6194,7 +6194,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751091/products/Home_and_Office/Garbage_Bags/Crystal_Compostable_Garbage_Bag_For_Wet_Waste_Large_Green/he3k1iuud4yfjsmjd5kk.jpg"
     ],
     "quantity": "1 pack (10 pieces)",
-    "price": "₹139"
+    "price": "139"
   },
   {
     "name": "Crystal Oxo-Biodegradable Garbage Bag (Large, Blue)",
@@ -6209,7 +6209,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751090/products/Home_and_Office/Garbage_Bags/Crystal_OxoBiodegradable_Garbage_Bag_Large_Blue/ifmqvdog4odsbifddozx.jpg"
     ],
     "quantity": "1 pack (15 pieces)",
-    "price": "₹69"
+    "price": "69"
   },
   {
     "name": "Crystal Oxo-Degradable Garbage Bag (Small, Black)",
@@ -6224,7 +6224,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751089/products/Home_and_Office/Garbage_Bags/Crystal_OxoDegradable_Garbage_Bag_Small_Black/ykrtezr8afzzzgzwvbw9.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Dream Living Micropeach Double Bed Bedsheet With 2 Pillow Covers (Cream)",
@@ -6238,7 +6238,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751088/products/Home_and_Office/Home_Decor/Dream_Living_Micropeach_Double_Bed_Bedsheet_With_2_Pillow_Covers_Cream/ud7mshpxlwb412stqdqp.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Dream Living Reversible King Size Comforter 86.6'' x 94.4'' (Micropeach, Brown)",
@@ -6253,7 +6253,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751087/products/Home_and_Office/Home_Decor/Dream_Living_Reversible_King_Size_Comforter_866_x_944_Micropeach_Brown/qyxcddl8blrndtg1tpkr.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "KOPA Feather Lite Reversible Double Bed Comforter 101 x 91 (Micro Fabric, Red)",
@@ -6269,7 +6269,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751086/products/Home_and_Office/Home_Decor/KOPA_Feather_Lite_Reversible_Double_Bed_Comforter_101_x_91_Micro_Fabric_Red/gbiarnkfpcpgl1wchyj6.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Fackelmann Multipurpose Plastic - Lighter (Black)",
@@ -6285,7 +6285,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751085/products/Home_and_Office/Kitchen_and_Dining_Needs/Fackelmann_Multipurpose_Plastic__Lighter_Black/gac4hl3uwowofd6myftz.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Fackelmann Swift Vegetable Chopper (Green)",
@@ -6301,7 +6301,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751084/products/Home_and_Office/Kitchen_and_Dining_Needs/Fackelmann_Swift_Vegetable_Chopper_Green/qnoikqn3phacgcsqi58r.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Femora Porcelain Coffee Mug (360 ml, Green)",
@@ -6317,7 +6317,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751082/products/Home_and_Office/Kitchen_and_Dining_Needs/Femora_Porcelain_Coffee_Mug_360_ml_Green/iuilugqfuppzlliodvvo.jpg"
     ],
     "quantity": "1 piece",
-    "price": "₹152"
+    "price": "152"
   },
   {
     "name": "Vinayak Allure Mini Stainless Steel Bowl (200 ml, Silver)",
@@ -6330,7 +6330,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751082/products/Home_and_Office/Kitchen_and_Dining_Needs/Vinayak_Allure_Mini_Stainless_Steel_Bowl_200_ml_Silver/b6hqe2hfgljiywmprgnc.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "3M Attachment Tape",
@@ -6345,7 +6345,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751079/products/Home_and_Office/Machine_and_Care/3M_Attachment_Tape/blc5tobsunmica3t8zdj.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "3M Car Shampoo",
@@ -6358,7 +6358,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751081/products/Home_and_Office/Machine_and_Care/3M_Car_Shampoo/vnyhfsbpsw1nubcjjw6c.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Motomax Dashboard Car Polish",
@@ -6372,7 +6372,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751079/products/Home_and_Office/Machine_and_Care/Motomax_Dashboard_Car_Polish/ppgfzs84tcwq6erl7ehv.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Nurturing Green Philodendron Birkin Plant in 4.5 Inch Black Self Watering Plastic Pot",
@@ -6388,7 +6388,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751078/products/Home_and_Office/Plants/Nurturing_Green_Philodendron_Birkin_Plant_in_45_Inch_Black_Self_Watering_Plastic_Pot/cjssdde3r0wj6mqhzaz5.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Ugaoo Golden Money Plant In Self Watering Pot",
@@ -6402,7 +6402,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751077/products/Home_and_Office/Plants/Ugaoo_Golden_Money_Plant_In_Self_Watering_Pot/xiscaavsonh8hq8imjow.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Ugaoo Jade In Self Watering Pot",
@@ -6418,7 +6418,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751076/products/Home_and_Office/Plants/Ugaoo_Jade_In_Self_Watering_Pot/mbctkz74unwceqnwvxop.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹137"
+    "price": "137"
   },
   {
     "name": "Cow Long Diya Batti by Sohum",
@@ -6434,7 +6434,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751074/products/Home_and_Office/Pooja_Needs/Cow_Long_Diya_Batti_by_Sohum/grp0uw0yhqslu7cbx3ui.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Ghee Diya Batti (Wicks) by Shubhkart",
@@ -6450,7 +6450,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751075/products/Home_and_Office/Pooja_Needs/Ghee_Diya_Batti_Wicks_by_Shubhkart/ehss8rtgxkwof27qqk9m.jpg"
     ],
     "quantity": "1 pack (30 pieces)",
-    "price": "₹81"
+    "price": "81"
   },
   {
     "name": "Shubhkart Nirmal Kesar Chandan Incense Sticks  Agarbatti Zipper",
@@ -6466,7 +6466,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751073/products/Home_and_Office/Pooja_Needs/Shubhkart_Nirmal_Kesar_Chandan_Incense_Sticks_Agarbatti_Zipper/qwhjymyucb92fiefe1qz.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Vibhuti by Shubhkart",
@@ -6482,7 +6482,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751072/products/Home_and_Office/Pooja_Needs/Vibhuti_by_Shubhkart/me3ieqi3tiatxffdvzff.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Designs & You AD Studded Circular Earrings",
@@ -6498,7 +6498,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751070/products/Home_and_Office/Precious_Coins_and_Jewellery/Designs_and_You_AD_Studded_Circular_Earrings/y9p12tnz6jtgyu8qlwik.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Designs & You Silver-Plated AD Studded Adjustable Finger Ring",
@@ -6512,7 +6512,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751068/products/Home_and_Office/Precious_Coins_and_Jewellery/Designs_and_You_SilverPlated_AD_Studded_Adjustable_Finger_Ring/ety3txdhf80boetvbqsb.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Jewels Galaxy Gold Plated Wraparound & Cuff Bracelet",
@@ -6528,7 +6528,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751069/products/Home_and_Office/Precious_Coins_and_Jewellery/Jewels_Galaxy_Gold_Plated_Wraparound_and_Cuff_Bracelet/rwuwfy4fvgsjhkpey1bk.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Good Knight Gold Flash Mosquito Repellent Refill - Pack of 2",
@@ -6544,7 +6544,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751067/products/Home_and_Office/Repellents/Good_Knight_Gold_Flash_Mosquito_Repellent_Refill__Pack_of_2/cwx3qu9monxocbf2irum.jpg"
     ],
     "quantity": "2 x 45 ml",
-    "price": "₹155"
+    "price": "155"
   },
   {
     "name": "Hit Spray Flies & Mosquito Repellent Spray (Lime Fresh)",
@@ -6560,7 +6560,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751066/products/Home_and_Office/Repellents/Hit_Spray_Flies_and_Mosquito_Repellent_Spray_Lime_Fresh/rfhifpyze9b3ejevzvye.jpg"
     ],
     "quantity": "700 ml",
-    "price": "₹387"
+    "price": "387"
   },
   {
     "name": "Mortein Advanced Anti-Mosquito Racquet Electric Bat",
@@ -6576,7 +6576,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751065/products/Home_and_Office/Repellents/Mortein_Advanced_AntiMosquito_Racquet_Electric_Bat/siytofntufelbb6mrnaw.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Classmate Invento Geometry Box",
@@ -6592,7 +6592,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751063/products/Home_and_Office/Stationery_Needs/Classmate_Invento_Geometry_Box/kzbnhezx4xftobfmriaj.jpg"
     ],
     "quantity": "1 piece",
-    "price": "₹157"
+    "price": "157"
   },
   {
     "name": "Faber-Castell Space Backpack (Blue)",
@@ -6607,7 +6607,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751064/products/Home_and_Office/Stationery_Needs/FaberCastell_Space_Backpack_Blue/eouxpedfcdhcpr80ybrm.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Fevistik Glue Stick",
@@ -6622,7 +6622,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751061/products/Home_and_Office/Stationery_Needs/Fevistik_Glue_Stick/h4i6lswxcit9bnuvm5nm.jpg"
     ],
     "quantity": "15 g",
-    "price": "₹38"
+    "price": "38"
   },
   {
     "name": "Kangaro Stapler Pin (Silver)",
@@ -6634,7 +6634,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751060/products/Home_and_Office/Stationery_Needs/Kangaro_Stapler_Pin_Silver/wgbxs73o6vqzymeka7sq.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Corepac Bamboo Skewer Sticks",
@@ -6650,7 +6650,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751060/products/Home_and_Office/Tissues_and_Disposables/Corepac_Bamboo_Skewer_Sticks/luvd6rbnbecxzrftd6f3.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Corepac Rippled Disposable Glass (250 ml)",
@@ -6666,7 +6666,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751059/products/Home_and_Office/Tissues_and_Disposables/Corepac_Rippled_Disposable_Glass_250_ml/m60jpprj937m2m2hviff.jpg"
     ],
     "quantity": "1 pack (10 x 250 ml)",
-    "price": "₹79"
+    "price": "79"
   },
   {
     "name": "Origami Car Face Tissue (2 Ply)",
@@ -6682,7 +6682,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751058/products/Home_and_Office/Tissues_and_Disposables/Origami_Car_Face_Tissue_2_Ply/pwl35jxni2u3lidze8sj.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Origami Face Tissue - 200 Pulls (2 ply)",
@@ -6698,7 +6698,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751057/products/Home_and_Office/Tissues_and_Disposables/Origami_Face_Tissue__200_Pulls_2_ply/kgdcyztin3jdnrrheuzn.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Pepe Jeans Innerfashion Men's Full Sleeve Thermal Top (Charcoal)",
@@ -6713,7 +6713,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751055/products/Home_and_Office/Winter_Wear/Pepe_Jeans_Innerfashion_Mens_Full_Sleeve_Thermal_Top_Charcoal/kyjkk54qf6liboeytyaz.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Farmley Date Bites",
@@ -6729,7 +6729,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751054/products/Masala_Oil_and_More/Dates_and_Seeds/Farmley_Date_Bites/y9hygvlxuzyjup5swlyu.jpg"
     ],
     "quantity": "180 g",
-    "price": "₹348"
+    "price": "348"
   },
   {
     "name": "Farmley Fard Omani Dates",
@@ -6745,7 +6745,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751053/products/Masala_Oil_and_More/Dates_and_Seeds/Farmley_Fard_Omani_Dates/kpy16fvlen5kohbsxdqm.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹258"
+    "price": "258"
   },
   {
     "name": "Farmley Protein Rich Mix Seeds",
@@ -6761,7 +6761,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751052/products/Masala_Oil_and_More/Dates_and_Seeds/Farmley_Protein_Rich_Mix_Seeds/ix9mntxhnwrazmjzispf.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹181"
+    "price": "181"
   },
   {
     "name": "Mishriq Kimia Gold Dates",
@@ -6777,7 +6777,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751051/products/Masala_Oil_and_More/Dates_and_Seeds/Mishriq_Kimia_Gold_Dates/er0ipywths9riu424uck.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹255"
+    "price": "255"
   },
   {
     "name": "Whole Farm Premium WatermelonMagaj Seeds",
@@ -6791,7 +6791,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751050/products/Masala_Oil_and_More/Dates_and_Seeds/Whole_Farm_Premium_WatermelonMagaj_Seeds/ns7chl5peqec8alasy5m.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Farmley Mexican Peri-Peri Mix Nuts",
@@ -6803,7 +6803,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751049/products/Masala_Oil_and_More/Dry_Fruits/Farmley_Mexican_PeriPeri_Mix_Nuts/djgpzw8ak1hqnwbc3p5e.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Whole Farm Premium Plain MakhanaFoxnuts",
@@ -6816,7 +6816,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751048/products/Masala_Oil_and_More/Dry_Fruits/Whole_Farm_Premium_Plain_MakhanaFoxnuts/tps0awq4yk0ig8z61j9x.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Whole Farm Premium Raw Peanuts",
@@ -6829,7 +6829,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751048/products/Masala_Oil_and_More/Dry_Fruits/Whole_Farm_Premium_Raw_Peanuts/meggaiq3v21r3qbhuy44.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹45"
+    "price": "45"
   },
   {
     "name": "Happilo Essentials Cashew & Almonds",
@@ -6845,7 +6845,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751047/products/Masala_Oil_and_More/Dry_Fruits_Gift_Packs/Happilo_Essentials_Cashew_and_Almonds/rzfg7d04foiryer5rkgw.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Nutty Gritties Dry Fruit Gift Box (Roasted & Salted - Almonds + Pistachios + Cashews)",
@@ -6860,7 +6860,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751046/products/Masala_Oil_and_More/Dry_Fruits_Gift_Packs/Nutty_Gritties_Dry_Fruit_Gift_Box_Roasted_and_Salted__Almonds__Pistachios__Cashews/uaetniqx4nn8vdbbjobv.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "True Elements Panchmeva Dry Fruit Mix",
@@ -6876,7 +6876,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751044/products/Masala_Oil_and_More/Dry_Fruits_Gift_Packs/True_Elements_Panchmeva_Dry_Fruit_Mix/hd3icwpbhpusbaasgqrx.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹426"
+    "price": "426"
   },
   {
     "name": "Gowardhan Premium Cow Ghee",
@@ -6889,7 +6889,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751040/products/Masala_Oil_and_More/Ghee_and_Vanaspati/Gowardhan_Premium_Cow_Ghee/hl4gtboimzdb7wmdxnkj.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹720"
+    "price": "720"
   },
   {
     "name": "Kapiva Desi A2 Ghee (Cow)",
@@ -6903,7 +6903,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751039/products/Masala_Oil_and_More/Ghee_and_Vanaspati/Kapiva_Desi_A2_Ghee_Cow/nohq5joi1txep6i2lr4f.jpg"
     ],
     "quantity": "500 ml",
-    "price": "₹923"
+    "price": "923"
   },
   {
     "name": "Organic India Organic Cow Ghee",
@@ -6916,7 +6916,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751041/products/Masala_Oil_and_More/Ghee_and_Vanaspati/Organic_India_Organic_Cow_Ghee/y3txogtrnzosay6jsuwx.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Dabur Cold Pressed Mustard Oi",
@@ -6931,7 +6931,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751038/products/Masala_Oil_and_More/Oil/Dabur_Cold_Pressed_Mustard_Oi/lkllpqph0y2l6b5lshkj.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Fortune Premium Kachi Ghani Pure Mustard Oil",
@@ -6945,7 +6945,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751040/products/Masala_Oil_and_More/Oil/Fortune_Premium_Kachi_Ghani_Pure_Mustard_Oil/glgrpurarwlcmrnl90lx.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹161"
+    "price": "161"
   },
   {
     "name": "Fortune Rice Bran Oil",
@@ -6959,7 +6959,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751037/products/Masala_Oil_and_More/Oil/Fortune_Rice_Bran_Oil/s47rd2okxvqyhipgtfqs.jpg"
     ],
     "quantity": "1 l",
-    "price": "₹165"
+    "price": "165"
   },
   {
     "name": "Saffola Gold Healthy Lifestyle & Heart Edible Oil",
@@ -6975,7 +6975,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751036/products/Masala_Oil_and_More/Oil/Saffola_Gold_Healthy_Lifestyle_and_Heart_Edible_Oil/go8kkuuyv8t9nl9dfo0m.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Badshah Chat Masala",
@@ -6990,7 +6990,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751045/products/Masala_Oil_and_More/Powdered_Spices/Badshah_Chat_Masala/xn2r1upivu9h541gzzen.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Everest Coriander PowderDhania",
@@ -7003,7 +7003,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751043/products/Masala_Oil_and_More/Powdered_Spices/Everest_Coriander_PowderDhania/aaatntngunqwirwp1zww.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Everest Tikhalal Red Chilli Powder",
@@ -7016,7 +7016,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751042/products/Masala_Oil_and_More/Powdered_Spices/Everest_Tikhalal_Red_Chilli_Powder/whvug3jwj2yiyhwyaypz.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Everest Turmeric PowderHaldi",
@@ -7029,7 +7029,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751041/products/Masala_Oil_and_More/Powdered_Spices/Everest_Turmeric_PowderHaldi/hjcqpjsvraemzqmkbqwf.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Madhur Pure & Hygienic Sulphurless Sugar",
@@ -7043,7 +7043,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751034/products/Masala_Oil_and_More/Salt_Sugar_and_Jaggery/Madhur_Pure_and_Hygienic_Sulphurless_Sugar/bnysy3g23ems9yg5rtu8.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹58"
+    "price": "58"
   },
   {
     "name": "Parry's White Label Sulphurless Sugar",
@@ -7057,7 +7057,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751033/products/Masala_Oil_and_More/Salt_Sugar_and_Jaggery/Parrys_White_Label_Sulphurless_Sugar/z4ejv71uwzkrkcvaedfe.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Tata Salt (Vacuum Evaporated Iodised Salt)",
@@ -7072,7 +7072,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751034/products/Masala_Oil_and_More/Salt_Sugar_and_Jaggery/Tata_Salt_Vacuum_Evaporated_Iodised_Salt/g0n6aqnufrlgclqdebip.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹27"
+    "price": "27"
   },
   {
     "name": "Tata Salt Lite (15% Less Sodium)",
@@ -7088,7 +7088,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751032/products/Masala_Oil_and_More/Salt_Sugar_and_Jaggery/Tata_Salt_Lite_15_Less_Sodium/yeknqvpdr2ajjbyiemwg.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹50"
+    "price": "50"
   },
   {
     "name": "Catch Cumin Seeds  Jeera Seeds",
@@ -7104,7 +7104,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751030/products/Masala_Oil_and_More/Whole_Spices/Catch_Cumin_Seeds_Jeera_Seeds/jyxa0hugiqr4onwdzvyb.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Organic Tattva Organic Ajwain Seeds",
@@ -7118,7 +7118,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751031/products/Masala_Oil_and_More/Whole_Spices/Organic_Tattva_Organic_Ajwain_Seeds/rfopv1etjctrw1uocfvb.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹79"
+    "price": "79"
   },
   {
     "name": "Whole Farm Premium Green Cardamom Whole  Elaichi",
@@ -7130,7 +7130,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751029/products/Masala_Oil_and_More/Whole_Spices/Whole_Farm_Premium_Green_Cardamom_Whole_Elaichi/ctddqgdirfokf7yf5qq7.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Whole Farm Premium Red Chilli Whole",
@@ -7144,7 +7144,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751029/products/Masala_Oil_and_More/Whole_Spices/Whole_Farm_Premium_Red_Chilli_Whole/f25eu0ggr1lqurkxt38p.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹47"
+    "price": "47"
   },
   {
     "name": "Whole Farm Premium Saunf Seeds",
@@ -7158,7 +7158,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751028/products/Masala_Oil_and_More/Whole_Spices/Whole_Farm_Premium_Saunf_Seeds/lhqy2ht2ly9gcnucnlvr.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹77"
+    "price": "77"
   },
   {
     "name": "Nestle Ceregrow Growing Up Kids Cereal",
@@ -7173,7 +7173,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751025/products/Organic_and_Healthy_Living/Baby_Food/Nestle_Ceregrow_Growing_Up_Kids_Cereal/ziqhznnbqitjwggg9oej.jpg"
     ],
     "quantity": "300 g",
-    "price": "₹345"
+    "price": "345"
   },
   {
     "name": "Slurrp Farm Cereal (Ragi, Rice & Mango)",
@@ -7187,7 +7187,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751027/products/Organic_and_Healthy_Living/Baby_Food/Slurrp_Farm_Cereal_Ragi_Rice_and_Mango/vlubj3niddgu6bqwsok0.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹349"
+    "price": "349"
   },
   {
     "name": "Timios Spinach Millet Dosa Mix Ready to Cook - Pack of 2",
@@ -7201,7 +7201,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751026/products/Organic_and_Healthy_Living/Baby_Food/Timios_Spinach_Millet_Dosa_Mix_Ready_to_Cook__Pack_of_2/lsqjemmkltdf7t9tbmvh.jpg"
     ],
     "quantity": "2 x 150 g",
-    "price": "₹129"
+    "price": "129"
   },
   {
     "name": "Timios Tomato & Cheese Ring Puffs",
@@ -7217,7 +7217,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751024/products/Organic_and_Healthy_Living/Baby_Food/Timios_Tomato_and_Cheese_Ring_Puffs/tgk0q4d4ikyzf8em6lxy.jpg"
     ],
     "quantity": "30 g",
-    "price": "₹18"
+    "price": "18"
   },
   {
     "name": "Batchelors Chicken & Leek Soup",
@@ -7232,7 +7232,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751022/products/Organic_and_Healthy_Living/Breakfast_and_More/Batchelors_Chicken_and_Leek_Soup/slwd8ck0spfuiy2vefg6.jpg"
     ],
     "quantity": "86 g",
-    "price": "₹399"
+    "price": "399"
   },
   {
     "name": "Batchelors Cream of Asparagus Soup",
@@ -7247,7 +7247,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751023/products/Organic_and_Healthy_Living/Breakfast_and_More/Batchelors_Cream_of_Asparagus_Soup/aceyjhmpouj8ep8le5im.jpg"
     ],
     "quantity": "117 g",
-    "price": "₹399"
+    "price": "399"
   },
   {
     "name": "Quaker Rolled Oats",
@@ -7263,7 +7263,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751021/products/Organic_and_Healthy_Living/Breakfast_and_More/Quaker_Rolled_Oats/akk3rf9spmyaogjo1nbc.jpg"
     ],
     "quantity": "400 g",
-    "price": "₹86"
+    "price": "86"
   },
   {
     "name": "Slurrp Farm Banana Chocochip Pancake Mix - Pack of 2",
@@ -7277,7 +7277,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751020/products/Organic_and_Healthy_Living/Breakfast_and_More/Slurrp_Farm_Banana_Chocochip_Pancake_Mix__Pack_of_2/lvcef1ppi9lgtmigwuh1.jpg"
     ],
     "quantity": "2 x 150 g",
-    "price": "₹275"
+    "price": "275"
   },
   {
     "name": "Oreo Choco Vanilla Dutch Cocoa Wafer Bar",
@@ -7291,7 +7291,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751018/products/Organic_and_Healthy_Living/Cookies_and_Wafers/Oreo_Choco_Vanilla_Dutch_Cocoa_Wafer_Bar/m7whbxcop6t1cgrq529b.jpg"
     ],
     "quantity": "140.4 g",
-    "price": "₹221"
+    "price": "221"
   },
   {
     "name": "Pintola Dark Chocolate Creamy Peanut Butter (High Protein) + Pintola Wholegrain Brown Rice Cake Combo",
@@ -7304,7 +7304,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751017/products/Organic_and_Healthy_Living/Cookies_and_Wafers/Pintola_Dark_Chocolate_Creamy_Peanut_Butter_High_Protein__Pintola_Wholegrain_Brown_Rice_Cake_Combo/ch7ihc6ah8dak6fis3lw.jpg"
     ],
     "quantity": "510 g + 125 g",
-    "price": "₹468"
+    "price": "468"
   },
   {
     "name": "Tiffany Crunch n Cream Wafer Bar - Chocolate",
@@ -7318,7 +7318,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751019/products/Organic_and_Healthy_Living/Cookies_and_Wafers/Tiffany_Crunch_n_Cream_Wafer_Bar__Chocolate/w8tr4oan6o4ebajri4st.jpg"
     ],
     "quantity": "135 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Toblerone Fruit & Nut Chocolate + Fiorella Crunch Biscuit Combo",
@@ -7332,7 +7332,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751017/products/Organic_and_Healthy_Living/Cookies_and_Wafers/Toblerone_Fruit_and_Nut_Chocolate__Fiorella_Crunch_Biscuit_Combo/yqgjpmpwfmrbzr0ce89d.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Zorabian Chicken Salami",
@@ -7346,7 +7346,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751016/products/Organic_and_Healthy_Living/Healthy_Proteins/Zorabian_Chicken_Salami/ofyxxq5ipagavmgfm8yc.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "E-Grip Lighter (Assorted) - Stash Pro",
@@ -7368,7 +7368,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751006/products/pan_corner/Lighters_and_Accessories/EGrip_Lighter_Assorted__Stash_Pro/pd9gp1mo7qmomiybiar8.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Jetty Windproof Lighter - Stash Pro",
@@ -7383,7 +7383,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751008/products/pan_corner/Lighters_and_Accessories/Jetty_Windproof_Lighter__Stash_Pro/czjyspo5arn9f4qf7f7x.jpg"
     ],
     "quantity": "1 piece",
-    "price": "₹50"
+    "price": "50"
   },
   {
     "name": "Premium Flint Lighter (Assorted) - Stash Pro",
@@ -7399,7 +7399,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751004/products/pan_corner/Lighters_and_Accessories/Premium_Flint_Lighter_Assorted__Stash_Pro/xk390ceeyzxwh9lml86o.jpg"
     ],
     "quantity": "1 piece",
-    "price": "₹80"
+    "price": "80"
   },
   {
     "name": "Retro Circulo Flint Lighter (Assorted, Refillable) - Stash Pro",
@@ -7415,7 +7415,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751002/products/pan_corner/Lighters_and_Accessories/Retro_Circulo_Flint_Lighter_Assorted_Refillable__Stash_Pro/wxlp77s8rb4hx8jrri7v.jpg"
     ],
     "quantity": "1 piece",
-    "price": "₹80"
+    "price": "80"
   },
   {
     "name": "Torch Lighter by Stash Pro",
@@ -7430,7 +7430,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751000/products/pan_corner/Lighters_and_Accessories/Torch_Lighter_by_Stash_Pro/wxj9itsfytegqgtfww4o.jpg"
     ],
     "quantity": "1 piece",
-    "price": "₹290"
+    "price": "290"
   },
   {
     "name": "Center Fresh Sugar Free Mint Candy",
@@ -7445,7 +7445,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751015/products/pan_corner/Mouth_Fresheners/Center_Fresh_Sugar_Free_Mint_Candy/nxif2ajrhtw8ruopfcyg.jpg"
     ],
     "quantity": "35 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Chandan Mint Saunf Mouth Freshener",
@@ -7460,7 +7460,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751012/products/pan_corner/Mouth_Fresheners/Chandan_Mint_Saunf_Mouth_Freshener/lmprtuvuzrbxnfsvqsla.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹50"
+    "price": "50"
   },
   {
     "name": "Chandan Rajwadi Mouth Freshener",
@@ -7473,7 +7473,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751013/products/pan_corner/Mouth_Fresheners/Chandan_Rajwadi_Mouth_Freshener/nwxhbgupfxazlpkkzlen.jpg"
     ],
     "quantity": "140 g",
-    "price": "₹139"
+    "price": "139"
   },
   {
     "name": "Chandan Star 5 in 1 Mouth Freshener",
@@ -7489,7 +7489,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751014/products/pan_corner/Mouth_Fresheners/Chandan_Star_5_in_1_Mouth_Freshener/oowhstgzshhhkkqljcxx.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Pass Pass Minty Mix Mouth Freshener",
@@ -7505,7 +7505,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751011/products/pan_corner/Mouth_Fresheners/Pass_Pass_Minty_Mix_Mouth_Freshener/g4vgpgg7kp5llvdqqrex.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹64"
+    "price": "64"
   },
   {
     "name": "Praakritik Natural Paan Gulkand",
@@ -7520,7 +7520,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751010/products/pan_corner/Mouth_Fresheners/Praakritik_Natural_Paan_Gulkand/tvwjav2erdyhsbsa12iw.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹332"
+    "price": "332"
   },
   {
     "name": "Rajnigandha Silver Pearls - Silver Coated Elaichi Mouth Freshener",
@@ -7535,7 +7535,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751009/products/pan_corner/Mouth_Fresheners/Rajnigandha_Silver_Pearls__Silver_Coated_Elaichi_Mouth_Freshener/vobzudtrm2dqgikwqzvq.jpg"
     ],
     "quantity": "6 g",
-    "price": "₹60"
+    "price": "60"
   },
   {
     "name": "GO DESi Mints Meetha Paan",
@@ -7551,7 +7551,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751007/products/pan_corner/paan/GO_DESi_Mints_Meetha_Paan/x4yufzsyhufyqvdfzhwq.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Nicotex Fruit Burst Nicotine Gum",
@@ -7565,7 +7565,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751002/products/pan_corner/Smoking_Cessions/Nicotex_Fruit_Burst_Nicotine_Gum/rjy6k3ifsscx177dfhsg.jpg"
     ],
     "quantity": "1 pack (9 pieces)",
-    "price": "₹82"
+    "price": "82"
   },
   {
     "name": "Nicotex Mint Plus Flavour Nicotine Gum",
@@ -7579,7 +7579,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750999/products/pan_corner/Smoking_Cessions/Nicotex_Mint_Plus_Flavour_Nicotine_Gum/ytustd1ols8umhooecn5.jpg"
     ],
     "quantity": "1 pack (12 pieces)",
-    "price": "₹109"
+    "price": "109"
   },
   {
     "name": "Nicotex Sugar Free Nicotine Gum",
@@ -7592,7 +7592,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751001/products/pan_corner/Smoking_Cessions/Nicotex_Sugar_Free_Nicotine_Gum/gt3qhirh3jv8m4fgpjga.jpg"
     ],
     "quantity": "1 pack (40 pieces)",
-    "price": "₹332"
+    "price": "332"
   },
   {
     "name": "Nicotex Ultra Mint Nicotine Gum",
@@ -7605,7 +7605,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750998/products/pan_corner/Smoking_Cessions/Nicotex_Ultra_Mint_Nicotine_Gum/b1lbtonn2k58fphfr7ig.jpg"
     ],
     "quantity": "1 pack (9 pieces)",
-    "price": "₹82"
+    "price": "82"
   },
   {
     "name": "Ryze Nicotine Gum (2 mg, Fresh Fennel)",
@@ -7621,7 +7621,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750998/products/pan_corner/Smoking_Cessions/Ryze_Nicotine_Gum_2_mg_Fresh_Fennel/a1gpexu4fzdmicrstxjt.jpg"
     ],
     "quantity": "1 pack (9 pieces)",
-    "price": "₹78"
+    "price": "78"
   },
   {
     "name": "BearHugs Anti Skid Pet Feeding Bowl - 180 ml (S)",
@@ -7637,7 +7637,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750996/products/Pet_Care/Accessories_and_Other_Supplies/BearHugs_Anti_Skid_Pet_Feeding_Bowl__180_ml_S/zw5sfljn7hhyvhzhlv5h.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "BearHugs Reflective Rope Leash Small (S, Navy Blue)",
@@ -7653,7 +7653,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750995/products/Pet_Care/Accessories_and_Other_Supplies/BearHugs_Reflective_Rope_Leash_Small_S_Navy_Blue/vsyguskejghn55e4nrh6.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Mutt of Course Dog Raincoat (Large, Yellow)",
@@ -7669,7 +7669,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750994/products/Pet_Care/Accessories_and_Other_Supplies/Mutt_of_Course_Dog_Raincoat_Large_Yellow/cdrvxugavevdx8kgd7aw.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Super Cat Bell Collar",
@@ -7684,7 +7684,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750993/products/Pet_Care/Accessories_and_Other_Supplies/Super_Cat_Bell_Collar/rvbknbkhgjiubrb8owpd.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Bark Out Loud Hairball Control Cat Treats",
@@ -7700,7 +7700,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750992/products/Pet_Care/Cat_Needs/Bark_Out_Loud_Hairball_Control_Cat_Treats/khh2itiaqtreevh6mn8h.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹238"
+    "price": "238"
   },
   {
     "name": "Felix Cat Food With Chicken in Jelly",
@@ -7715,7 +7715,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750991/products/Pet_Care/Cat_Needs/Felix_Cat_Food_With_Chicken_in_Jelly/x2umcstxbpsu6axkzupx.jpg"
     ],
     "quantity": "12 x 85 g",
-    "price": "₹612"
+    "price": "612"
   },
   {
     "name": "Whiskas Kitten Wet Cat Food -Chicken in Gravy (2-12 Months)",
@@ -7731,7 +7731,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750990/products/Pet_Care/Cat_Needs/Whiskas_Kitten_Wet_Cat_Food_Chicken_in_Gravy_212_Months/hp85wjpv2dwqlmj9qykk.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Hikari Cichlid Gold Sinking Medium Pellet Fish Food",
@@ -7744,7 +7744,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750989/products/Pet_Care/Diverse_Pet_Food/Hikari_Cichlid_Gold_Sinking_Medium_Pellet_Fish_Food/r26frrchnsr50zyrxxg8.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹548"
+    "price": "548"
   },
   {
     "name": "Petcrux Premium Pellet Turtle Food",
@@ -7758,7 +7758,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750988/products/Pet_Care/Diverse_Pet_Food/Petcrux_Premium_Pellet_Turtle_Food/amzswdsok1dtdvxkd9jb.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Drools Chicken and Egg Dog Dry Food Puppy - Free 1.2 kg",
@@ -7774,7 +7774,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750987/products/Pet_Care/Dog_Needs/Drools_Chicken_and_Egg_Dog_Dry_Food_Puppy__Free_12_kg/blef2vxqray631jnjnzz.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Pedigree Adult Wet Dog Food -Chicken & Liver Chunks in Gravy flavour",
@@ -7789,7 +7789,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750986/products/Pet_Care/Dog_Needs/Pedigree_Adult_Wet_Dog_Food_Chicken_and_Liver_Chunks_in_Gravy_flavour/rdvj59j00tbaa7s3eqr2.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Pedigree Biscrok (Above 4 months) - Chicken Flavour Dog Biscuit",
@@ -7805,7 +7805,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750985/products/Pet_Care/Dog_Needs/Pedigree_Biscrok_Above_4_months__Chicken_Flavour_Dog_Biscuit/hl5vlnjvxdcw29v1q5bn.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹184"
+    "price": "184"
   },
   {
     "name": "Vivaldis Spoton Flea & Tick Remover - Dogs 10-20 kg",
@@ -7821,7 +7821,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750983/products/Pet_Care/Dog_Needs/Vivaldis_Spoton_Flea_and_Tick_Remover__Dogs_1020_kg/wkwtenr01azm4b3lgea3.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Bark Out Loud Natural Flea & Tick Pet Spray (for Dogs & Cats)",
@@ -7837,7 +7837,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750982/products/Pet_Care/Pet_Grooming/Bark_Out_Loud_Natural_Flea_and_Tick_Pet_Spray_for_Dogs_and_Cats/cldjs5g4br264j2jsq4x.jpg"
     ],
     "quantity": "200 ml",
-    "price": "₹428"
+    "price": "428"
   },
   {
     "name": "Super Pet Fresh Lime Scent Pet Wipes",
@@ -7852,7 +7852,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750981/products/Pet_Care/Pet_Grooming/Super_Pet_Fresh_Lime_Scent_Pet_Wipes/ncmiwpwgmnojhkcicm9u.jpg"
     ],
     "quantity": "1 pack (100 pieces)",
-    "price": "₹129"
+    "price": "129"
   },
   {
     "name": "Vivaldis Clearify Pet Ear Cleaner (for Dogs & Cats)",
@@ -7868,7 +7868,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750980/products/Pet_Care/Pet_Grooming/Vivaldis_Clearify_Pet_Ear_Cleaner_for_Dogs_and_Cats/zs6sl8a87shdugmg6v7d.jpg"
     ],
     "quantity": "100 ml",
-    "price": "₹214"
+    "price": "214"
   },
   {
     "name": "Vivaldis VI-FI Forte Flea & Tick Pet Spray (for Dogs & Cats)",
@@ -7884,7 +7884,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750979/products/Pet_Care/Pet_Grooming/Vivaldis_VIFI_Forte_Flea_and_Tick_Pet_Spray_for_Dogs_and_Cats/pvmg6k2vxwudon6k7sac.jpg"
     ],
     "quantity": "100 ml",
-    "price": "₹428"
+    "price": "428"
   },
   {
     "name": "CIR Adult Diaper Pants (Medium, 75-100 cm, 30” – 40”)",
@@ -7900,7 +7900,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750977/products/Pharma_and_Wellness/Adult_Diapers/CIR_Adult_Diaper_Pants_Medium_75100_cm_30__40/so1c2okqegaskl2o5lms.jpg"
     ],
     "quantity": "1 pack (10 pieces)",
-    "price": "₹228"
+    "price": "228"
   },
   {
     "name": "Friends Easy Adult Diaper (XL, 29.53-62.99)",
@@ -7916,7 +7916,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750976/products/Pharma_and_Wellness/Adult_Diapers/Friends_Easy_Adult_Diaper_XL_29536299/erg6tyyvemlaqcpmhxec.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Kare In Classic Adult Diaper Pants, Extra Large (100 - 150 cm)",
@@ -7932,7 +7932,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750975/products/Pharma_and_Wellness/Adult_Diapers/Kare_In_Classic_Adult_Diaper_Pants_Extra_Large_100__150_cm/t2odqrxnzwjh7kdxaxon.jpg"
     ],
     "quantity": "1 pack (10 pieces)",
-    "price": "₹290"
+    "price": "290"
   },
   {
     "name": "Boroline Suthol Skin Antiseptic Liquid - Neem",
@@ -7948,7 +7948,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750974/products/Pharma_and_Wellness/Antiseptic_Liquid/Boroline_Suthol_Skin_Antiseptic_Liquid__Neem/agcrmtvj5kgoc4ywhu8c.jpg"
     ],
     "quantity": "100 ml",
-    "price": "₹48"
+    "price": "48"
   },
   {
     "name": "Dettol Antiseptic Liquid",
@@ -7964,7 +7964,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750972/products/Pharma_and_Wellness/Antiseptic_Liquid/Dettol_Antiseptic_Liquid/zs4clsklnq1944lezp6i.jpg"
     ],
     "quantity": "550 ml",
-    "price": "₹259"
+    "price": "259"
   },
   {
     "name": "Savlon Disinfectant Antiseptic Liquid",
@@ -7980,7 +7980,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750971/products/Pharma_and_Wellness/Antiseptic_Liquid/Savlon_Disinfectant_Antiseptic_Liquid/bwjduyo3a9ntav6cidzw.jpg"
     ],
     "quantity": "500 ml",
-    "price": "₹175"
+    "price": "175"
   },
   {
     "name": "Centrum Strawberry Flavour Healthy Hair Biotin+ Gummies (for Men & Women)",
@@ -7995,7 +7995,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750969/products/Pharma_and_Wellness/Beauty_Supplements/Centrum_Strawberry_Flavour_Healthy_Hair_Biotin_Gummies_for_Men_and_Women/vbsjqfav7gzzsphx51cz.jpg"
     ],
     "quantity": "30 pieces",
-    "price": "₹523"
+    "price": "523"
   },
   {
     "name": "Himalaya Wellness Neem Skin Supplement",
@@ -8010,7 +8010,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750969/products/Pharma_and_Wellness/Beauty_Supplements/Himalaya_Wellness_Neem_Skin_Supplement/d7iyml1aazojrnpzpshh.jpg"
     ],
     "quantity": "60 units",
-    "price": "₹216"
+    "price": "216"
   },
   {
     "name": "Man Matters Nourish Biotin Hair Supplement Gummies",
@@ -8024,7 +8024,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750967/products/Pharma_and_Wellness/Beauty_Supplements/Man_Matters_Nourish_Biotin_Hair_Supplement_Gummies/rpdborcpnzf8drfl1ufz.jpg"
     ],
     "quantity": "30 pieces",
-    "price": "₹549"
+    "price": "549"
   },
   {
     "name": "Dabur Chyawanprash Awaleha (Gur)",
@@ -8040,7 +8040,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750964/products/Pharma_and_Wellness/Chyawanprash/Dabur_Chyawanprash_Awaleha_Gur/zmyobsepmaygwyutt8mi.jpg"
     ],
     "quantity": "900 g",
-    "price": "₹312"
+    "price": "312"
   },
   {
     "name": "Zandu Sona Chandi Chyawanprash",
@@ -8053,7 +8053,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750963/products/Pharma_and_Wellness/Chyawanprash/Zandu_Sona_Chandi_Chyawanprash/swsjj6bwptqbuvlllynm.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Vicks BabyRub Chest rubs & balms",
@@ -8069,7 +8069,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750967/products/Pharma_and_Wellness/Cough_and_Cold/Vicks_BabyRub_Chest_rubs_and_balms/n3lmd01nfdvd4cpprxbr.jpg"
     ],
     "quantity": "25 ml",
-    "price": "₹125"
+    "price": "125"
   },
   {
     "name": "Vicks Inhaler (Instant Relief From Blocked Nose)",
@@ -8085,7 +8085,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750966/products/Pharma_and_Wellness/Cough_and_Cold/Vicks_Inhaler_Instant_Relief_From_Blocked_Nose/tmatxjehnyvhtfn1j7br.jpg"
     ],
     "quantity": "2 pieces",
-    "price": "₹129"
+    "price": "129"
   },
   {
     "name": "Vicks VapoRub Chest rubs & balms (Relieve Cold, Cough & Blocked Nose)",
@@ -8101,7 +8101,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750965/products/Pharma_and_Wellness/Cough_and_Cold/Vicks_VapoRub_Chest_rubs_and_balms_Relieve_Cold_Cough_and_Blocked_Nose/i7upozoxexc41o3lyvtb.jpg"
     ],
     "quantity": "25 ml",
-    "price": "₹109"
+    "price": "109"
   },
   {
     "name": "Eno Regular Digestive Antacid",
@@ -8117,7 +8117,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750959/products/Pharma_and_Wellness/Digestive_Care/Eno_Regular_Digestive_Antacid/whj82zpbx5y5ngfjhw2g.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹175"
+    "price": "175"
   },
   {
     "name": "Pudin Hara Active Drops",
@@ -8132,7 +8132,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750958/products/Pharma_and_Wellness/Digestive_Care/Pudin_Hara_Active_Drops/uxuzmpc0d8oe3tbg4vwb.jpg"
     ],
     "quantity": "30 ml",
-    "price": "₹50"
+    "price": "50"
   },
   {
     "name": "Zandu Pancharishta Ayurvedic Digestive Syrup",
@@ -8148,7 +8148,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750957/products/Pharma_and_Wellness/Digestive_Care/Zandu_Pancharishta_Ayurvedic_Digestive_Syrup/qjzmpfpyj0u74vsovxfe.jpg"
     ],
     "quantity": "450 ml",
-    "price": "₹137"
+    "price": "137"
   },
   {
     "name": "Fast&Up Nightout Instant Hangover Solution",
@@ -8164,7 +8164,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750962/products/Pharma_and_Wellness/Everyday_Medicines/FastandUp_Nightout_Instant_Hangover_Solution/lfmgucuawee8rijfk4yw.jpg"
     ],
     "quantity": "1 pack (4 tablets)",
-    "price": "₹138"
+    "price": "138"
   },
   {
     "name": "Himalaya Hadjod Tablet",
@@ -8178,7 +8178,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750961/products/Pharma_and_Wellness/Everyday_Medicines/Himalaya_Hadjod_Tablet/qzh0tdrezcanfaiwajuu.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Woodward's Gripe Water",
@@ -8192,7 +8192,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750960/products/Pharma_and_Wellness/Everyday_Medicines/Woodwards_Gripe_Water/pheyvdsofzn2invedoq2.jpg"
     ],
     "quantity": "130 ml",
-    "price": "₹90"
+    "price": "90"
   },
   {
     "name": "BPL Fingertip Pulse Oximeter (Oxy O2)",
@@ -8208,7 +8208,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750955/products/Pharma_and_Wellness/Healthcare_Devices/BPL_Fingertip_Pulse_Oximeter_Oxy_O2/paxmvr1vlk19apgaaeks.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Flamingo Orthopaedic Pain Relief Belt",
@@ -8224,7 +8224,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750954/products/Pharma_and_Wellness/Healthcare_Devices/Flamingo_Orthopaedic_Pain_Relief_Belt/r2fn6jxfjnnzmdk8kbz4.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Lifelong Handheld Full Body Electric Massager (Brown)",
@@ -8239,7 +8239,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750953/products/Pharma_and_Wellness/Healthcare_Devices/Lifelong_Handheld_Full_Body_Electric_Massager_Brown/tltqc03lo3yphr4gtikg.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Catch Schezwan Paste",
@@ -8252,7 +8252,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750952/products/Sauces_and_Spreads/Asian_Sauces/Catch_Schezwan_Paste/kevs3psmlbidtvpeuevo.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹28"
+    "price": "28"
   },
   {
     "name": "Ching's Secret Schezwan Chutney",
@@ -8266,7 +8266,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750951/products/Sauces_and_Spreads/Asian_Sauces/Chings_Secret_Schezwan_Chutney/azfyredevlkopzg5nfom.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Knorr Dark Soy Sauce",
@@ -8280,7 +8280,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750952/products/Sauces_and_Spreads/Asian_Sauces/Knorr_Dark_Soy_Sauce/hq62u2xupgv89pdejqgb.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹48"
+    "price": "48"
   },
   {
     "name": "Veeba Wok Tok Chilli Schezwan Chutney",
@@ -8294,7 +8294,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750950/products/Sauces_and_Spreads/Asian_Sauces/Veeba_Wok_Tok_Chilli_Schezwan_Chutney/v0yawdl5uxe4f9wad5mb.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹83"
+    "price": "83"
   },
   {
     "name": "Mother's Recipe Ginger Garlic Paste",
@@ -8307,7 +8307,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750949/products/Sauces_and_Spreads/Cooking_Sauces_and_Vinegar/Mothers_Recipe_Ginger_Garlic_Paste/emkgcsgrcxlmsy9jwkly.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹38"
+    "price": "38"
   },
   {
     "name": "Smith & Jones Ginger Garlic Paste",
@@ -8321,7 +8321,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750949/products/Sauces_and_Spreads/Cooking_Sauces_and_Vinegar/Smith_and_Jones_Ginger_Garlic_Paste/fzqrsk8hl1mhlwuvjajo.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹43"
+    "price": "43"
   },
   {
     "name": "Veeba Pizza & Pasta Sauce - Herby Tomato",
@@ -8336,7 +8336,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750948/products/Sauces_and_Spreads/Cooking_Sauces_and_Vinegar/Veeba_Pizza_and_Pasta_Sauce__Herby_Tomato/s52npxarnea7saxp51lw.jpg"
     ],
     "quantity": "280 g",
-    "price": "₹95"
+    "price": "95"
   },
   {
     "name": "WOW Life Science Apple Cider Organic Vinegar",
@@ -8352,7 +8352,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750947/products/Sauces_and_Spreads/Cooking_Sauces_and_Vinegar/WOW_Life_Science_Apple_Cider_Organic_Vinegar/sierdlwzkbrcy6oi37vb.jpg"
     ],
     "quantity": "400 ml",
-    "price": "₹328"
+    "price": "328"
   },
   {
     "name": "KLF Instant Coconut Chutney Powder (Plain)",
@@ -8366,7 +8366,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750944/products/Sauces_and_Spreads/Indian_Chutney_and_Pickle/KLF_Instant_Coconut_Chutney_Powder_Plain/rmqz95ypdi1kpe72pgrx.jpg"
     ],
     "quantity": "25 g",
-    "price": "₹32"
+    "price": "32"
   },
   {
     "name": "Society Spice Secrets Mango Pickle",
@@ -8380,7 +8380,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750946/products/Sauces_and_Spreads/Indian_Chutney_and_Pickle/Society_Spice_Secrets_Mango_Pickle/xp8isg733ofbmwriogbk.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Society Spice Secrets Mixed Pickle",
@@ -8394,7 +8394,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750944/products/Sauces_and_Spreads/Indian_Chutney_and_Pickle/Society_Spice_Secrets_Mixed_Pickle/u983b3p0azcsjb84mr0t.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Veeba Chef's Special Imli Sauce",
@@ -8410,7 +8410,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750944/products/Sauces_and_Spreads/Indian_Chutney_and_Pickle/Veeba_Chefs_Special_Imli_Sauce/bxepxrixgu75eemohtmw.jpg"
     ],
     "quantity": "450 g",
-    "price": "₹103"
+    "price": "103"
   },
   {
     "name": "Hershey's Cocoa with Almond Chocolate Spread",
@@ -8426,7 +8426,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750942/products/Sauces_and_Spreads/Jam_and_Spreads/Hersheys_Cocoa_with_Almond_Chocolate_Spread/nhnc0ldosxp5k6yapxfd.jpg"
     ],
     "quantity": "350 g",
-    "price": "₹313"
+    "price": "313"
   },
   {
     "name": "Kissan Mixed Fruit Jam (200 g)",
@@ -8441,7 +8441,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750941/products/Sauces_and_Spreads/Jam_and_Spreads/Kissan_Mixed_Fruit_Jam_200_g/s530ao6ylwgmk675yx4r.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹80"
+    "price": "80"
   },
   {
     "name": "Nutralite Crunchy Choco Spread With Quinoa",
@@ -8457,7 +8457,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750940/products/Sauces_and_Spreads/Jam_and_Spreads/Nutralite_Crunchy_Choco_Spread_With_Quinoa/fmhsotlcjsrafbvknwri.jpg"
     ],
     "quantity": "275 g",
-    "price": "₹240"
+    "price": "240"
   },
   {
     "name": "Veeba Chef's Special Hot Sweet Tomato Chilli Sauce",
@@ -8472,7 +8472,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750938/products/Sauces_and_Spreads/Tomoto_and_Chilli_Ketchup/Veeba_Chefs_Special_Hot_Sweet_Tomato_Chilli_Sauce/gumhxl5xowmx63q7olif.jpg"
     ],
     "quantity": "450 g",
-    "price": "₹88"
+    "price": "88"
   },
   {
     "name": "Veeba Chef's Special Tomato Ketchup",
@@ -8488,7 +8488,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750938/products/Sauces_and_Spreads/Tomoto_and_Chilli_Ketchup/Veeba_Chefs_Special_Tomato_Ketchup/uiyctdqveeqaxt8layzu.jpg"
     ],
     "quantity": "900 g",
-    "price": "₹84"
+    "price": "84"
   },
   {
     "name": "Veeba Tomato Ketchup (No Added Sugar)",
@@ -8502,7 +8502,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750936/products/Sauces_and_Spreads/Tomoto_and_Chilli_Ketchup/Veeba_Tomato_Ketchup_No_Added_Sugar/ihndmrvttledmx5jnvhi.jpg"
     ],
     "quantity": "460 g",
-    "price": "₹171"
+    "price": "171"
   },
   {
     "name": "Balaji Ratlami Sev Bhujia",
@@ -8517,7 +8517,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750935/products/Snacks_and_Munchies/Bhujia_and_Mixtures/Balaji_Ratlami_Sev_Bhujia/nlaadkqogx4dgunguk1v.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Chheda's Tikha Sev Bhujia",
@@ -8530,7 +8530,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750934/products/Snacks_and_Munchies/Bhujia_and_Mixtures/Chhedas_Tikha_Sev_Bhujia/kj5cutfjca8et5yxzfvk.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Haldiram's Nagpur Sev Bhujia",
@@ -8543,7 +8543,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750933/products/Snacks_and_Munchies/Bhujia_and_Mixtures/Haldirams_Nagpur_Sev_Bhujia/tjrkmud61el7bcp7tpas.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Chheda's Golden Aloo Chips (Rock Salt)",
@@ -8556,7 +8556,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750934/products/Snacks_and_Munchies/Chips_and_Crisps/Chhedas_Golden_Aloo_Chips_Rock_Salt/u0wn7nezxxokaxkdwpps.jpg"
     ],
     "quantity": "170 g",
-    "price": "₹81"
+    "price": "81"
   },
   {
     "name": "Kurkure Solid Masti Masala Twisteez Crisps",
@@ -8570,7 +8570,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750930/products/Snacks_and_Munchies/Chips_and_Crisps/Kurkure_Solid_Masti_Masala_Twisteez_Crisps/wt05ht8nyskgigvza3ez.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Lay's American Style Cream & Onion Potato Chips",
@@ -8586,7 +8586,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750932/products/Snacks_and_Munchies/Chips_and_Crisps/Lays_American_Style_Cream_and_Onion_Potato_Chips/b2o2xoqduik82gbuvzmk.jpg"
     ],
     "quantity": "48 g",
-    "price": "₹20"
+    "price": "20"
   },
   {
     "name": "Lay's India's Magic Masala Potato Chips (40 g)",
@@ -8602,7 +8602,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750930/products/Snacks_and_Munchies/Chips_and_Crisps/Lays_Indias_Magic_Masala_Potato_Chips_40_g/qbkdwcokb2jxo0fuueou.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Lay's West Indies Hot n Sweet Chilli Flavour Potato Chips",
@@ -8617,7 +8617,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750929/products/Snacks_and_Munchies/Chips_and_Crisps/Lays_West_Indies_Hot_n_Sweet_Chilli_Flavour_Potato_Chips/bkk2ezk5ubjyhmvwbrd5.jpg"
     ],
     "quantity": "48 g",
-    "price": "₹20"
+    "price": "20"
   },
   {
     "name": "Phab Chocolate Brownie Protein Bar",
@@ -8633,7 +8633,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750927/products/Snacks_and_Munchies/Energy_Bars/Phab_Chocolate_Brownie_Protein_Bar/vv47jqx8jivcjapcfm1r.jpg"
     ],
     "quantity": "3 x 35 g",
-    "price": "₹192"
+    "price": "192"
   },
   {
     "name": "RiteBite Max Protein Bar (Peanut Butter) - Pack of 2",
@@ -8648,7 +8648,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750928/products/Snacks_and_Munchies/Energy_Bars/RiteBite_Max_Protein_Bar_Peanut_Butter__Pack_of_2/zhjilpab1mrpotyou4zb.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Yoga Bar 20 g Protein Chocolate Brownie Protein Bar",
@@ -8663,7 +8663,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750926/products/Snacks_and_Munchies/Energy_Bars/Yoga_Bar_20_g_Protein_Chocolate_Brownie_Protein_Bar/sggxaxqn2ntzaxwwbvgg.jpg"
     ],
     "quantity": "70 g",
-    "price": "₹102"
+    "price": "102"
   },
   {
     "name": "Bagrry's Exotic Fruits with Cranberries & Almonds Granola (30% Fruits, Nuts & Berries)",
@@ -8679,7 +8679,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750925/products/Snacks_and_Munchies/Granola/Bagrrys_Exotic_Fruits_with_Cranberries_and_Almonds_Granola_30_Fruits_Nuts_and_Berries/zoqowyg5apkkor8vqexu.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Kellogg's Crunchy Granola Chocolate & Almonds Cereal + Pringles Sour Cream & Onion Potato Chips Combo",
@@ -8694,7 +8694,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750923/products/Snacks_and_Munchies/Granola/Kelloggs_Crunchy_Granola_Chocolate_and_Almonds_Cereal__Pringles_Sour_Cream_and_Onion_Potato_Chips_Combo/mubepmihptulj2kdcyze.jpg"
     ],
     "quantity": "107 g + 450 g",
-    "price": "₹459"
+    "price": "459"
   },
   {
     "name": "Nourish Organics Cranberry Super Grain Granola",
@@ -8708,7 +8708,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750922/products/Snacks_and_Munchies/Granola/Nourish_Organics_Cranberry_Super_Grain_Granola/vtt4qvgtk5xu4gcttzr5.jpg"
     ],
     "quantity": "300 g",
-    "price": "₹360"
+    "price": "360"
   },
   {
     "name": "Cheetos Cheddar Jalapeno Crunchy Crisps",
@@ -8721,7 +8721,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750922/products/Snacks_and_Munchies/Imported_Snacks/Cheetos_Cheddar_Jalapeno_Crunchy_Crisps/czbvighf5vxwrmkv23rp.jpg"
     ],
     "quantity": "226.8 g",
-    "price": "₹739"
+    "price": "739"
   },
   {
     "name": "Kettle Studio Potato Chips - Rock Sea Salt & English Vinegar",
@@ -8735,7 +8735,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750921/products/Snacks_and_Munchies/Imported_Snacks/Kettle_Studio_Potato_Chips__Rock_Sea_Salt_and_English_Vinegar/plgbthggbvymkbtkkvcy.jpg"
     ],
     "quantity": "113 g",
-    "price": "₹99"
+    "price": "99"
   },
   {
     "name": "Nongshim Shrimp Flavoured Hot & Spicy Crackers Chips",
@@ -8748,7 +8748,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750920/products/Snacks_and_Munchies/Imported_Snacks/Nongshim_Shrimp_Flavoured_Hot_and_Spicy_Crackers_Chips/oxnco3ecg90e0qs3oaa1.jpg"
     ],
     "quantity": "75 g",
-    "price": "₹129"
+    "price": "129"
   },
   {
     "name": "Farmley Masala Munchies Crisps Made With Makhanas",
@@ -8763,7 +8763,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750920/products/Snacks_and_Munchies/Makhana_and_More/Farmley_Masala_Munchies_Crisps_Made_With_Makhanas/zf5ratif92g5i3xsihbm.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Mr. Makhana Himalayan Salt & Pepper Flavoured Makhana (Standee Pouch)",
@@ -8776,7 +8776,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750919/products/Snacks_and_Munchies/Makhana_and_More/Mr_Makhana_Himalayan_Salt_and_Pepper_Flavoured_Makhana_Standee_Pouch/iw8dkaezo0luwi0sm8xb.jpg"
     ],
     "quantity": "55 g",
-    "price": "₹120"
+    "price": "120"
   },
   {
     "name": "Mr. Makhana Lime & Chilli Flavoured Makhana",
@@ -8790,7 +8790,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750918/products/Snacks_and_Munchies/Makhana_and_More/Mr_Makhana_Lime_and_Chilli_Flavoured_Makhana/uaaom7jrx2bes4mqdskq.jpg"
     ],
     "quantity": "25 g",
-    "price": "₹50"
+    "price": "50"
   },
   {
     "name": "4700BC Himalayan Salt Caramel Popcorn",
@@ -8805,7 +8805,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750909/products/Snacks_and_Munchies/Popcorn/4700BC_Himalayan_Salt_Caramel_Popcorn/in7ghkik47vv4vvaxqbv.jpg"
     ],
     "quantity": "125 g",
-    "price": "₹190"
+    "price": "190"
   },
   {
     "name": "4700BC Nutty Tuxedo Chocolate Popcorn",
@@ -8819,7 +8819,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750916/products/Snacks_and_Munchies/Munchies_Gift_Packs/4700BC_Nutty_Tuxedo_Chocolate_Popcorn/xmygclsadoh64jpbixk5.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Desi Ghee Dryfruit Besan Laddu by Unibic Swaadesi",
@@ -8834,7 +8834,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750916/products/Snacks_and_Munchies/Munchies_Gift_Packs/Desi_Ghee_Dryfruit_Besan_Laddu_by_Unibic_Swaadesi/zi4wcn0ebpw2ufutw3ow.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Bingo Cheese Nachos - Pack of 2",
@@ -8848,7 +8848,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750915/products/Snacks_and_Munchies/Nachos/Bingo_Cheese_Nachos__Pack_of_2/ub0vloal2wjfpbakauf9.jpg"
     ],
     "quantity": "2 x 80 g",
-    "price": "₹67"
+    "price": "67"
   },
   {
     "name": "Cornitos Sweet Chili Nachos",
@@ -8864,7 +8864,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750914/products/Snacks_and_Munchies/Nachos/Cornitos_Sweet_Chili_Nachos/mzalqjq56ytn4cqfxkwq.jpg"
     ],
     "quantity": "75 g",
-    "price": "₹57"
+    "price": "57"
   },
   {
     "name": "Doritos Cheese Nachos - Pack of 2",
@@ -8879,7 +8879,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750911/products/Snacks_and_Munchies/Nachos/Doritos_Cheese_Nachos__Pack_of_2/x6jmgaow9lrfkpjrvvbe.jpg"
     ],
     "quantity": "2 x 153 g",
-    "price": "₹135"
+    "price": "135"
   },
   {
     "name": "Doritos Sweet Chilli Flavour Nachos - Pack of 2",
@@ -8894,7 +8894,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750913/products/Snacks_and_Munchies/Nachos/Doritos_Sweet_Chilli_Flavour_Nachos__Pack_of_2/igodfkmrx9xcvitll6xf.jpg"
     ],
     "quantity": "2 x 56 g",
-    "price": "₹80"
+    "price": "80"
   },
   {
     "name": "Chheda's Bhakarwadi Namkeen",
@@ -8907,7 +8907,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750911/products/Snacks_and_Munchies/Namkeen_Snacks/Chhedas_Bhakarwadi_Namkeen/rp1ngtfv47cyelqfdgwa.jpg"
     ],
     "quantity": "150 g",
-    "price": "₹52"
+    "price": "52"
   },
   {
     "name": "Chheda's Chana Jor",
@@ -8920,7 +8920,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750910/products/Snacks_and_Munchies/Namkeen_Snacks/Chhedas_Chana_Jor/d8iweeeenfbdfxgq04l5.jpg"
     ],
     "quantity": "170 g",
-    "price": "₹55"
+    "price": "55"
   },
   {
     "name": "Chheda's Soya Sticks, Snax",
@@ -8933,7 +8933,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750910/products/Snacks_and_Munchies/Namkeen_Snacks/Chhedas_Soya_Sticks_Snax/pwv7zzo8u4imkofpdjkx.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "DNV Appalam Papad",
@@ -8946,7 +8946,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750907/products/Snacks_and_Munchies/Papad_and_Fryums/DNV_Appalam_Papad/rnx8ztkbpgempncbbnqz.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹42"
+    "price": "42"
   },
   {
     "name": "Lijjat Plain Urad Papad",
@@ -8959,7 +8959,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750906/products/Snacks_and_Munchies/Papad_and_Fryums/Lijjat_Plain_Urad_Papad/ngaxo2ibfetyxzbhnspl.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹77"
+    "price": "77"
   },
   {
     "name": "Mother's Recipe Rice Papad - Jeera",
@@ -8972,7 +8972,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750906/products/Snacks_and_Munchies/Papad_and_Fryums/Mothers_Recipe_Rice_Papad__Jeera/c7b50cf1jobktinc3kzz.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "4700BC Himalayan Salt Caramel Popcorn",
@@ -8987,7 +8987,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750909/products/Snacks_and_Munchies/Popcorn/4700BC_Himalayan_Salt_Caramel_Popcorn/in7ghkik47vv4vvaxqbv.jpg"
     ],
     "quantity": "125 g",
-    "price": "₹190"
+    "price": "190"
   },
   {
     "name": "Act II Butter Popcorn",
@@ -9001,7 +9001,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750908/products/Snacks_and_Munchies/Popcorn/Act_II_Butter_Popcorn/hnnbr69ctn6g9aqpu2gz.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Act II Sour Cream & Cheese Popcorn",
@@ -9014,7 +9014,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750907/products/Snacks_and_Munchies/Popcorn/Act_II_Sour_Cream_and_Cheese_Popcorn/kll0s7ymketsgiqhoaly.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Britannia Toastea Premium Bake Rus",
@@ -9029,7 +9029,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750905/products/Snacks_and_Munchies/Rusks_and_Wafers/Britannia_Toastea_Premium_Bake_Rus/bgymogfhrzlcnsrb6vhs.jpg"
     ],
     "quantity": "2 units",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Let's Try Chocolate Cake Rusk",
@@ -9043,7 +9043,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750904/products/Snacks_and_Munchies/Rusks_and_Wafers/Lets_Try_Chocolate_Cake_Rusk/crtz2y8em4bxyq2adltz.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹148"
+    "price": "148"
   },
   {
     "name": "Parle Real Elaichi Premium Rusk",
@@ -9058,7 +9058,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750904/products/Snacks_and_Munchies/Rusks_and_Wafers/Parle_Real_Elaichi_Premium_Rusk/egypvitxpzv94rsywftv.jpg"
     ],
     "quantity": "291.2 g",
-    "price": "₹45"
+    "price": "45"
   },
   {
     "name": "Britannia Cake Fudge it Chocolate Brownie",
@@ -9072,7 +9072,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750903/products/Sweet_Tooth/Cakes_and_Rolls/Britannia_Cake_Fudge_it_Chocolate_Brownie/jnjgoodoad3w5ezxcvob.jpg"
     ],
     "quantity": "120 g (3 x 40 g)",
-    "price": "₹49"
+    "price": "49"
   },
   {
     "name": "Sunfeast Dark Fantasy Yumfills Choco Pie",
@@ -9086,7 +9086,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750902/products/Sweet_Tooth/Cakes_and_Rolls/Sunfeast_Dark_Fantasy_Yumfills_Choco_Pie/anbbkchzbpyqn9ckslca.jpg"
     ],
     "quantity": "242 g",
-    "price": "₹90"
+    "price": "90"
   },
   {
     "name": "Winkies Chocolate Swiss Roll",
@@ -9098,7 +9098,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750901/products/Sweet_Tooth/Cakes_and_Rolls/Winkies_Chocolate_Swiss_Roll/owily0zkbm5ggx4y8nmh.jpg"
     ],
     "quantity": "165 g",
-    "price": "₹81"
+    "price": "81"
   },
   {
     "name": "Cadbury Dairy Milk Chocolate Bar",
@@ -9113,7 +9113,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750901/products/Sweet_Tooth/Chocolates/Cadbury_Dairy_Milk_Chocolate_Bar/wpdmlnrfhzdxo7a3eg5w.jpg"
     ],
     "quantity": "52 g",
-    "price": "₹53"
+    "price": "53"
   },
   {
     "name": "Cadbury Dairy Milk Silk Roast Almond Chocolate Bar 58 g",
@@ -9128,7 +9128,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750899/products/Sweet_Tooth/Chocolates/Cadbury_Dairy_Milk_Silk_Roast_Almond_Chocolate_Bar_58_g/hug3vlrya3nae3ixwirr.jpg"
     ],
     "quantity": "58 g",
-    "price": "₹90"
+    "price": "90"
   },
   {
     "name": "Nestle KitKat Crispy & Creamy 4 Finger Wafer Chocolate Bar (38.5 g)",
@@ -9143,7 +9143,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750900/products/Sweet_Tooth/Chocolates/Nestle_KitKat_Crispy_and_Creamy_4_Finger_Wafer_Chocolate_Bar_385_g/j534kmjhknmwdv1m8gut.jpg"
     ],
     "quantity": "38.5 g",
-    "price": "₹30"
+    "price": "30"
   },
   {
     "name": "Amul Real Mango Amrakhand",
@@ -9156,7 +9156,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750898/products/Sweet_Tooth/Flavoured_Yougurts/Amul_Real_Mango_Amrakhand/gr318pmfscypyxkz0jej.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹52"
+    "price": "52"
   },
   {
     "name": "Mother Dairy Raspberry Flavoured Yogurt",
@@ -9169,7 +9169,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750896/products/Sweet_Tooth/Flavoured_Yougurts/Mother_Dairy_Raspberry_Flavoured_Yogurt/joba8vczyqanlwsxbdwq.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹35"
+    "price": "35"
   },
   {
     "name": "Amul Gold Chocolate Ice Cream Cone",
@@ -9182,7 +9182,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750896/products/Sweet_Tooth/Ice_Cream_and_Frozen_Dessert/Amul_Gold_Chocolate_Ice_Cream_Cone/cj52qnlstk6hxw8cem4d.jpg"
     ],
     "quantity": "120 ml",
-    "price": "₹45"
+    "price": "45"
   },
   {
     "name": "Hocco Crunchy Dark Chocolate Bon Bon Ice Cream Stick",
@@ -9196,7 +9196,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750895/products/Sweet_Tooth/Ice_Cream_and_Frozen_Dessert/Hocco_Crunchy_Dark_Chocolate_Bon_Bon_Ice_Cream_Stick/qay6kajppxqzwrd9enf7.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Kwality Walls Magnum Almond Ice Cream Stick",
@@ -9210,7 +9210,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750895/products/Sweet_Tooth/Ice_Cream_and_Frozen_Dessert/Kwality_Walls_Magnum_Almond_Ice_Cream_Stick/dngw8s1t5gffdmnlgzza.jpg"
     ],
     "quantity": "80 ml",
-    "price": "₹99"
+    "price": "99"
   },
   {
     "name": "Open & Eat Gulab Jamun by Gits",
@@ -9223,7 +9223,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750894/products/Sweet_Tooth/Indian_Sweets/Open_and_Eat_Gulab_Jamun_by_Gits/k9w5dhxvugy3sca9cm4y.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Rabri by Amul",
@@ -9237,7 +9237,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750892/products/Sweet_Tooth/Indian_Sweets/Rabri_by_Amul/xczkuana5txat5vjmiog.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Vanilla & Chocolate Sugar-Free Laddu Eat Better Co",
@@ -9252,7 +9252,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750893/products/Sweet_Tooth/Indian_Sweets/Vanilla_and_Chocolate_SugarFree_Laddu_Eat_Better_Co/t1psmwkd3sxi99wi53fn.jpg"
     ],
     "quantity": "1 pack",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Abbie's Pure Maple Syrup",
@@ -9265,7 +9265,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750891/products/Sweet_Tooth/Syrups/Abbies_Pure_Maple_Syrup/hfhdgkzzz8yynmgkqvcs.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹975"
+    "price": "975"
   },
   {
     "name": "Hershey's Chocolate Syrup (623 g)",
@@ -9280,7 +9280,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750891/products/Sweet_Tooth/Syrups/Hersheys_Chocolate_Syrup_623_g/rvjosro0nutbjk0vyth9.jpg"
     ],
     "quantity": "623 g",
-    "price": "₹238"
+    "price": "238"
   },
   {
     "name": "Continental Xtra Instant Coffee",
@@ -9295,7 +9295,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750890/products/Tea_Coffee_and_Health_Drink/Coffee/Continental_Xtra_Instant_Coffee/lcv2k0yqtroi6mhwu3w5.jpg"
     ],
     "quantity": "50 g",
-    "price": "₹97"
+    "price": "97"
   },
   {
     "name": "iD Instant Coffee Powde",
@@ -9309,7 +9309,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750887/products/Tea_Coffee_and_Health_Drink/Coffee/iD_Instant_Coffee_Powde/z4mrejyyaunflpjnztyk.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Nescafe Classic - Instant Coffee",
@@ -9325,7 +9325,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750889/products/Tea_Coffee_and_Health_Drink/Coffee/Nescafe_Classic__Instant_Coffee/znjsnuswh05njv0lgstw.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Nescafe Gold Cappuccino Coffee Premix",
@@ -9340,7 +9340,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750888/products/Tea_Coffee_and_Health_Drink/Coffee/Nescafe_Gold_Cappuccino_Coffee_Premix/vbzstrkogy8on0f9rnvd.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "Nescafe Gold Choco Mocha Coffee Premix (5 Sachets)",
@@ -9356,7 +9356,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750886/products/Tea_Coffee_and_Health_Drink/Coffee/Nescafe_Gold_Choco_Mocha_Coffee_Premix_5_Sachets/irxsmuhbrg37h96hvb2j.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹250"
+    "price": "250"
   },
   {
     "name": "Good Trip Lemon Real Brewed Iced Tea",
@@ -9371,7 +9371,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750885/products/Tea_Coffee_and_Health_Drink/Cold_Coffee_and_Ice_Tea/Good_Trip_Lemon_Real_Brewed_Iced_Tea/fdz62yswh1gjfkea9qoy.jpg"
     ],
     "quantity": "300 ml",
-    "price": "₹80"
+    "price": "80"
   },
   {
     "name": "Nescafe Choco Mocha Cold Coffee",
@@ -9393,7 +9393,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751182/products/Cold_Drinks_and_Juices/Cold_Coffee_and_Ice_Tea/Nescafe_Choco_Mocha_Cold_Coffee/l88znt2adskph5zazpub.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Nestea Lemon Flavour Iced Tea (Ready to Drink)",
@@ -9409,7 +9409,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750883/products/Tea_Coffee_and_Health_Drink/Cold_Coffee_and_Ice_Tea/Nestea_Lemon_Flavour_Iced_Tea_Ready_to_Drink/v9jemw9lkulirvwfb4le.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹300"
+    "price": "300"
   },
   {
     "name": "Sleepy Owl Hazelnut Cold Coffee Made with Cold Brew",
@@ -9425,7 +9425,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750881/products/Tea_Coffee_and_Health_Drink/Cold_Coffee_and_Ice_Tea/Sleepy_Owl_Hazelnut_Cold_Coffee_Made_with_Cold_Brew/nmlvoep8vvmrm1abgroq.jpg"
     ],
     "quantity": "200 ml",
-    "price": "₹118"
+    "price": "118"
   },
   {
     "name": "Fast&Up Reload Energy Drink Electrolyte - Cola Flavour Effervescent Tablets",
@@ -9441,7 +9441,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750879/products/Tea_Coffee_and_Health_Drink/Energy_Drinks/FastandUp_Reload_Energy_Drink_Electrolyte__Cola_Flavour_Effervescent_Tablets/szwm6f4vbp1erttbvkvc.jpg"
     ],
     "quantity": "1 unit",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Glucon-D Nimbu Pani Instant Energy Drink Mix",
@@ -9456,7 +9456,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750880/products/Tea_Coffee_and_Health_Drink/Energy_Drinks/GluconD_Nimbu_Pani_Instant_Energy_Drink_Mix/pnlmamfhntpeivzkugks.jpg"
     ],
     "quantity": "250 ml",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Tang Instant Drink Mix - Lemon (500 g)",
@@ -9472,7 +9472,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750878/products/Tea_Coffee_and_Health_Drink/Energy_Drinks/Tang_Instant_Drink_Mix__Lemon_500_g/rouip1xiyq6d2rj9axut.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹165"
+    "price": "165"
   },
   {
     "name": "B Natural Orange Juice - Pack of 2",
@@ -9494,7 +9494,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731751170/products/Cold_Drinks_and_Juices/Fruits_Juices/B_Natural_Orange_Juice__Pack_of_2/echzmcdlzp7e2xamyetd.jpg"
     ],
     "quantity": "2 x 1 l",
-    "price": "₹140"
+    "price": "140"
   },
   {
     "name": "paper boat Aamras Mango Drink - Pack of 2",
@@ -9510,7 +9510,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750876/products/Tea_Coffee_and_Health_Drink/Fruit_Juices/paper_boat_Aamras_Mango_Drink__Pack_of_2/x39dmidjjber0kqzl9cv.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹350"
+    "price": "350"
   },
   {
     "name": "paper boat Jamun, Fruit Juice (Zero Sugar Low-Calorie)",
@@ -9525,7 +9525,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750875/products/Tea_Coffee_and_Health_Drink/Fruit_Juices/paper_boat_Jamun_Fruit_Juice_Zero_Sugar_LowCalorie/kv2qqkfqtqdxvssk614p.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹200"
+    "price": "200"
   },
   {
     "name": "Lipton Honey Lemon Green Tea Bags (25 units)",
@@ -9539,7 +9539,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750874/products/Tea_Coffee_and_Health_Drink/Green_and_Flavoured_Tea/Lipton_Honey_Lemon_Green_Tea_Bags_25_units/k0qjnuuoq19ryza5xpzs.jpg"
     ],
     "quantity": "25 pieces",
-    "price": "₹158"
+    "price": "158"
   },
   {
     "name": "Lipton Loose Green Tea",
@@ -9555,7 +9555,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750873/products/Tea_Coffee_and_Health_Drink/Green_and_Flavoured_Tea/Lipton_Loose_Green_Tea/qtxiddjonnfy509xm5qo.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹165"
+    "price": "165"
   },
   {
     "name": "Tetley Lemon & Honey Green Tea Bags",
@@ -9571,7 +9571,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750872/products/Tea_Coffee_and_Health_Drink/Green_and_Flavoured_Tea/Tetley_Lemon_and_Honey_Green_Tea_Bags/jb7bdtfifqojqdb3hwre.jpg"
     ],
     "quantity": "25 pieces",
-    "price": "₹135"
+    "price": "135"
   },
   {
     "name": "Cadbury Hot Chocolate Drink Powder Mix",
@@ -9585,7 +9585,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750871/products/Tea_Coffee_and_Health_Drink/Hot_Chocolate/Cadbury_Hot_Chocolate_Drink_Powder_Mix/ajdglf8iylux6pp01coq.jpg"
     ],
     "quantity": "200 g",
-    "price": "₹184"
+    "price": "184"
   },
   {
     "name": "Cocosutra Hazelnut Hot Chocolate - Pack of 2",
@@ -9601,7 +9601,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750870/products/Tea_Coffee_and_Health_Drink/Hot_Chocolate/Cocosutra_Hazelnut_Hot_Chocolate__Pack_of_2/ijhbtejxcfkjun28mobf.jpg"
     ],
     "quantity": "500 g",
-    "price": "₹100"
+    "price": "100"
   },
   {
     "name": "Cocosutra Swiss Vanilla Hot Chocolate",
@@ -9617,7 +9617,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750869/products/Tea_Coffee_and_Health_Drink/Hot_Chocolate/Cocosutra_Swiss_Vanilla_Hot_Chocolate/doesdagzyd1afncktfek.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹170"
+    "price": "170"
   },
   {
     "name": "Davidoff Brazil Instant Coffee (Rich & Balanced)",
@@ -9631,7 +9631,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750868/products/Tea_Coffee_and_Health_Drink/Imported_Tea_and_Coffee/Davidoff_Brazil_Instant_Coffee_Rich_and_Balanced/k3heomp4dxxiqcpnlzln.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹810"
+    "price": "810"
   },
   {
     "name": "Davidoff Fine Aroma Instant Coffee",
@@ -9644,7 +9644,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750867/products/Tea_Coffee_and_Health_Drink/Imported_Tea_and_Coffee/Davidoff_Fine_Aroma_Instant_Coffee/gxtjhjvus3k0qurmc7wx.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹649"
+    "price": "649"
   },
   {
     "name": "Davidoff Rich Aroma Instant Coffee",
@@ -9657,7 +9657,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750866/products/Tea_Coffee_and_Health_Drink/Imported_Tea_and_Coffee/Davidoff_Rich_Aroma_Instant_Coffee/imnkyoozdmoip0for8fs.jpg"
     ],
     "quantity": "100 g",
-    "price": "₹549"
+    "price": "549"
   },
   {
     "name": "Brooke Bond Red Label Natural Care Tea",
@@ -9672,7 +9672,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750865/products/Tea_Coffee_and_Health_Drink/Tea/Brooke_Bond_Red_Label_Natural_Care_Tea/lhof27tixxzwy63bsxyn.jpg"
     ],
     "quantity": "1 kg",
-    "price": "₹600"
+    "price": "600"
   },
   {
     "name": "Brooke Bond Taaza Tea 250 g",
@@ -9686,7 +9686,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750864/products/Tea_Coffee_and_Health_Drink/Tea/Brooke_Bond_Taaza_Tea_250_g/l7sd3vmtjesh95gp5k93.jpg"
     ],
     "quantity": "3 pieces",
-    "price": "₹150"
+    "price": "150"
   },
   {
     "name": "Brooke Bond Taj Mahal Tea 250 g",
@@ -9702,7 +9702,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750863/products/Tea_Coffee_and_Health_Drink/Tea/Brooke_Bond_Taj_Mahal_Tea_250_g/p2cetlgo72nteoisabid.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹180"
+    "price": "180"
   },
   {
     "name": "Society Tea",
@@ -9716,7 +9716,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750863/products/Tea_Coffee_and_Health_Drink/Tea/Society_Tea/l0lddt00pfx1bcecfmiv.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹138"
+    "price": "138"
   },
   {
     "name": "Tata Tea Agni Special Blend Tea",
@@ -9731,7 +9731,7 @@ export const products = [
       "https://res.cloudinary.com/da41fzsmk/image/upload/v1731750862/products/Tea_Coffee_and_Health_Drink/Tea/Tata_Tea_Agni_Special_Blend_Tea/lc8ckyde0wtvonqa6lz5.jpg"
     ],
     "quantity": "250 g",
-    "price": "₹53"
+    "price": "53"
   }
 ]
 
